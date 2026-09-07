@@ -8,7 +8,8 @@
     "robinhood",
     "ethereum",
     "base",
-    "solana"
+    "solana",
+    "bsc"
   ],
   "threshold_usd": 10000,
   "buy_alert_usd": 5000,
@@ -32,6 +33,7 @@
   "chains_checked": [
     "arbitrum",
     "base",
+    "bsc",
     "ethereum",
     "robinhood",
     "solana"
