@@ -1,215 +1,4212 @@
 {
   "version": 3,
-  "updated": "2026-09-08T07:23:12.567792+00:00",
+  "updated": "2026-09-08T08:24:53.837829+00:00",
   "holdings": {
     "robinhood:0x39b337121494b10cffe3e581ab3281b2d62c5b08": {
-      "0x56910d4409f3a0c78c64dd8d0545ff0705389870": {
-        "symbol": "INDEX",
-        "amount": 11280.679084690095,
-        "contract": "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
-        "price": 0.0362,
-        "usd": 408.36058286578145
-      },
-      "0xe113b41ea002d61a3eaaaf498718750e13b4b2b4": {
-        "symbol": "JAGGERNAUT",
-        "amount": 2.222,
-        "contract": "0xe113b41ea002d61a3eaaaf498718750e13b4b2b4",
-        "price": null,
-        "usd": null
-      },
-      "0xb9031ddc4862df3048dc2a06e230dc1c984d9421": {
-        "symbol": "HOODMAXXING",
-        "amount": 15.0,
-        "contract": "0xb9031ddc4862df3048dc2a06e230dc1c984d9421",
-        "price": null,
-        "usd": null
-      },
-      "0xaf3d76f1834a1d425780943c99ea8a608f8a93f9": {
-        "symbol": "AAPL",
-        "amount": 0.004461586967743203,
-        "contract": "0xaf3d76f1834a1d425780943c99ea8a608f8a93f9",
-        "price": 319.15,
-        "usd": 1.4239154807552432
-      },
-      "0x86923f96303d656e4aa86d9d42d1e57ad2023fdc": {
-        "symbol": "AMD",
-        "amount": 0.00018887599642379408,
-        "contract": "0x86923f96303d656e4aa86d9d42d1e57ad2023fdc",
-        "price": 483.89,
-        "usd": 0.09139520590950971
-      },
-      "0x12f190a9f9d7d37a250758b26824b97ce941bf54": {
-        "symbol": "AMZN",
-        "amount": 0.003495559332704452,
-        "contract": "0x12f190a9f9d7d37a250758b26824b97ce941bf54",
-        "price": 257.98,
-        "usd": 0.9017843966510947
-      },
-      "0x822cc93ffd030293e9842c30bbd678f530701867": {
-        "symbol": "BE",
-        "amount": 0.00040941068748449714,
-        "contract": "0x822cc93ffd030293e9842c30bbd678f530701867",
-        "price": 268.3,
-        "usd": 0.10984488745209059
-      },
-      "0x6330d8c3178a418788df01a47479c0ce7ccf450b": {
-        "symbol": "COIN",
-        "amount": 0.0005692157013222401,
-        "contract": "0x6330d8c3178a418788df01a47479c0ce7ccf450b",
-        "price": 182.079,
-        "usd": 0.10364222568105215
-      },
-      "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3": {
-        "symbol": "CRWV",
-        "amount": 0.0011972457680474316,
-        "contract": "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3",
-        "price": 90.8,
-        "usd": 0.1087099157387068
-      },
-      "0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3": {
-        "symbol": "GOOGL",
-        "amount": 0.0024390849751903965,
-        "contract": "0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3",
-        "price": 337.066,
-        "usd": 0.8221326162475261
-      },
-      "0xc72b96e0e48ecd4dc75e1e45396e26300bc39681": {
-        "symbol": "INTC",
-        "amount": 0.0009031083791898665,
-        "contract": "0xc72b96e0e48ecd4dc75e1e45396e26300bc39681",
-        "price": 99.4,
-        "usd": 0.08976897289147273
-      },
-      "0xc0d6457c16cc70d6790dd43521c899c87ce02f35": {
-        "symbol": "META",
-        "amount": 0.0008809650050504078,
-        "contract": "0xc0d6457c16cc70d6790dd43521c899c87ce02f35",
-        "price": 612.75,
-        "usd": 0.5398113068446374
-      },
-      "0xe93237c50d904957cf27e7b1133b510c669c2e74": {
-        "symbol": "MSFT",
-        "amount": 0.0035111815779871594,
-        "contract": "0xe93237c50d904957cf27e7b1133b510c669c2e74",
-        "price": 496.99,
-        "usd": 1.7450221324438384
-      },
-      "0xff080c8ce2e5feadaca0da81314ae59d232d4afd": {
-        "symbol": "MU",
-        "amount": 9.912624383085598e-05,
-        "contract": "0xff080c8ce2e5feadaca0da81314ae59d232d4afd",
-        "price": 1039.15,
-        "usd": 0.103007036276834
-      },
-      "0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec": {
-        "symbol": "NVDA",
-        "amount": 0.00819899314692992,
-        "contract": "0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec",
-        "price": 231.65,
-        "usd": 1.899296762486316
-      },
-      "0xb0992820e760d836549ba69bc7598b4af75dee03": {
-        "symbol": "ORCL",
-        "amount": 0.0018825649732143624,
-        "contract": "0xb0992820e760d836549ba69bc7598b4af75dee03",
-        "price": 163.93,
-        "usd": 0.3086088760590304
-      },
-      "0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a": {
-        "symbol": "PLTR",
-        "amount": 0.0011906206894422417,
-        "contract": "0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a",
-        "price": 175.01,
-        "usd": 0.2083705268592867
-      },
-      "0xb90a19ff0af67f7779aff50a882a9cff42446400": {
-        "symbol": "SNDK",
-        "amount": 3.2169075537416e-05,
-        "contract": "0xb90a19ff0af67f7779aff50a882a9cff42446400",
-        "price": 1768.33,
-        "usd": 0.05688554134507883
-      },
-      "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea": {
-        "symbol": "SPCX",
-        "amount": 0.005468061694131196,
-        "contract": "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea",
-        "price": 149.25,
-        "usd": 0.816108207849081
-      },
-      "0x322f0929c4625ed5bad873c95208d54e1c003b2d": {
-        "symbol": "TSLA",
-        "amount": 0.0013024610674641508,
-        "contract": "0x322f0929c4625ed5bad873c95208d54e1c003b2d",
-        "price": 355.49,
-        "usd": 0.46301188487283096
-      },
-      "0xd917b029c761d264c6a312bbbcda868658ef86a6": {
-        "symbol": "USAR",
-        "amount": 0.005399113866471064,
-        "contract": "0xd917b029c761d264c6a312bbbcda868658ef86a6",
-        "price": 17.64,
-        "usd": 0.09524036860454957
+      "native": {
+        "symbol": "ETH",
+        "amount": 0.0,
+        "contract": "native",
+        "price": 2473.99,
+        "usd": 0.0
       },
       "0x39dbed3a2bd333467115de45665cc57f813c4571": {
         "symbol": "PONS",
-        "amount": 1744625.3247088522,
+        "amount": 1556660.1898564901,
         "contract": "0x39dbed3a2bd333467115de45665cc57f813c4571",
-        "price": 0.7239,
-        "usd": 1262934.272556738
+        "price": 0.732276,
+        "usd": 1139904.8971873512
       },
-      "0xaab3d2e25869dd9661e7a886b9a51c02ee6c7777": {
-        "symbol": "PACKZ",
-        "amount": 3.725290298461914e-09,
-        "contract": "0xaab3d2e25869dd9661e7a886b9a51c02ee6c7777",
-        "price": 6.561e-06,
-        "usd": 2.444162964820862e-14
+      "0x385f4f8ae47651ce5f58f5265395a669f8281e18": {
+        "symbol": "AMC",
+        "amount": 5167355.647105221,
+        "contract": "0x385f4f8ae47651ce5f58f5265395a669f8281e18",
+        "price": 0.098765,
+        "usd": 510353.88048634713
+      },
+      "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18": {
+        "symbol": "AI",
+        "amount": 1847018.393332717,
+        "contract": "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+        "price": 0.231489,
+        "usd": 427564.4408541973
+      },
+      "0xd9db30bb0d2b8d2eae3826a1372117e058791e18": {
+        "symbol": "MOO",
+        "amount": 8280056.431870029,
+        "contract": "0xd9db30bb0d2b8d2eae3826a1372117e058791e18",
+        "price": 0.028016,
+        "usd": 231974.06099527073
+      },
+      "0xd4aae326ddd1a2537a92c00e6576e4605e5d1e18": {
+        "symbol": "AU",
+        "amount": 16818336.749544382,
+        "contract": "0xd4aae326ddd1a2537a92c00e6576e4605e5d1e18",
+        "price": 0.00151255,
+        "usd": 25438.575250523358
+      },
+      "0xe4b8723d202fdd0298b1d7496a86656b2986c532": {
+        "symbol": "RIP",
+        "amount": 11343944.56541487,
+        "contract": "0xe4b8723d202fdd0298b1d7496a86656b2986c532",
+        "price": 0.00094265,
+        "usd": 10693.369344588327
+      },
+      "0xca3ce24fb1a6e7db0003f9c785405a851e3f1e18": {
+        "symbol": "KPOP",
+        "amount": 4110457.929069704,
+        "contract": "0xca3ce24fb1a6e7db0003f9c785405a851e3f1e18",
+        "price": 9.32e-05,
+        "usd": 383.0946789892964
+      },
+      "0x1d11f0496982706c5e14a514d4e79f2e6bde4516": {
+        "symbol": "DJT",
+        "amount": 0.9363520770971371,
+        "contract": "0x1d11f0496982706c5e14a514d4e79f2e6bde4516",
+        "price": 8.95,
+        "usd": 8.380351090019376
+      },
+      "0x5e81213613b6b86eab4c6c50d718d34359459786": {
+        "symbol": "TTWO",
+        "amount": 0.022872080721475434,
+        "contract": "0x5e81213613b6b86eab4c6c50d718d34359459786",
+        "price": 214.99,
+        "usd": 4.917268634310004
+      },
+      "0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3": {
+        "symbol": "GOOGL",
+        "amount": 0.003658000867888225,
+        "contract": "0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3",
+        "price": 337.0,
+        "usd": 1.232746292478332
+      },
+      "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea": {
+        "symbol": "SPCX",
+        "amount": 0.008058212671738244,
+        "contract": "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea",
+        "price": 148.97,
+        "usd": 1.200431941708846
+      },
+      "0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8": {
+        "symbol": "NFLX",
+        "amount": 0.013520034484853572,
+        "contract": "0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8",
+        "price": 77.71,
+        "usd": 1.050641879817971
+      },
+      "0xc0d6457c16cc70d6790dd43521c899c87ce02f35": {
+        "symbol": "META",
+        "amount": 0.001353924717125218,
+        "contract": "0xc0d6457c16cc70d6790dd43521c899c87ce02f35",
+        "price": 612.01,
+        "usd": 0.8286154661278047
+      },
+      "0x322f0929c4625ed5bad873c95208d54e1c003b2d": {
+        "symbol": "TSLA",
+        "amount": 0.002016422708407143,
+        "contract": "0x322f0929c4625ed5bad873c95208d54e1c003b2d",
+        "price": 355.34,
+        "usd": 0.7165156452053942
+      },
+      "0xe36dc5d02bdbf9601c9aba190411bbc8a6ff425f": {
+        "symbol": "UPTOBER",
+        "amount": 4450.261780104712,
+        "contract": "0xe36dc5d02bdbf9601c9aba190411bbc8a6ff425f",
+        "price": 0.00015069,
+        "usd": 0.6706099476439791
+      },
+      "0xaf3d76f1834a1d425780943c99ea8a608f8a93f9": {
+        "symbol": "AAPL",
+        "amount": 0.001902000187450467,
+        "contract": "0xaf3d76f1834a1d425780943c99ea8a608f8a93f9",
+        "price": 319.23,
+        "usd": 0.6071755198398127
+      },
+      "0xb0992820e760d836549ba69bc7598b4af75dee03": {
+        "symbol": "ORCL",
+        "amount": 0.002684071206922134,
+        "contract": "0xb0992820e760d836549ba69bc7598b4af75dee03",
+        "price": 162.21,
+        "usd": 0.43538319047483937
+      },
+      "0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a": {
+        "symbol": "PLTR",
+        "amount": 0.001648975133959297,
+        "contract": "0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a",
+        "price": 173.67,
+        "usd": 0.2863775115147111
+      },
+      "0x020bfc650a365f8bb26819deaabf3e21291018b4": {
+        "symbol": "CASHCAT",
+        "amount": 1.0,
+        "contract": "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+        "price": 0.182687,
+        "usd": 0.182687
+      },
+      "0x822cc93ffd030293e9842c30bbd678f530701867": {
+        "symbol": "BE",
+        "amount": 0.000584382123974015,
+        "contract": "0x822cc93ffd030293e9842c30bbd678f530701867",
+        "price": 269.27,
+        "usd": 0.157356574522483
+      },
+      "0x6330d8c3178a418788df01a47479c0ce7ccf450b": {
+        "symbol": "COIN",
+        "amount": 0.000835256548154153,
+        "contract": "0x6330d8c3178a418788df01a47479c0ce7ccf450b",
+        "price": 182.69,
+        "usd": 0.1525930187822822
+      },
+      "0xff080c8ce2e5feadaca0da81314ae59d232d4afd": {
+        "symbol": "MU",
+        "amount": 0.000141294269522172,
+        "contract": "0xff080c8ce2e5feadaca0da81314ae59d232d4afd",
+        "price": 1038.98,
+        "usd": 0.14680192014814628
+      },
+      "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3": {
+        "symbol": "CRWV",
+        "amount": 0.001609230545271686,
+        "contract": "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3",
+        "price": 89.35,
+        "usd": 0.14378474922002513
+      },
+      "0x86923f96303d656e4aa86d9d42d1e57ad2023fdc": {
+        "symbol": "AMD",
+        "amount": 0.000275804612719468,
+        "contract": "0x86923f96303d656e4aa86d9d42d1e57ad2023fdc",
+        "price": 485.14,
+        "usd": 0.13380384981472268
+      },
+      "0xd917b029c761d264c6a312bbbcda868658ef86a6": {
+        "symbol": "USAR",
+        "amount": 0.007517215722167176,
+        "contract": "0xd917b029c761d264c6a312bbbcda868658ef86a6",
+        "price": 17.69,
+        "usd": 0.13297954612513735
+      },
+      "0xc72b96e0e48ecd4dc75e1e45396e26300bc39681": {
+        "symbol": "INTC",
+        "amount": 0.001297894642161499,
+        "contract": "0xc72b96e0e48ecd4dc75e1e45396e26300bc39681",
+        "price": 99.15,
+        "usd": 0.12868625377031265
+      },
+      "0x1e0aaaf3fdb5c0de3574d215e7081177ec0f96a3": {
+        "symbol": "AI",
+        "amount": 100.001,
+        "contract": "0x1e0aaaf3fdb5c0de3574d215e7081177ec0f96a3",
+        "price": 0.00105776,
+        "usd": 0.10577705776000002
+      },
+      "0xb90a19ff0af67f7779aff50a882a9cff42446400": {
+        "symbol": "SNDK",
+        "amount": 5.7344223074098e-05,
+        "contract": "0xb90a19ff0af67f7779aff50a882a9cff42446400",
+        "price": 1764.71,
+        "usd": 0.10119592390109147
+      },
+      "0xf0e17e54239cd945cd7bea471a3a2ca6a8c7f7a3": {
+        "symbol": "LEMON",
+        "amount": 5.95,
+        "contract": "0xf0e17e54239cd945cd7bea471a3a2ca6a8c7f7a3",
+        "price": 0.00049573,
+        "usd": 0.0029495935
+      },
+      "0xec262a75e413fafd0df80480274532c79d42da09": {
+        "symbol": "MSTR",
+        "amount": 2.0492101099249e-05,
+        "contract": "0xec262a75e413fafd0df80480274532c79d42da09",
+        "price": 139.62,
+        "usd": 0.002861107155477146
       },
       "0x66cef844f82a461444621f1fcb53efa9ed6dee18": {
         "symbol": "TENOV",
         "amount": 5.0,
         "contract": "0x66cef844f82a461444621f1fcb53efa9ed6dee18",
-        "price": 3.354e-05,
-        "usd": 0.0001677
+        "price": 3.397e-05,
+        "usd": 0.00016985
       },
-      "0x167dadf3a3665953c2de2fab0e69d27af8064663": {
-        "symbol": "BIRD",
-        "amount": 1000.0,
-        "contract": "0x167dadf3a3665953c2de2fab0e69d27af8064663",
+      "0x0c1ed62d7811e5b437e537ac9d0592469c119c74": {
+        "symbol": "DIH",
+        "amount": 3.0,
+        "contract": "0x0c1ed62d7811e5b437e537ac9d0592469c119c74",
+        "price": 2.032e-05,
+        "usd": 6.096e-05
+      },
+      "0x514397577695035bbe89393983c6750746fb6b8b": {
+        "symbol": "PROPPED",
+        "amount": 81304335.29113805,
+        "contract": "0x514397577695035bbe89393983c6750746fb6b8b",
         "price": null,
         "usd": null
       },
-      "0x022c88cda40224a79679709829ba1fb6b1a1e4cc": {
-        "symbol": "APPLCAT",
-        "amount": 30.0,
-        "contract": "0x022c88cda40224a79679709829ba1fb6b1a1e4cc",
+      "0xe81498713e56e34fa4cd97e22052bfc101364a43": {
+        "symbol": "AUPE",
+        "amount": 71230567.27575281,
+        "contract": "0xe81498713e56e34fa4cd97e22052bfc101364a43",
         "price": null,
         "usd": null
       },
-      "0x001d1bc2b33cc867c3325d8972c39199925c6253": {
-        "symbol": "AIRBNB",
-        "amount": 21413192.07717239,
-        "contract": "0x001d1bc2b33cc867c3325d8972c39199925c6253",
+      "0x0a0bd628f28a31e9c329eb9044c8f5351b0dc610": {
+        "symbol": "NFAI",
+        "amount": 65555423.73582661,
+        "contract": "0x0a0bd628f28a31e9c329eb9044c8f5351b0dc610",
         "price": null,
         "usd": null
       },
-      "0x2e911d81874c52a4e2fbcff38661cfe0185457be": {
-        "symbol": "SPCX690",
-        "amount": 5.0,
-        "contract": "0x2e911d81874c52a4e2fbcff38661cfe0185457be",
-        "price": 0.0001764,
-        "usd": 0.000882
-      },
-      "0xf8383496254db6b3670be82b3e6e85e90148852c": {
-        "symbol": "HPENG",
-        "amount": 5.0,
-        "contract": "0xf8383496254db6b3670be82b3e6e85e90148852c",
+      "0x5001959167f83dd30304c89a98c03072b4fc3921": {
+        "symbol": "ROAR",
+        "amount": 64625304.998104654,
+        "contract": "0x5001959167f83dd30304c89a98c03072b4fc3921",
         "price": null,
         "usd": null
       },
-      "0x56f6e4a3af7923671055e6841570419e8a5171ca": {
-        "symbol": "VAULTS",
-        "amount": 69.0,
-        "contract": "0x56f6e4a3af7923671055e6841570419e8a5171ca",
+      "0x62a520e0ff95654166e4406282d485e282a2290a": {
+        "symbol": "LIGMA",
+        "amount": 62007050.50960271,
+        "contract": "0x62a520e0ff95654166e4406282d485e282a2290a",
+        "price": null,
+        "usd": null
+      },
+      "0x8d227c5d31533a918552ce98c5851efe2ce3d0e5": {
+        "symbol": "MIM",
+        "amount": 57696775.68925199,
+        "contract": "0x8d227c5d31533a918552ce98c5851efe2ce3d0e5",
+        "price": null,
+        "usd": null
+      },
+      "0x5e1387d028cbcdfdca8044177e4041b21b0f54b5": {
+        "symbol": "BLASTAR",
+        "amount": 57411768.18418218,
+        "contract": "0x5e1387d028cbcdfdca8044177e4041b21b0f54b5",
+        "price": null,
+        "usd": null
+      },
+      "0x15919463ecda89bdd28b5dae9d10d9b8aaf5c166": {
+        "symbol": "NI",
+        "amount": 56926337.54716863,
+        "contract": "0x15919463ecda89bdd28b5dae9d10d9b8aaf5c166",
+        "price": null,
+        "usd": null
+      },
+      "0x71e2e6675c7d7b9bdccba33d30fd44267d987b17": {
+        "symbol": "CASHCOW",
+        "amount": 56874181.358860776,
+        "contract": "0x71e2e6675c7d7b9bdccba33d30fd44267d987b17",
+        "price": null,
+        "usd": null
+      },
+      "0x64db5eeb363c2ed7ba936518814b677ae6d9a37f": {
+        "symbol": "AGAIN",
+        "amount": 56509520.884913854,
+        "contract": "0x64db5eeb363c2ed7ba936518814b677ae6d9a37f",
+        "price": null,
+        "usd": null
+      },
+      "0x961b18413f1b00ab3ab5aa2057e9dacc099dd0a7": {
+        "symbol": "MEME",
+        "amount": 56304391.55318323,
+        "contract": "0x961b18413f1b00ab3ab5aa2057e9dacc099dd0a7",
+        "price": null,
+        "usd": null
+      },
+      "0xd728fcedf2fa3a4dfc5d4046e9ea44ff8e1861c5": {
+        "symbol": "CRIBS",
+        "amount": 55496201.83924271,
+        "contract": "0xd728fcedf2fa3a4dfc5d4046e9ea44ff8e1861c5",
+        "price": null,
+        "usd": null
+      },
+      "0xf4991a9ba5ceac4ff5bb82d9cfb58317458f02c2": {
+        "symbol": "RICHDAD",
+        "amount": 55166886.52357861,
+        "contract": "0xf4991a9ba5ceac4ff5bb82d9cfb58317458f02c2",
+        "price": null,
+        "usd": null
+      },
+      "0xc085b35742b7fe5571ff9ed1d71b76b42d3f1a3d": {
+        "symbol": "WSB",
+        "amount": 55115689.85447278,
+        "contract": "0xc085b35742b7fe5571ff9ed1d71b76b42d3f1a3d",
+        "price": null,
+        "usd": null
+      },
+      "0xd03e552c58b992930b8c5d9bb9fa96635348a71c": {
+        "symbol": "Meowpin",
+        "amount": 50531743.29628987,
+        "contract": "0xd03e552c58b992930b8c5d9bb9fa96635348a71c",
+        "price": null,
+        "usd": null
+      },
+      "0x8917cb9de22db30870b95da1bb4260655743f37b": {
+        "symbol": "Groyper",
+        "amount": 36985924.74753293,
+        "contract": "0x8917cb9de22db30870b95da1bb4260655743f37b",
+        "price": null,
+        "usd": null
+      },
+      "0xfdfce2e533f84993cc974dc8a8ba43144eb3aac4": {
+        "symbol": "GOONER",
+        "amount": 29152884.05657145,
+        "contract": "0xfdfce2e533f84993cc974dc8a8ba43144eb3aac4",
+        "price": null,
+        "usd": null
+      },
+      "0x8e1fb3f2be16737381d4f8e5fa5242209e676d72": {
+        "symbol": "富贵",
+        "amount": 29068890.09230679,
+        "contract": "0x8e1fb3f2be16737381d4f8e5fa5242209e676d72",
+        "price": null,
+        "usd": null
+      },
+      "0x0b11c1df659a497caa76ebebccab86ca18176a1f": {
+        "symbol": "GOONER",
+        "amount": 29019344.086703666,
+        "contract": "0x0b11c1df659a497caa76ebebccab86ca18176a1f",
+        "price": null,
+        "usd": null
+      },
+      "0x4b96f84c2ea0ec9e47bb7416f426a0c732b8859c": {
+        "symbol": "FTFT",
+        "amount": 28972732.735366885,
+        "contract": "0x4b96f84c2ea0ec9e47bb7416f426a0c732b8859c",
+        "price": null,
+        "usd": null
+      },
+      "0x73114abd7dcf37000d90d8de9fd1de3957b17c04": {
+        "symbol": "BIGLY",
+        "amount": 26241426.821428776,
+        "contract": "0x73114abd7dcf37000d90d8de9fd1de3957b17c04",
+        "price": 0.0002417,
+        "usd": 6342.552862739335
+      },
+      "0xc97d697b6ec9e14d031812b8897f55111adc939f": {
+        "symbol": "SCHIFFY",
+        "amount": 24635128.920306075,
+        "contract": "0xc97d697b6ec9e14d031812b8897f55111adc939f",
+        "price": null,
+        "usd": null
+      },
+      "0x48dc7cac0c77fdda9ce107ffaa1780930afc24cc": {
+        "symbol": "JANITOR",
+        "amount": 18811371.651469592,
+        "contract": "0x48dc7cac0c77fdda9ce107ffaa1780930afc24cc",
+        "price": 3.746e-05,
+        "usd": 704.6739820640508
+      },
+      "0x1a911bb954daa9cb38513423075be74450351e18": {
+        "symbol": "MONITOR",
+        "amount": 16798030.83102279,
+        "contract": "0x1a911bb954daa9cb38513423075be74450351e18",
+        "price": 0.001146,
+        "usd": 19250.54333235212
+      },
+      "0xc798bdc886102adef7936c5927162904093e2401": {
+        "symbol": "BEE",
+        "amount": 13864469.804361722,
+        "contract": "0xc798bdc886102adef7936c5927162904093e2401",
+        "price": null,
+        "usd": null
+      },
+      "0xbd0b2697cc528a2af669e0ec53efa7e2ba66a909": {
+        "symbol": "TAM",
+        "amount": 13175722.693301292,
+        "contract": "0xbd0b2697cc528a2af669e0ec53efa7e2ba66a909",
+        "price": 6.402e-06,
+        "usd": 84.35097668251487
+      },
+      "0x3940668d85682865bec70a2076da4cc4939acc55": {
+        "symbol": "RAP",
+        "amount": 12309559.403210225,
+        "contract": "0x3940668d85682865bec70a2076da4cc4939acc55",
+        "price": null,
+        "usd": null
+      },
+      "0xf9caa19ba4cb636acb60421c0bd21acc77d61e18": {
+        "symbol": "HENT",
+        "amount": 11753880.385796351,
+        "contract": "0xf9caa19ba4cb636acb60421c0bd21acc77d61e18",
+        "price": 0.0001016,
+        "usd": 1194.1942471969094
+      },
+      "0x30d00abba0ae99ca7cb6ec6643f58228b90c8e55": {
+        "symbol": "HAWK",
+        "amount": 11741354.634020792,
+        "contract": "0x30d00abba0ae99ca7cb6ec6643f58228b90c8e55",
+        "price": 1.45e-05,
+        "usd": 170.2496421933015
+      },
+      "0xdb0255efa7add1cb95fa04618ec92bd65835cb08": {
+        "symbol": "CARDDOG",
+        "amount": 11120552.784393013,
+        "contract": "0xdb0255efa7add1cb95fa04618ec92bd65835cb08",
+        "price": null,
+        "usd": null
+      },
+      "0x332692403970bf76704d1565261997ab027825f4": {
+        "symbol": "WOLF",
+        "amount": 11107780.819347434,
+        "contract": "0x332692403970bf76704d1565261997ab027825f4",
+        "price": null,
+        "usd": null
+      },
+      "0xba3dfc65f3e6dbdf8bb76a084b79377f1be8fc16": {
+        "symbol": "CATURN",
+        "amount": 10886407.546087036,
+        "contract": "0xba3dfc65f3e6dbdf8bb76a084b79377f1be8fc16",
+        "price": null,
+        "usd": null
+      },
+      "0x80fa4c67c805f262f6028e3706f183c0dd875a55": {
+        "symbol": "hectocorn",
+        "amount": 10750460.260303782,
+        "contract": "0x80fa4c67c805f262f6028e3706f183c0dd875a55",
+        "price": null,
+        "usd": null
+      },
+      "0xd18528b39da6464b3662c331a52181ecb15b1e18": {
+        "symbol": "SAYLORMOON",
+        "amount": 10400751.04228241,
+        "contract": "0xd18528b39da6464b3662c331a52181ecb15b1e18",
+        "price": 0.003215,
+        "usd": 33438.41460093795
+      },
+      "0xbe98b75361935b18d688409424a869a4c3dc7401": {
+        "symbol": "NUDES",
+        "amount": 10268758.501268748,
+        "contract": "0xbe98b75361935b18d688409424a869a4c3dc7401",
+        "price": 0.01546,
+        "usd": 158755.00642961485
+      },
+      "0x0eef1fece302a85e199deb7316f73d3facbc023b": {
+        "symbol": "HOODIFY",
+        "amount": 10111111.10111111,
+        "contract": "0x0eef1fece302a85e199deb7316f73d3facbc023b",
+        "price": null,
+        "usd": null
+      },
+      "0x9aeb410144051c28af4d2bae408fd3c73e941123": {
+        "symbol": "HOTDOG",
+        "amount": 9929086.441452552,
+        "contract": "0x9aeb410144051c28af4d2bae408fd3c73e941123",
+        "price": null,
+        "usd": null
+      },
+      "0xc9270ce5372d37c3ec9a908445725b4f9873d81b": {
+        "symbol": "JUGGERNAUT",
+        "amount": 9832017.087057255,
+        "contract": "0xc9270ce5372d37c3ec9a908445725b4f9873d81b",
+        "price": null,
+        "usd": null
+      },
+      "0x18242e68f051b7ead68f8db6f9a1929cf25caa6a": {
+        "symbol": "BABYOIL",
+        "amount": 9241114.253775815,
+        "contract": "0x18242e68f051b7ead68f8db6f9a1929cf25caa6a",
+        "price": null,
+        "usd": null
+      },
+      "0xd478c74b992b0d581a87fbac91e00106e54c74b7": {
+        "symbol": "UNC",
+        "amount": 9229469.540212322,
+        "contract": "0xd478c74b992b0d581a87fbac91e00106e54c74b7",
+        "price": null,
+        "usd": null
+      },
+      "0x56b581200f5d28b20d853f6827db79ff0096675c": {
+        "symbol": "AI",
+        "amount": 9063152.153980343,
+        "contract": "0x56b581200f5d28b20d853f6827db79ff0096675c",
+        "price": null,
+        "usd": null
+      },
+      "0x154b75024c4a8c33e5a42c1563b70f45b07c0996": {
+        "symbol": "KMS",
+        "amount": 8736662.397756288,
+        "contract": "0x154b75024c4a8c33e5a42c1563b70f45b07c0996",
+        "price": null,
+        "usd": null
+      },
+      "0xc342eaf7c623b6ff3625081cc8005588ebeec0f9": {
+        "symbol": "CARDDOG",
+        "amount": 8474182.262036622,
+        "contract": "0xc342eaf7c623b6ff3625081cc8005588ebeec0f9",
+        "price": null,
+        "usd": null
+      },
+      "0x13db65fd622e2113fef2ecec58a06ff34f624dee": {
+        "symbol": "FOMO",
+        "amount": 8000000.0,
+        "contract": "0x13db65fd622e2113fef2ecec58a06ff34f624dee",
+        "price": null,
+        "usd": null
+      },
+      "0x402de848c5722361f604974399e2f5e953509aa1": {
+        "symbol": "CRACK",
+        "amount": 7854646.809401256,
+        "contract": "0x402de848c5722361f604974399e2f5e953509aa1",
+        "price": 2.644e-05,
+        "usd": 207.67686164056923
+      },
+      "0x6813c751e59d4ad5a8f88c94e3a2cc1a8340f901": {
+        "symbol": "DUMBMONEY",
+        "amount": 6914662.88735068,
+        "contract": "0x6813c751e59d4ad5a8f88c94e3a2cc1a8340f901",
+        "price": null,
+        "usd": null
+      },
+      "0x7fbb7d5008e6ce504adbeb27f9ebb2e81534415b": {
+        "symbol": "AARTC",
+        "amount": 6796339.725367419,
+        "contract": "0x7fbb7d5008e6ce504adbeb27f9ebb2e81534415b",
+        "price": null,
+        "usd": null
+      },
+      "0x7a61761367071335de8a2d4ec49ff2c7bb2b0c80": {
+        "symbol": "PARTY",
+        "amount": 6756826.934596618,
+        "contract": "0x7a61761367071335de8a2d4ec49ff2c7bb2b0c80",
+        "price": null,
+        "usd": null
+      },
+      "0x55f76e101d00f22329556175206234c312c74801": {
+        "symbol": "GME",
+        "amount": 6662456.429470853,
+        "contract": "0x55f76e101d00f22329556175206234c312c74801",
+        "price": null,
+        "usd": null
+      },
+      "0x7b20000aa619e55604f272fc58d8eadfcd24c801": {
+        "symbol": "LOCKIN",
+        "amount": 6654431.608169718,
+        "contract": "0x7b20000aa619e55604f272fc58d8eadfcd24c801",
+        "price": null,
+        "usd": null
+      },
+      "0x98520d059db48f65e956da51f8f64673589e1701": {
+        "symbol": "Shoppy",
+        "amount": 6269222.282293104,
+        "contract": "0x98520d059db48f65e956da51f8f64673589e1701",
+        "price": 5.105e-06,
+        "usd": 32.0043797511063
+      },
+      "0x5261856b7f9d4dcad92ddf3f066d3ee145e8d463": {
+        "symbol": "MEAO",
+        "amount": 5831881.527846678,
+        "contract": "0x5261856b7f9d4dcad92ddf3f066d3ee145e8d463",
+        "price": null,
+        "usd": null
+      },
+      "0xa80ebb6d983d16e2c74ed5f8782c9e39e8a364ac": {
+        "symbol": "PNS500",
+        "amount": 5558165.014381785,
+        "contract": "0xa80ebb6d983d16e2c74ed5f8782c9e39e8a364ac",
+        "price": null,
+        "usd": null
+      },
+      "0x4ce5e562552baf5763a7245895d75b927d2fff01": {
+        "symbol": "MOONKEY",
+        "amount": 5529001.046635807,
+        "contract": "0x4ce5e562552baf5763a7245895d75b927d2fff01",
+        "price": null,
+        "usd": null
+      },
+      "0x957f8de6aa86d9fcfb56c7aa522ad72ef6156901": {
+        "symbol": "BUTT",
+        "amount": 5497215.8961505275,
+        "contract": "0x957f8de6aa86d9fcfb56c7aa522ad72ef6156901",
+        "price": null,
+        "usd": null
+      },
+      "0xddf920126712973057852e9af5c093aff7323854": {
+        "symbol": "BLOB",
+        "amount": 5479030.078926525,
+        "contract": "0xddf920126712973057852e9af5c093aff7323854",
+        "price": null,
+        "usd": null
+      },
+      "0xf2b3d1f5a9274dd1b69f866ca7b93abcb3471401": {
+        "symbol": "ZOOMIES",
+        "amount": 5409382.164451452,
+        "contract": "0xf2b3d1f5a9274dd1b69f866ca7b93abcb3471401",
+        "price": null,
+        "usd": null
+      },
+      "0xb31b327d9ac1f2d20eecd43bbf1159970edb20c5": {
+        "symbol": "PARMOON",
+        "amount": 5295383.726287846,
+        "contract": "0xb31b327d9ac1f2d20eecd43bbf1159970edb20c5",
+        "price": null,
+        "usd": null
+      },
+      "0xff4f3166cc6d878b0840dfda1b5b6e896f36b14b": {
+        "symbol": "GME",
+        "amount": 5197505.804116986,
+        "contract": "0xff4f3166cc6d878b0840dfda1b5b6e896f36b14b",
+        "price": null,
+        "usd": null
+      },
+      "0x88d6d44bccfcee2cdd109f034c99b450ecd05f97": {
+        "symbol": "GAINER",
+        "amount": 5125956.005151848,
+        "contract": "0x88d6d44bccfcee2cdd109f034c99b450ecd05f97",
+        "price": null,
+        "usd": null
+      },
+      "0x73442656e8d10c65e94f8aa39a2fc06267b243b9": {
+        "symbol": "UNIHOOD",
+        "amount": 4911589.138934552,
+        "contract": "0x73442656e8d10c65e94f8aa39a2fc06267b243b9",
+        "price": null,
+        "usd": null
+      },
+      "0x13b467d4f8f3ddc8d6a17be8733f73efb9e49963": {
+        "symbol": "PARADOX",
+        "amount": 4769120.986284859,
+        "contract": "0x13b467d4f8f3ddc8d6a17be8733f73efb9e49963",
+        "price": null,
+        "usd": null
+      },
+      "0x3f347c2ff1d45018197b9556c9b6d0e6a8dfdc01": {
+        "symbol": "BUNNY",
+        "amount": 4728912.242215011,
+        "contract": "0x3f347c2ff1d45018197b9556c9b6d0e6a8dfdc01",
+        "price": null,
+        "usd": null
+      },
+      "0x1b2233767ac9b04d15233f05db02f4e31c314601": {
+        "symbol": "OWL",
+        "amount": 4322628.410238596,
+        "contract": "0x1b2233767ac9b04d15233f05db02f4e31c314601",
+        "price": 6.374e-06,
+        "usd": 27.55243348686081
+      },
+      "0x6cbef531c6ab13432b8dac3636cc5690bd1fac01": {
+        "symbol": "TAOBAO",
+        "amount": 3866261.721373754,
+        "contract": "0x6cbef531c6ab13432b8dac3636cc5690bd1fac01",
+        "price": 6.798e-06,
+        "usd": 26.28284718189878
+      },
+      "0xbe9c5ea9aee3e8a0a3b175974c09c9dbcfc70601": {
+        "symbol": "4663",
+        "amount": 3815329.0483835624,
+        "contract": "0xbe9c5ea9aee3e8a0a3b175974c09c9dbcfc70601",
+        "price": null,
+        "usd": null
+      },
+      "0x4bcd118136032bfd5ff86a6c3d5618b3f2a06801": {
+        "symbol": "GAY",
+        "amount": 3795739.558454816,
+        "contract": "0x4bcd118136032bfd5ff86a6c3d5618b3f2a06801",
+        "price": null,
+        "usd": null
+      },
+      "0x8b1a82198ce946b2138e394279e37b0b10861501": {
+        "symbol": "CLOUD",
+        "amount": 3741007.824920359,
+        "contract": "0x8b1a82198ce946b2138e394279e37b0b10861501",
+        "price": null,
+        "usd": null
+      },
+      "0xeca85912fa3f9968cd622612d9549dc82ff40f01": {
+        "symbol": "AVENGERS",
+        "amount": 3708158.474024251,
+        "contract": "0xeca85912fa3f9968cd622612d9549dc82ff40f01",
+        "price": null,
+        "usd": null
+      },
+      "0x5b234bcf67f6725fbe01b9bfb2bc9db095589c56": {
+        "symbol": "PONSVIL",
+        "amount": 3509502.1180702625,
+        "contract": "0x5b234bcf67f6725fbe01b9bfb2bc9db095589c56",
+        "price": null,
+        "usd": null
+      },
+      "0x1258c3294a545f71c26aa6ee8acd739b5def8001": {
+        "symbol": "GOLD",
+        "amount": 3421636.659992339,
+        "contract": "0x1258c3294a545f71c26aa6ee8acd739b5def8001",
+        "price": null,
+        "usd": null
+      },
+      "0xca0e28a12072d1a521f9033d75f6975482335c8b": {
+        "symbol": "NYANCRAFT",
+        "amount": 3416061.412613988,
+        "contract": "0xca0e28a12072d1a521f9033d75f6975482335c8b",
+        "price": null,
+        "usd": null
+      },
+      "0xab1692fb28e14c6af2fe6fc4873f6a258815a1ba": {
+        "symbol": "aHOODc",
+        "amount": 3294999.200445047,
+        "contract": "0xab1692fb28e14c6af2fe6fc4873f6a258815a1ba",
+        "price": null,
+        "usd": null
+      },
+      "0x389d16b7ddf70d1bac042eb58048221ce021ba29": {
+        "symbol": "CADABRA",
+        "amount": 3117238.7647156143,
+        "contract": "0x389d16b7ddf70d1bac042eb58048221ce021ba29",
+        "price": null,
+        "usd": null
+      },
+      "0x15ede5b86fca981a4fd59240ee6d0966b4cfe901": {
+        "symbol": "🚀",
+        "amount": 2765301.2654126855,
+        "contract": "0x15ede5b86fca981a4fd59240ee6d0966b4cfe901",
+        "price": null,
+        "usd": null
+      },
+      "0x3cb147e1eb4ae4f933b2c8eaa6837309897d5d57": {
+        "symbol": "UNIHOOD",
+        "amount": 2720596.9162461543,
+        "contract": "0x3cb147e1eb4ae4f933b2c8eaa6837309897d5d57",
+        "price": null,
+        "usd": null
+      },
+      "0x36355079ee1a8dacc7bd022802b22cd0d2545201": {
+        "symbol": "BULL",
+        "amount": 2668420.293609416,
+        "contract": "0x36355079ee1a8dacc7bd022802b22cd0d2545201",
+        "price": null,
+        "usd": null
+      },
+      "0xd884f9f9606714731aa0fb6a6bc5230fcb88f73a": {
+        "symbol": "BUBBLE",
+        "amount": 2558647.3553836714,
+        "contract": "0xd884f9f9606714731aa0fb6a6bc5230fcb88f73a",
+        "price": null,
+        "usd": null
+      },
+      "0xef56660c740996578fd71a05bf5398db42405cb6": {
+        "symbol": "Retail",
+        "amount": 2474956.992085507,
+        "contract": "0xef56660c740996578fd71a05bf5398db42405cb6",
+        "price": 9.649e-06,
+        "usd": 23.880860016633058
+      },
+      "0xb0e617973209a4814f5773f30080ff6cf6abfc4d": {
+        "symbol": "BURGZ",
+        "amount": 2336931.7320386674,
+        "contract": "0xb0e617973209a4814f5773f30080ff6cf6abfc4d",
+        "price": null,
+        "usd": null
+      },
+      "0x9195ca4ea9b5af8a2c33d246a781b07b2f5e55c1": {
+        "symbol": "BEARER",
+        "amount": 2297759.5115423813,
+        "contract": "0x9195ca4ea9b5af8a2c33d246a781b07b2f5e55c1",
+        "price": null,
+        "usd": null
+      },
+      "0x00e802805a16ad3aa879f98f21a1213545bb98b9": {
+        "symbol": "MEME",
+        "amount": 2196803.478573921,
+        "contract": "0x00e802805a16ad3aa879f98f21a1213545bb98b9",
+        "price": null,
+        "usd": null
+      },
+      "0xbb8dc1d18ff2180b314cfc792345d8ebb99552a7": {
+        "symbol": "MCTRUMP",
+        "amount": 2163821.1446871483,
+        "contract": "0xbb8dc1d18ff2180b314cfc792345d8ebb99552a7",
+        "price": null,
+        "usd": null
+      },
+      "0xd18f5e73ec5e2d0b18ebe97426dc5edc2c887715": {
+        "symbol": "TSLA",
+        "amount": 2063060.409697692,
+        "contract": "0xd18f5e73ec5e2d0b18ebe97426dc5edc2c887715",
+        "price": null,
+        "usd": null
+      },
+      "0xd9379146838fec40373f2ff3e3e6afafbfe15e01": {
+        "symbol": "WOLF",
+        "amount": 2047403.2738635065,
+        "contract": "0xd9379146838fec40373f2ff3e3e6afafbfe15e01",
+        "price": null,
+        "usd": null
+      },
+      "0x52668e7161787b691adccaa62e4167494263324a": {
+        "symbol": "Ponsan",
+        "amount": 2000315.3535618382,
+        "contract": "0x52668e7161787b691adccaa62e4167494263324a",
+        "price": null,
+        "usd": null
+      },
+      "0x7f2b2cef45ea3b6a4a06760f1112ff826b210289": {
+        "symbol": "SHOULD",
+        "amount": 1890819.1006962038,
+        "contract": "0x7f2b2cef45ea3b6a4a06760f1112ff826b210289",
+        "price": null,
+        "usd": null
+      },
+      "0x0eb3af7507a1aa516094aa1210c1dce00b6e3a81": {
+        "symbol": "SHOULD",
+        "amount": 1889196.548908601,
+        "contract": "0x0eb3af7507a1aa516094aa1210c1dce00b6e3a81",
+        "price": null,
+        "usd": null
+      },
+      "0xbeec887f278370d411f5cb9d5eb8f165e4e911e0": {
+        "symbol": "Stonks",
+        "amount": 1778485.3664699032,
+        "contract": "0xbeec887f278370d411f5cb9d5eb8f165e4e911e0",
+        "price": null,
+        "usd": null
+      },
+      "0xbc1f609718f79cc45ff5ca003a5abc9a278070b1": {
+        "symbol": "IQ",
+        "amount": 1740337.9100109036,
+        "contract": "0xbc1f609718f79cc45ff5ca003a5abc9a278070b1",
+        "price": null,
+        "usd": null
+      },
+      "0x3c521a8b7cd04a18885dc7784249301bbc873c01": {
+        "symbol": "RTX",
+        "amount": 1726789.4073017344,
+        "contract": "0x3c521a8b7cd04a18885dc7784249301bbc873c01",
+        "price": null,
+        "usd": null
+      },
+      "0xadd7791cf794bb1d7b542289de84b28318fe2a45": {
+        "symbol": "Y",
+        "amount": 1717324.8668807251,
+        "contract": "0xadd7791cf794bb1d7b542289de84b28318fe2a45",
+        "price": null,
+        "usd": null
+      },
+      "0x064c0385b0e2a24d0a5d056cc934867a55dfebe2": {
+        "symbol": "1",
+        "amount": 1714331.8288447002,
+        "contract": "0x064c0385b0e2a24d0a5d056cc934867a55dfebe2",
+        "price": null,
+        "usd": null
+      },
+      "0xff2da4a526b6fd0b2e75d299db72df07d5611f1f": {
+        "symbol": "1",
+        "amount": 1702886.7050064674,
+        "contract": "0xff2da4a526b6fd0b2e75d299db72df07d5611f1f",
+        "price": null,
+        "usd": null
+      },
+      "0xab1d8c797dbd44bd0c03f3e8ecb5b790a6d3870d": {
+        "symbol": "HTB",
+        "amount": 1668116.0745334593,
+        "contract": "0xab1d8c797dbd44bd0c03f3e8ecb5b790a6d3870d",
+        "price": null,
+        "usd": null
+      },
+      "0x840b9d474eafeaf99cf536f877ac4322e3101e01": {
+        "symbol": "CHIP",
+        "amount": 1638695.1093635513,
+        "contract": "0x840b9d474eafeaf99cf536f877ac4322e3101e01",
+        "price": null,
+        "usd": null
+      },
+      "0x081e52aab0f1c134bbfa7ecd03258dc56280f6bf": {
+        "symbol": "SPX",
+        "amount": 1623450.2276364558,
+        "contract": "0x081e52aab0f1c134bbfa7ecd03258dc56280f6bf",
+        "price": null,
+        "usd": null
+      },
+      "0x6a97e63c1e22cfa8b176a5b7cec95591efec83e4": {
+        "symbol": "CRIBS",
+        "amount": 1600528.0105905682,
+        "contract": "0x6a97e63c1e22cfa8b176a5b7cec95591efec83e4",
+        "price": null,
+        "usd": null
+      },
+      "0x364ab457e98de6cde1871979ee2b7a700c59b401": {
+        "symbol": "PARADOX",
+        "amount": 1562196.3860166061,
+        "contract": "0x364ab457e98de6cde1871979ee2b7a700c59b401",
+        "price": null,
+        "usd": null
+      },
+      "0xfeeeabe56164f80c01a7b3285bdccaf446ef0301": {
+        "symbol": "WSB",
+        "amount": 1522659.2214683762,
+        "contract": "0xfeeeabe56164f80c01a7b3285bdccaf446ef0301",
+        "price": null,
+        "usd": null
+      },
+      "0x1af582eb9538b6321ef7065dd6aaaaea031bb153": {
+        "symbol": "ZYNC",
+        "amount": 1520780.1006622412,
+        "contract": "0x1af582eb9538b6321ef7065dd6aaaaea031bb153",
+        "price": null,
+        "usd": null
+      },
+      "0x7705c59233b1cadd102bc5bda1b10f01c7b89101": {
+        "symbol": "BBM",
+        "amount": 1509944.5569123875,
+        "contract": "0x7705c59233b1cadd102bc5bda1b10f01c7b89101",
+        "price": null,
+        "usd": null
+      },
+      "0x38ff25501f107f247a30f30484b43af9ae1a626d": {
+        "symbol": "MEOW",
+        "amount": 1502461.2171077556,
+        "contract": "0x38ff25501f107f247a30f30484b43af9ae1a626d",
+        "price": null,
+        "usd": null
+      },
+      "0xdef91ce436272b7d7ee8c53937acf8be0dc89197": {
+        "symbol": "FAFO",
+        "amount": 1468519.4748346293,
+        "contract": "0xdef91ce436272b7d7ee8c53937acf8be0dc89197",
+        "price": null,
+        "usd": null
+      },
+      "0xdd22aa7452d000cf45c8ac1a08fa503fe359f501": {
+        "symbol": "CAESAR",
+        "amount": 1372105.6617215322,
+        "contract": "0xdd22aa7452d000cf45c8ac1a08fa503fe359f501",
+        "price": null,
+        "usd": null
+      },
+      "0x758dec726f095526510be95b895ad19fe714b0fe": {
+        "symbol": "cryptards",
+        "amount": 1300000.0,
+        "contract": "0x758dec726f095526510be95b895ad19fe714b0fe",
+        "price": null,
+        "usd": null
+      },
+      "0x15b93fc804ab3e092f312b1366896f78b25c082e": {
+        "symbol": "MUPPETS",
+        "amount": 1300000.0,
+        "contract": "0x15b93fc804ab3e092f312b1366896f78b25c082e",
+        "price": null,
+        "usd": null
+      },
+      "0x16912513c7cf6967acf6bce5e5f3f7a087eceda4": {
+        "symbol": "QC",
+        "amount": 1276373.8520351716,
+        "contract": "0x16912513c7cf6967acf6bce5e5f3f7a087eceda4",
+        "price": null,
+        "usd": null
+      },
+      "0xae906bd33e0589e969bdf2b54f7ffa92d2cd1ca0": {
+        "symbol": "GANY",
+        "amount": 1259025.4303456787,
+        "contract": "0xae906bd33e0589e969bdf2b54f7ffa92d2cd1ca0",
+        "price": null,
+        "usd": null
+      },
+      "0xc0296030a86b70e877550c36c248877a05294719": {
+        "symbol": "COIN",
+        "amount": 1233720.0268386381,
+        "contract": "0xc0296030a86b70e877550c36c248877a05294719",
+        "price": null,
+        "usd": null
+      },
+      "0xf12adea9f96d9ef23ac506364883febfca8c8b44": {
+        "symbol": "TAMPONS",
+        "amount": 1229836.2498153355,
+        "contract": "0xf12adea9f96d9ef23ac506364883febfca8c8b44",
+        "price": null,
+        "usd": null
+      },
+      "0xae9a370cc248fd1b2289cdfe930c92d600c51f58": {
+        "symbol": "HAKU",
+        "amount": 1129052.5512915512,
+        "contract": "0xae9a370cc248fd1b2289cdfe930c92d600c51f58",
+        "price": null,
+        "usd": null
+      },
+      "0xf6a92b0d4df459573f6f8447aa72fab5dbee21a3": {
+        "symbol": "MONEYTREE",
+        "amount": 1106159.30454137,
+        "contract": "0xf6a92b0d4df459573f6f8447aa72fab5dbee21a3",
+        "price": null,
+        "usd": null
+      },
+      "0x73868110fd876c6ef3b15360812c6561f065c165": {
+        "symbol": "t2",
+        "amount": 1089108.9108910891,
+        "contract": "0x73868110fd876c6ef3b15360812c6561f065c165",
+        "price": null,
+        "usd": null
+      },
+      "0xf9e05a373a9e02c1366ab19e71cb2ce1e803048b": {
+        "symbol": "t2",
+        "amount": 1089108.9108910891,
+        "contract": "0xf9e05a373a9e02c1366ab19e71cb2ce1e803048b",
+        "price": null,
+        "usd": null
+      },
+      "0xe5bad6ed2d1974290ec1c19eeaabe84dc6e703ca": {
+        "symbol": "T2",
+        "amount": 1089108.9108910891,
+        "contract": "0xe5bad6ed2d1974290ec1c19eeaabe84dc6e703ca",
+        "price": null,
+        "usd": null
+      },
+      "0xaec8ec3ece4002930f49a8d0a671f5324a881edb": {
+        "symbol": "T2",
+        "amount": 1089108.9108910891,
+        "contract": "0xaec8ec3ece4002930f49a8d0a671f5324a881edb",
+        "price": null,
+        "usd": null
+      },
+      "0x11924d1dedab2d8d49480287898c902431809579": {
+        "symbol": "GME",
+        "amount": 1038482.5355192578,
+        "contract": "0x11924d1dedab2d8d49480287898c902431809579",
+        "price": 9.005e-06,
+        "usd": 9.351535232350916
+      },
+      "0xe856eac21f40b706e5ccdf97fac76c5524981e18": {
+        "symbol": "PE",
+        "amount": 1000000.0,
+        "contract": "0xe856eac21f40b706e5ccdf97fac76c5524981e18",
+        "price": null,
+        "usd": null
+      },
+      "0xbf71e7594725d0b537e151a9de8158b24a44fad3": {
+        "symbol": "PCAT",
+        "amount": 998813.694204024,
+        "contract": "0xbf71e7594725d0b537e151a9de8158b24a44fad3",
+        "price": 1.577e-05,
+        "usd": 15.75129195759746
+      },
+      "0x77ca16a9a86af19cbefedda0b5a0cdb97c617f0c": {
+        "symbol": "401K9",
+        "amount": 968651.5183601241,
+        "contract": "0x77ca16a9a86af19cbefedda0b5a0cdb97c617f0c",
+        "price": null,
+        "usd": null
+      },
+      "0x5dddf21b9d4f38e500c829c6337ba5a5fc6fd9c0": {
+        "symbol": "BABA",
+        "amount": 957926.643406766,
+        "contract": "0x5dddf21b9d4f38e500c829c6337ba5a5fc6fd9c0",
+        "price": null,
+        "usd": null
+      },
+      "0xfd6e6554737090fe6b2d5e35422bd37cf2ac152b": {
+        "symbol": "BONK",
+        "amount": 941350.0029552381,
+        "contract": "0xfd6e6554737090fe6b2d5e35422bd37cf2ac152b",
+        "price": null,
+        "usd": null
+      },
+      "0xb0478fb882edcf23bb6ec5e61e4b43eaf46d0101": {
+        "symbol": "GME",
+        "amount": 924759.6190540431,
+        "contract": "0xb0478fb882edcf23bb6ec5e61e4b43eaf46d0101",
+        "price": null,
+        "usd": null
+      },
+      "0x2860c4744c3a56bf575c7da7dc9d5651cfab75e5": {
+        "symbol": "POOH",
+        "amount": 913502.1935943788,
+        "contract": "0x2860c4744c3a56bf575c7da7dc9d5651cfab75e5",
+        "price": null,
+        "usd": null
+      },
+      "0xc5dc33fab8fa3b3175b7b63cabece2a840527aea": {
+        "symbol": "Poohcoin",
+        "amount": 913480.0762137936,
+        "contract": "0xc5dc33fab8fa3b3175b7b63cabece2a840527aea",
+        "price": null,
+        "usd": null
+      },
+      "0xb4ed2746b06b22a370ecd93a977262ab82ccf855": {
+        "symbol": "MORPH",
+        "amount": 897542.411407925,
+        "contract": "0xb4ed2746b06b22a370ecd93a977262ab82ccf855",
+        "price": null,
+        "usd": null
+      },
+      "0x6c963daff70daa63fd627b213077f7264f02824b": {
+        "symbol": "BONK",
+        "amount": 894311.8521166486,
+        "contract": "0x6c963daff70daa63fd627b213077f7264f02824b",
+        "price": null,
+        "usd": null
+      },
+      "0x2f8b281ace8da64919c921d7cf6ff96b5441e319": {
+        "symbol": "microduck",
+        "amount": 685011.7699466521,
+        "contract": "0x2f8b281ace8da64919c921d7cf6ff96b5441e319",
+        "price": null,
+        "usd": null
+      },
+      "0xab17ac43babe0fdce418997a56a7ea0236f57950": {
+        "symbol": "PAIRCAT",
+        "amount": 584533.983759709,
+        "contract": "0xab17ac43babe0fdce418997a56a7ea0236f57950",
+        "price": 1.656e-05,
+        "usd": 9.679882771060782
+      },
+      "0x054422f2e9f9aee6a38a169cfd066b68e0dbf9a0": {
+        "symbol": "FLOAT",
+        "amount": 559823.7668805992,
+        "contract": "0x054422f2e9f9aee6a38a169cfd066b68e0dbf9a0",
+        "price": null,
+        "usd": null
+      },
+      "0x44aa1afebc83e3296f84ef9970edb8933996965b": {
+        "symbol": "BAR",
+        "amount": 520000.0,
+        "contract": "0x44aa1afebc83e3296f84ef9970edb8933996965b",
+        "price": null,
+        "usd": null
+      },
+      "0x69cdb7094de9fadc335049a36ccd3105ae13441b": {
+        "symbol": "BLD",
+        "amount": 520000.0,
+        "contract": "0x69cdb7094de9fadc335049a36ccd3105ae13441b",
+        "price": null,
+        "usd": null
+      },
+      "0x5ff650795bc45182b018fdac80574a80942ac491": {
+        "symbol": "$QUOKKA",
+        "amount": 433418.0,
+        "contract": "0x5ff650795bc45182b018fdac80574a80942ac491",
+        "price": null,
+        "usd": null
+      },
+      "0x5040bb46093ca087f7220507f67e85967bb9f813": {
+        "symbol": "DYSON",
+        "amount": 300000.0,
+        "contract": "0x5040bb46093ca087f7220507f67e85967bb9f813",
+        "price": null,
+        "usd": null
+      },
+      "0x5fd64930436c0aa4f24e217c662d2c4491aff1fa": {
+        "symbol": "$PIP",
+        "amount": 267514.0,
+        "contract": "0x5fd64930436c0aa4f24e217c662d2c4491aff1fa",
+        "price": null,
+        "usd": null
+      },
+      "0x3776d57691a98d3c68f28476eb4b15e81561e8d8": {
+        "symbol": "$LIEN",
+        "amount": 253814.0,
+        "contract": "0x3776d57691a98d3c68f28476eb4b15e81561e8d8",
+        "price": null,
+        "usd": null
+      },
+      "0x94369ee5779b1d3edbbfa618f148e8ed09a4c175": {
+        "symbol": "RHDOGE",
+        "amount": 225000.0,
+        "contract": "0x94369ee5779b1d3edbbfa618f148e8ed09a4c175",
+        "price": null,
+        "usd": null
+      },
+      "0x553ec1617f88e7c3ce4db1a384e710142a9d6268": {
+        "symbol": "SCALE",
+        "amount": 200000.0,
+        "contract": "0x553ec1617f88e7c3ce4db1a384e710142a9d6268",
+        "price": 5.895e-06,
+        "usd": 1.179
+      },
+      "0x3728c89a2489c4032abad6a03ca09917506f1e18": {
+        "symbol": "YAMETEKUDAS",
+        "amount": 169514.0,
+        "contract": "0x3728c89a2489c4032abad6a03ca09917506f1e18",
+        "price": null,
+        "usd": null
+      },
+      "0x187dc44850cc3541b1d3cf1d15c79c0173fc1379": {
+        "symbol": "$HoodUSDP",
+        "amount": 146269.0,
+        "contract": "0x187dc44850cc3541b1d3cf1d15c79c0173fc1379",
+        "price": null,
+        "usd": null
+      },
+      "0x9fbf2c7f03138e791ec113fe18506b78d1f5adb1": {
+        "symbol": "$DABE",
+        "amount": 80034.0,
+        "contract": "0x9fbf2c7f03138e791ec113fe18506b78d1f5adb1",
+        "price": null,
+        "usd": null
+      },
+      "0xc7a7a6e2fee9b7962cb01a27c0eb682f61e64506": {
+        "symbol": "BOY",
+        "amount": 78482.8036359866,
+        "contract": "0xc7a7a6e2fee9b7962cb01a27c0eb682f61e64506",
+        "price": null,
+        "usd": null
+      },
+      "0x4dc73ae655a14b3e8d6ce0b4945901920751d171": {
+        "symbol": "AMC",
+        "amount": 61323.43435680377,
+        "contract": "0x4dc73ae655a14b3e8d6ce0b4945901920751d171",
+        "price": null,
+        "usd": null
+      },
+      "0xd9ba7e9a50ffbdc96bbf4ea9a04a579cc78d539a": {
+        "symbol": "MEMESTOCK",
+        "amount": 52000.0,
+        "contract": "0xd9ba7e9a50ffbdc96bbf4ea9a04a579cc78d539a",
+        "price": null,
+        "usd": null
+      },
+      "0x7f73cdaa799025ea66d3b941a9cc617c6a463e76": {
+        "symbol": "FLORIDADOG",
+        "amount": 47313.17458187488,
+        "contract": "0x7f73cdaa799025ea66d3b941a9cc617c6a463e76",
+        "price": null,
+        "usd": null
+      },
+      "0x3dbc3294c80b988550d5a3a385c9b72142fd8888": {
+        "symbol": "KAIDO",
+        "amount": 47298.466219564456,
+        "contract": "0x3dbc3294c80b988550d5a3a385c9b72142fd8888",
+        "price": null,
+        "usd": null
+      },
+      "0x63ca347f651106bb4ab6ca52c44922b16d781e18": {
+        "symbol": "NFLXNCHILL",
+        "amount": 44444.0,
+        "contract": "0x63ca347f651106bb4ab6ca52c44922b16d781e18",
+        "price": null,
+        "usd": null
+      },
+      "0x09a47e69fec1e761ec7a441b4dce14f50b571111": {
+        "symbol": "NOXAPAD",
+        "amount": 42820.72925687929,
+        "contract": "0x09a47e69fec1e761ec7a441b4dce14f50b571111",
+        "price": null,
+        "usd": null
+      },
+      "0xea8acde6248150335d48edd193502a468fc37777": {
+        "symbol": "ZREAL",
+        "amount": 40442.685943794946,
+        "contract": "0xea8acde6248150335d48edd193502a468fc37777",
+        "price": null,
+        "usd": null
+      },
+      "0x7e7f8959c1fdfc088c450c6a9ad850e85e60a17b": {
+        "symbol": "$UNIPOOL",
+        "amount": 38740.0,
+        "contract": "0x7e7f8959c1fdfc088c450c6a9ad850e85e60a17b",
+        "price": null,
+        "usd": null
+      },
+      "0x69e3289b2b323181d3bcff64e056d42eec17d8aa": {
+        "symbol": "STR",
+        "amount": 30000.0,
+        "contract": "0x69e3289b2b323181d3bcff64e056d42eec17d8aa",
+        "price": null,
+        "usd": null
+      },
+      "0x3440122313a6ff9c333203ca478a4bade0607777": {
+        "symbol": "CATSBY",
+        "amount": 30000.0,
+        "contract": "0x3440122313a6ff9c333203ca478a4bade0607777",
+        "price": null,
+        "usd": null
+      },
+      "0x53fda04a9410edb03cc874e183310be8854d1fe0": {
+        "symbol": "POPADOG",
+        "amount": 29446.8659292843,
+        "contract": "0x53fda04a9410edb03cc874e183310be8854d1fe0",
+        "price": null,
+        "usd": null
+      },
+      "0x32f8e588e2813c3c34f8b5501a6fda94494a438d": {
+        "symbol": "CLUBY",
+        "amount": 21703.203407482295,
+        "contract": "0x32f8e588e2813c3c34f8b5501a6fda94494a438d",
+        "price": null,
+        "usd": null
+      },
+      "0x46176edc76e3788ce8bc31a0b131626a46cc1e18": {
+        "symbol": "RYZEN",
+        "amount": 20000.0,
+        "contract": "0x46176edc76e3788ce8bc31a0b131626a46cc1e18",
+        "price": 2.898e-05,
+        "usd": 0.5796
+      },
+      "0xa740cdc94efb973257f1dbc99fff091d011d80f4": {
+        "symbol": "ponstrade",
+        "amount": 20000.0,
+        "contract": "0xa740cdc94efb973257f1dbc99fff091d011d80f4",
+        "price": null,
+        "usd": null
+      },
+      "0xd32a7bdc6a9b5d4910085069d6f03012b085374d": {
+        "symbol": "CRAYONS",
+        "amount": 19841.4760574054,
+        "contract": "0xd32a7bdc6a9b5d4910085069d6f03012b085374d",
+        "price": null,
+        "usd": null
+      },
+      "0x26db771b70b9f8e228610167e97eca6130096100": {
+        "symbol": "IRONDOG",
+        "amount": 18985.20046629347,
+        "contract": "0x26db771b70b9f8e228610167e97eca6130096100",
+        "price": null,
+        "usd": null
+      },
+      "0xc1ccdc47eb64119c5d919cf515aff5c27b13a1b4": {
+        "symbol": "SLOPYSSEY",
+        "amount": 15823.0,
+        "contract": "0xc1ccdc47eb64119c5d919cf515aff5c27b13a1b4",
+        "price": null,
+        "usd": null
+      },
+      "0x107b2f7e26f6d10eeb7ce16874497673808aaede": {
+        "symbol": "TRIPLET",
+        "amount": 15000.0,
+        "contract": "0x107b2f7e26f6d10eeb7ce16874497673808aaede",
+        "price": 5.943e-05,
+        "usd": 0.89145
+      },
+      "0xbe2bbe01469e98c8dfd7651286ce934e240a110d": {
+        "symbol": "TripleT",
+        "amount": 15000.0,
+        "contract": "0xbe2bbe01469e98c8dfd7651286ce934e240a110d",
+        "price": null,
+        "usd": null
+      },
+      "0xfcbb65d5e8981b4467c08723a892f242b0e4b909": {
+        "symbol": "MSI100X",
+        "amount": 15000.0,
+        "contract": "0xfcbb65d5e8981b4467c08723a892f242b0e4b909",
+        "price": null,
+        "usd": null
+      },
+      "0x0068360b3272d703dd26ec670188c82143e94bb1": {
+        "symbol": "CLEO",
+        "amount": 15000.0,
+        "contract": "0x0068360b3272d703dd26ec670188c82143e94bb1",
+        "price": null,
+        "usd": null
+      },
+      "0xf6c3f242a06817432a9a5824a05f5595c08de9c0": {
+        "symbol": "1%",
+        "amount": 15000.0,
+        "contract": "0xf6c3f242a06817432a9a5824a05f5595c08de9c0",
+        "price": null,
+        "usd": null
+      },
+      "0xb8b34b87e0094ea2d36b840cd896468d4523fada": {
+        "symbol": "CATIME",
+        "amount": 15000.0,
+        "contract": "0xb8b34b87e0094ea2d36b840cd896468d4523fada",
+        "price": null,
+        "usd": null
+      },
+      "0x43c6d221a13b8e74f0368ff17584269d7b4dbf1d": {
+        "symbol": "1%",
+        "amount": 15000.0,
+        "contract": "0x43c6d221a13b8e74f0368ff17584269d7b4dbf1d",
+        "price": null,
+        "usd": null
+      },
+      "0xd11f1685a6ea41684e4337be1c4eed8489318d35": {
+        "symbol": "Slop",
+        "amount": 15000.0,
+        "contract": "0xd11f1685a6ea41684e4337be1c4eed8489318d35",
+        "price": null,
+        "usd": null
+      },
+      "0x18df3604a4ec98e87a5008e811583811bb7817a5": {
+        "symbol": "STONKS",
+        "amount": 15000.0,
+        "contract": "0x18df3604a4ec98e87a5008e811583811bb7817a5",
+        "price": null,
+        "usd": null
+      },
+      "0x5263b8836c23458840ef0fcd770dca34c15436fd": {
+        "symbol": "BUTTHOLE",
+        "amount": 15000.0,
+        "contract": "0x5263b8836c23458840ef0fcd770dca34c15436fd",
+        "price": null,
+        "usd": null
+      },
+      "0xec2bcfe91e770c2c2dd788b406481c2adb5e1a41": {
+        "symbol": "MINECWAFT",
+        "amount": 15000.0,
+        "contract": "0xec2bcfe91e770c2c2dd788b406481c2adb5e1a41",
+        "price": null,
+        "usd": null
+      },
+      "0xb2d80ddb426ed8423a581476707aa47974493643": {
+        "symbol": "MINECWAFT",
+        "amount": 15000.0,
+        "contract": "0xb2d80ddb426ed8423a581476707aa47974493643",
+        "price": null,
+        "usd": null
+      },
+      "0xb1793937e97f8d50310b9ca3802805becb6a22ff": {
+        "symbol": "LLM",
+        "amount": 15000.0,
+        "contract": "0xb1793937e97f8d50310b9ca3802805becb6a22ff",
+        "price": null,
+        "usd": null
+      },
+      "0x953d447277daee67efe91ab0f9708c7717850cc8": {
+        "symbol": "HUD",
+        "amount": 15000.0,
+        "contract": "0x953d447277daee67efe91ab0f9708c7717850cc8",
+        "price": null,
+        "usd": null
+      },
+      "0x91f94da2b7d4893339bc4aead1931be334d315e4": {
+        "symbol": "DINO",
+        "amount": 15000.0,
+        "contract": "0x91f94da2b7d4893339bc4aead1931be334d315e4",
+        "price": null,
+        "usd": null
+      },
+      "0x95a49e60d30bb1ce8d21e104edd5365c06d5bc43": {
+        "symbol": "Kino",
+        "amount": 15000.0,
+        "contract": "0x95a49e60d30bb1ce8d21e104edd5365c06d5bc43",
+        "price": null,
+        "usd": null
+      },
+      "0x70b396809bfa361ce8af6232f19bd16945c63092": {
+        "symbol": "CAPY",
+        "amount": 15000.0,
+        "contract": "0x70b396809bfa361ce8af6232f19bd16945c63092",
+        "price": null,
+        "usd": null
+      },
+      "0x2b003048deaa520ba20ab1ff6c5bc2a6b4674fec": {
+        "symbol": "BREAD",
+        "amount": 15000.0,
+        "contract": "0x2b003048deaa520ba20ab1ff6c5bc2a6b4674fec",
+        "price": null,
+        "usd": null
+      },
+      "0xfce918f5dfa44b66ca86ffd209534aab30203baa": {
+        "symbol": "OCTOPUS",
+        "amount": 15000.0,
+        "contract": "0xfce918f5dfa44b66ca86ffd209534aab30203baa",
+        "price": null,
+        "usd": null
+      },
+      "0xe1aa2da06972cbd799205763241579863d4be413": {
+        "symbol": "SHIBBO",
+        "amount": 15000.0,
+        "contract": "0xe1aa2da06972cbd799205763241579863d4be413",
+        "price": null,
+        "usd": null
+      },
+      "0x761313bd3af52d84eba28f701a01068ea9166d2c": {
+        "symbol": "OPUS",
+        "amount": 15000.0,
+        "contract": "0x761313bd3af52d84eba28f701a01068ea9166d2c",
+        "price": null,
+        "usd": null
+      },
+      "0xb515fbf16c3d610f561621ea6cf31775704b8f5b": {
+        "symbol": "SAMO",
+        "amount": 15000.0,
+        "contract": "0xb515fbf16c3d610f561621ea6cf31775704b8f5b",
+        "price": null,
+        "usd": null
+      },
+      "0xd0c905bc39e0c6a1d367114c3a3a93795c9c0e9f": {
+        "symbol": "AI",
+        "amount": 15000.0,
+        "contract": "0xd0c905bc39e0c6a1d367114c3a3a93795c9c0e9f",
+        "price": null,
+        "usd": null
+      },
+      "0xf0fa4c942d83ac8927e75b8ac20ef5df0958f884": {
+        "symbol": "COOH",
+        "amount": 15000.0,
+        "contract": "0xf0fa4c942d83ac8927e75b8ac20ef5df0958f884",
+        "price": null,
+        "usd": null
+      },
+      "0x7092c6d30f3c8efe8dd4e53afb676cf33b0fb690": {
+        "symbol": "AI",
+        "amount": 15000.0,
+        "contract": "0x7092c6d30f3c8efe8dd4e53afb676cf33b0fb690",
+        "price": null,
+        "usd": null
+      },
+      "0x2ffeca8ad3a1b3e0dc2f0574a83cc9a4c9ed12f3": {
+        "symbol": "SER",
+        "amount": 15000.0,
+        "contract": "0x2ffeca8ad3a1b3e0dc2f0574a83cc9a4c9ed12f3",
+        "price": null,
+        "usd": null
+      },
+      "0x8be2b143e3f8928eedb1708b17621bd35b0ec654": {
+        "symbol": "PONG",
+        "amount": 15000.0,
+        "contract": "0x8be2b143e3f8928eedb1708b17621bd35b0ec654",
+        "price": null,
+        "usd": null
+      },
+      "0x578411464dd012dfe4141a2bfc22a1eca3218806": {
+        "symbol": "QUBYY",
+        "amount": 15000.0,
+        "contract": "0x578411464dd012dfe4141a2bfc22a1eca3218806",
+        "price": null,
+        "usd": null
+      },
+      "0x2415aca78dd90b052c2c73bf9c022129f2ad5acf": {
+        "symbol": "Ponk",
+        "amount": 15000.0,
+        "contract": "0x2415aca78dd90b052c2c73bf9c022129f2ad5acf",
+        "price": null,
+        "usd": null
+      },
+      "0x01952e4b56a24d5efb50423d43f155d348c387f5": {
+        "symbol": "WHALE",
+        "amount": 15000.0,
+        "contract": "0x01952e4b56a24d5efb50423d43f155d348c387f5",
+        "price": null,
+        "usd": null
+      },
+      "0x8f45a5953a60b37ea07a156f4b6891424af12275": {
+        "symbol": "INTC",
+        "amount": 15000.0,
+        "contract": "0x8f45a5953a60b37ea07a156f4b6891424af12275",
+        "price": null,
+        "usd": null
+      },
+      "0xfe776e6de23ef5082b8abf238d7be47bd3b2a4a7": {
+        "symbol": "ARROW",
+        "amount": 15000.0,
+        "contract": "0xfe776e6de23ef5082b8abf238d7be47bd3b2a4a7",
+        "price": null,
+        "usd": null
+      },
+      "0x4191757e3d728b9eb6be9333f0dd701c53e63e81": {
+        "symbol": "SNDK",
+        "amount": 15000.0,
+        "contract": "0x4191757e3d728b9eb6be9333f0dd701c53e63e81",
+        "price": null,
+        "usd": null
+      },
+      "0x4a29b5da10be17ffe6ee8e1a0be3b4a5c123a5fa": {
+        "symbol": "B3",
+        "amount": 15000.0,
+        "contract": "0x4a29b5da10be17ffe6ee8e1a0be3b4a5c123a5fa",
+        "price": null,
+        "usd": null
+      },
+      "0x8fac38a1320559cc428cfef66a2ce6620cc45cbf": {
+        "symbol": "NFLX",
+        "amount": 15000.0,
+        "contract": "0x8fac38a1320559cc428cfef66a2ce6620cc45cbf",
+        "price": null,
+        "usd": null
+      },
+      "0xf5ab5fe0a62c74991d6cb06cf34840e0b1645bb3": {
+        "symbol": "HOODRAT",
+        "amount": 15000.0,
+        "contract": "0xf5ab5fe0a62c74991d6cb06cf34840e0b1645bb3",
+        "price": null,
+        "usd": null
+      },
+      "0x8a93413ba5c11a2215ab7d49374164a0fde03411": {
+        "symbol": "MSFT",
+        "amount": 15000.0,
+        "contract": "0x8a93413ba5c11a2215ab7d49374164a0fde03411",
+        "price": null,
+        "usd": null
+      },
+      "0x036897d53da748d8eecae06775fbd719fc4c141a": {
+        "symbol": "HOODRAT",
+        "amount": 15000.0,
+        "contract": "0x036897d53da748d8eecae06775fbd719fc4c141a",
+        "price": null,
+        "usd": null
+      },
+      "0xadf51fa242c23fd8e95beb1cefdedded89b405d0": {
+        "symbol": "NVDA",
+        "amount": 15000.0,
+        "contract": "0xadf51fa242c23fd8e95beb1cefdedded89b405d0",
+        "price": null,
+        "usd": null
+      },
+      "0xfafcf5f99f2495a6ec33f9adc7c397f518955b95": {
+        "symbol": "Brett",
+        "amount": 15000.0,
+        "contract": "0xfafcf5f99f2495a6ec33f9adc7c397f518955b95",
+        "price": null,
+        "usd": null
+      },
+      "0x3f9d2a626ca5e5aecba9ffd64858ba82f85d05e6": {
+        "symbol": "$TSLA",
+        "amount": 15000.0,
+        "contract": "0x3f9d2a626ca5e5aecba9ffd64858ba82f85d05e6",
+        "price": null,
+        "usd": null
+      },
+      "0xf89938d35ad1629f261fe80b5615c2350e6d1903": {
+        "symbol": "NASDOG",
+        "amount": 15000.0,
+        "contract": "0xf89938d35ad1629f261fe80b5615c2350e6d1903",
+        "price": null,
+        "usd": null
+      },
+      "0x820401b3f8fbf44043f192b7eabbf98ec7668581": {
+        "symbol": "NFLX",
+        "amount": 15000.0,
+        "contract": "0x820401b3f8fbf44043f192b7eabbf98ec7668581",
+        "price": null,
+        "usd": null
+      },
+      "0x097e8d89dd1f7a84dfb5a221ee51fb55b02ba908": {
+        "symbol": "Insider",
+        "amount": 15000.0,
+        "contract": "0x097e8d89dd1f7a84dfb5a221ee51fb55b02ba908",
+        "price": null,
+        "usd": null
+      },
+      "0xeca78a94468be316f01eff2f27e687ad09280bbd": {
+        "symbol": "AVGO",
+        "amount": 15000.0,
+        "contract": "0xeca78a94468be316f01eff2f27e687ad09280bbd",
+        "price": null,
+        "usd": null
+      },
+      "0x639125c15d2f09dbab85be4a757f62b982af155a": {
+        "symbol": "auracat",
+        "amount": 15000.0,
+        "contract": "0x639125c15d2f09dbab85be4a757f62b982af155a",
+        "price": null,
+        "usd": null
+      },
+      "0x88c05611d6a2287f99209108e1441929162a340f": {
+        "symbol": "UTOPIA",
+        "amount": 15000.0,
+        "contract": "0x88c05611d6a2287f99209108e1441929162a340f",
+        "price": null,
+        "usd": null
+      },
+      "0x490d20d2a9172aa84e32b87c339a63d224df2622": {
+        "symbol": "FLOKI",
+        "amount": 15000.0,
+        "contract": "0x490d20d2a9172aa84e32b87c339a63d224df2622",
+        "price": null,
+        "usd": null
+      },
+      "0xc19dd08b39f4e407e0651c97d897ccd4716546a5": {
+        "symbol": "NUB",
+        "amount": 15000.0,
+        "contract": "0xc19dd08b39f4e407e0651c97d897ccd4716546a5",
+        "price": null,
+        "usd": null
+      },
+      "0xdb2d131fe3f1562171515782583954268d56bebb": {
+        "symbol": "WIN",
+        "amount": 15000.0,
+        "contract": "0xdb2d131fe3f1562171515782583954268d56bebb",
+        "price": null,
+        "usd": null
+      },
+      "0x27e6654c177e0ed7f99c616ed855eed33d3459ff": {
+        "symbol": "LAMBO",
+        "amount": 15000.0,
+        "contract": "0x27e6654c177e0ed7f99c616ed855eed33d3459ff",
+        "price": null,
+        "usd": null
+      },
+      "0x162f0da91b3fd070209255d2c875323aea9a7561": {
+        "symbol": "POW",
+        "amount": 15000.0,
+        "contract": "0x162f0da91b3fd070209255d2c875323aea9a7561",
+        "price": null,
+        "usd": null
+      },
+      "0xacbff206bc201564b538595cb73af3c093a50b1f": {
+        "symbol": "NASDOG",
+        "amount": 15000.0,
+        "contract": "0xacbff206bc201564b538595cb73af3c093a50b1f",
+        "price": null,
+        "usd": null
+      },
+      "0xbc902390fed5c0a0c1638201ed2a8accd75d9845": {
+        "symbol": "Pingu",
+        "amount": 15000.0,
+        "contract": "0xbc902390fed5c0a0c1638201ed2a8accd75d9845",
+        "price": null,
+        "usd": null
+      },
+      "0x89cd3e1aff82692e7f5fdec8b260e96f9506f77c": {
+        "symbol": "SPOODERMAN",
+        "amount": 15000.0,
+        "contract": "0x89cd3e1aff82692e7f5fdec8b260e96f9506f77c",
+        "price": null,
+        "usd": null
+      },
+      "0x34a35bd5692e7e10f1f0a2c484ae0e1d2a1ce699": {
+        "symbol": "LAMBO",
+        "amount": 15000.0,
+        "contract": "0x34a35bd5692e7e10f1f0a2c484ae0e1d2a1ce699",
+        "price": null,
+        "usd": null
+      },
+      "0xddbe7cd0b01d666ce03579d0b3ecd68c17d97cac": {
+        "symbol": "KOSPI",
+        "amount": 15000.0,
+        "contract": "0xddbe7cd0b01d666ce03579d0b3ecd68c17d97cac",
+        "price": null,
+        "usd": null
+      },
+      "0x663c6b5c50bfbf2abf11bec4091285e76214128f": {
+        "symbol": "NUB",
+        "amount": 15000.0,
+        "contract": "0x663c6b5c50bfbf2abf11bec4091285e76214128f",
+        "price": null,
+        "usd": null
+      },
+      "0x525c4e46a9148cd45a2d941756d7f3bae9d7d8a7": {
+        "symbol": "MU",
+        "amount": 15000.0,
+        "contract": "0x525c4e46a9148cd45a2d941756d7f3bae9d7d8a7",
+        "price": null,
+        "usd": null
+      },
+      "0x703862daefc712f696823ff9fdb338f0bd3b6899": {
+        "symbol": "CLAUB",
+        "amount": 15000.0,
+        "contract": "0x703862daefc712f696823ff9fdb338f0bd3b6899",
+        "price": null,
+        "usd": null
+      },
+      "0x6862cd777310631d9c3ec4b1a2061f4fb5f35dc6": {
+        "symbol": "CLUDE",
+        "amount": 15000.0,
+        "contract": "0x6862cd777310631d9c3ec4b1a2061f4fb5f35dc6",
+        "price": null,
+        "usd": null
+      },
+      "0x5a58c78c7def96af53053d0914579d4df15ffc01": {
+        "symbol": "CTO",
+        "amount": 15000.0,
+        "contract": "0x5a58c78c7def96af53053d0914579d4df15ffc01",
+        "price": null,
+        "usd": null
+      },
+      "0xe46e28046adf2cda0d0b22287d3ef44a4cd97c11": {
+        "symbol": "BULLCULT",
+        "amount": 15000.0,
+        "contract": "0xe46e28046adf2cda0d0b22287d3ef44a4cd97c11",
+        "price": null,
+        "usd": null
+      },
+      "0xda9d1e2b6f59ca208041f5164a1da369aa8d4fe9": {
+        "symbol": "CTW",
+        "amount": 15000.0,
+        "contract": "0xda9d1e2b6f59ca208041f5164a1da369aa8d4fe9",
+        "price": null,
+        "usd": null
+      },
+      "0x4630f50587c8f8ef267449e2709d0525a9017e73": {
+        "symbol": "Humanity",
+        "amount": 15000.0,
+        "contract": "0x4630f50587c8f8ef267449e2709d0525a9017e73",
+        "price": null,
+        "usd": null
+      },
+      "0x3809e4fc5f8f8645675223b16fea940a30353aa3": {
+        "symbol": "RNI6900",
+        "amount": 15000.0,
+        "contract": "0x3809e4fc5f8f8645675223b16fea940a30353aa3",
+        "price": null,
+        "usd": null
+      },
+      "0x16723c10b8ca07ecf708ddd646afd322da494e29": {
+        "symbol": "Copytradoor",
+        "amount": 15000.0,
+        "contract": "0x16723c10b8ca07ecf708ddd646afd322da494e29",
+        "price": null,
+        "usd": null
+      },
+      "0xc4b8daf0e369393265109c7937a50e63b7b60f68": {
+        "symbol": "Luna",
+        "amount": 15000.0,
+        "contract": "0xc4b8daf0e369393265109c7937a50e63b7b60f68",
+        "price": null,
+        "usd": null
+      },
+      "0x04d5869aefd784ae735189f76fe07a58cf2e84bb": {
+        "symbol": "HOODOG",
+        "amount": 15000.0,
+        "contract": "0x04d5869aefd784ae735189f76fe07a58cf2e84bb",
+        "price": null,
+        "usd": null
+      },
+      "0x53297fe1bb4b31e7eb3c7cca97c376effe3da9e3": {
+        "symbol": "YOLO⁠",
+        "amount": 15000.0,
+        "contract": "0x53297fe1bb4b31e7eb3c7cca97c376effe3da9e3",
+        "price": null,
+        "usd": null
+      },
+      "0xfdd1a214a39eed6c8cebb50cdce66a6c4f05bdc1": {
+        "symbol": "sidelined",
+        "amount": 15000.0,
+        "contract": "0xfdd1a214a39eed6c8cebb50cdce66a6c4f05bdc1",
+        "price": null,
+        "usd": null
+      },
+      "0xdd5e564c62b0a7984a31d7a14ed6f7e4a0d9b0c5": {
+        "symbol": "attention",
+        "amount": 15000.0,
+        "contract": "0xdd5e564c62b0a7984a31d7a14ed6f7e4a0d9b0c5",
+        "price": null,
+        "usd": null
+      },
+      "0xc4240b71db69333d2c0b15bfe0ac2128290e4761": {
+        "symbol": "ICECREAM",
+        "amount": 15000.0,
+        "contract": "0xc4240b71db69333d2c0b15bfe0ac2128290e4761",
+        "price": null,
+        "usd": null
+      },
+      "0xfa1820cab94057046db057e6e1fe41fd9cf449da": {
+        "symbol": "BULLCULT",
+        "amount": 15000.0,
+        "contract": "0xfa1820cab94057046db057e6e1fe41fd9cf449da",
+        "price": null,
+        "usd": null
+      },
+      "0xe966d9d754105796c1ef41f32d1efb08ff256f31": {
+        "symbol": "ape",
+        "amount": 15000.0,
+        "contract": "0xe966d9d754105796c1ef41f32d1efb08ff256f31",
+        "price": null,
+        "usd": null
+      },
+      "0xe0205bd71c1cdd62cb22c389ab87ba23ecd26776": {
+        "symbol": "CTO",
+        "amount": 15000.0,
+        "contract": "0xe0205bd71c1cdd62cb22c389ab87ba23ecd26776",
+        "price": null,
+        "usd": null
+      },
+      "0x32e07c53415e31aa8bd1fb0740853b33cc8aa1f7": {
+        "symbol": "FON",
+        "amount": 15000.0,
+        "contract": "0x32e07c53415e31aa8bd1fb0740853b33cc8aa1f7",
+        "price": null,
+        "usd": null
+      },
+      "0xb671a2cf0e374438b30b53944d2c65787f07686a": {
+        "symbol": "FOMOIANS",
+        "amount": 15000.0,
+        "contract": "0xb671a2cf0e374438b30b53944d2c65787f07686a",
+        "price": null,
+        "usd": null
+      },
+      "0x1f4b6cdc73694ef3510e23362b1e6a9c255ff969": {
+        "symbol": "BULLDUCK",
+        "amount": 15000.0,
+        "contract": "0x1f4b6cdc73694ef3510e23362b1e6a9c255ff969",
+        "price": null,
+        "usd": null
+      },
+      "0x20af630ccfcff483daf6c2b531cc64823a79ebd1": {
+        "symbol": "moodoge",
+        "amount": 15000.0,
+        "contract": "0x20af630ccfcff483daf6c2b531cc64823a79ebd1",
+        "price": null,
+        "usd": null
+      },
+      "0x04ccfb3efdf759e72c22408f9b4cc8c218dca317": {
+        "symbol": "BULLOS",
+        "amount": 15000.0,
+        "contract": "0x04ccfb3efdf759e72c22408f9b4cc8c218dca317",
+        "price": null,
+        "usd": null
+      },
+      "0xced20939e62e567377df187e5b333718762524d4": {
+        "symbol": "catjak",
+        "amount": 15000.0,
+        "contract": "0xced20939e62e567377df187e5b333718762524d4",
+        "price": null,
+        "usd": null
+      },
+      "0xb76a388e01c7a2d82f8c99c4cc347d5aa7cc60a6": {
+        "symbol": "strategy",
+        "amount": 15000.0,
+        "contract": "0xb76a388e01c7a2d82f8c99c4cc347d5aa7cc60a6",
+        "price": null,
+        "usd": null
+      },
+      "0x43b8441f488d03f4f28cfc624d9d412912ebd365": {
+        "symbol": "auracat",
+        "amount": 15000.0,
+        "contract": "0x43b8441f488d03f4f28cfc624d9d412912ebd365",
+        "price": null,
+        "usd": null
+      },
+      "0x4bc9cf0a0f97eb722346b0d56844ea712d48a8e4": {
+        "symbol": "Kabosu",
+        "amount": 15000.0,
+        "contract": "0x4bc9cf0a0f97eb722346b0d56844ea712d48a8e4",
+        "price": null,
+        "usd": null
+      },
+      "0x4996f1ee15e7b6c723ec259f373d4ad39c6b6ba3": {
+        "symbol": "CatGPT",
+        "amount": 15000.0,
+        "contract": "0x4996f1ee15e7b6c723ec259f373d4ad39c6b6ba3",
+        "price": null,
+        "usd": null
+      },
+      "0x2f66aacd4b44137d7a86bc4737fda23d4dd1fd0a": {
+        "symbol": "B",
+        "amount": 15000.0,
+        "contract": "0x2f66aacd4b44137d7a86bc4737fda23d4dd1fd0a",
+        "price": null,
+        "usd": null
+      },
+      "0x9ac456603751941ea02e147777ff4404c164e167": {
+        "symbol": "CATGPT",
+        "amount": 15000.0,
+        "contract": "0x9ac456603751941ea02e147777ff4404c164e167",
+        "price": null,
+        "usd": null
+      },
+      "0x77d54c26d6a1ece026fa1f0f96fecdbd2565638f": {
+        "symbol": "TURBOBULL",
+        "amount": 15000.0,
+        "contract": "0x77d54c26d6a1ece026fa1f0f96fecdbd2565638f",
+        "price": null,
+        "usd": null
+      },
+      "0x9e5e18ebb7b31df651865c397a067b50ccf6ea1c": {
+        "symbol": "CRAZY",
+        "amount": 15000.0,
+        "contract": "0x9e5e18ebb7b31df651865c397a067b50ccf6ea1c",
+        "price": null,
+        "usd": null
+      },
+      "0x8e77cca8080e1314f9073ac00b4fa5b48f4e468f": {
+        "symbol": "SP200",
+        "amount": 15000.0,
+        "contract": "0x8e77cca8080e1314f9073ac00b4fa5b48f4e468f",
+        "price": null,
+        "usd": null
+      },
+      "0xbe88765d8f57e189285424e8e18e16664842a7fc": {
+        "symbol": "KEYCAT",
+        "amount": 15000.0,
+        "contract": "0xbe88765d8f57e189285424e8e18e16664842a7fc",
+        "price": null,
+        "usd": null
+      },
+      "0x1a5d99c3b774c24d9c0595cbd76fefaa3c79595f": {
+        "symbol": "Hēipí",
+        "amount": 15000.0,
+        "contract": "0x1a5d99c3b774c24d9c0595cbd76fefaa3c79595f",
+        "price": null,
+        "usd": null
+      },
+      "0x579099685337b423ba773c13c90e3fdd8eca3d90": {
+        "symbol": "PEPPA",
+        "amount": 15000.0,
+        "contract": "0x579099685337b423ba773c13c90e3fdd8eca3d90",
+        "price": null,
+        "usd": null
+      },
+      "0xb2b84a981a11bdbbcc1e069ea009448d16d55b32": {
+        "symbol": "PIKACHU",
+        "amount": 15000.0,
+        "contract": "0xb2b84a981a11bdbbcc1e069ea009448d16d55b32",
+        "price": null,
+        "usd": null
+      },
+      "0x135647039f90843a92797dd76056b57df8394ca4": {
+        "symbol": "PMI200",
+        "amount": 15000.0,
+        "contract": "0x135647039f90843a92797dd76056b57df8394ca4",
+        "price": null,
+        "usd": null
+      },
+      "0x79ec37b0f9b736da8ed1d4e4dc7c19f83aeb8fb6": {
+        "symbol": "CATJAK",
+        "amount": 15000.0,
+        "contract": "0x79ec37b0f9b736da8ed1d4e4dc7c19f83aeb8fb6",
+        "price": null,
+        "usd": null
+      },
+      "0x0ea467331994a65b35dd0abd7efa542f52c5e62a": {
+        "symbol": "NANOGPT",
+        "amount": 15000.0,
+        "contract": "0x0ea467331994a65b35dd0abd7efa542f52c5e62a",
+        "price": null,
+        "usd": null
+      },
+      "0x0ee8b95651c30db617325fc2371b6d23cca37245": {
+        "symbol": "GPT",
+        "amount": 15000.0,
+        "contract": "0x0ee8b95651c30db617325fc2371b6d23cca37245",
+        "price": null,
+        "usd": null
+      },
+      "0x94f24301fb308c2a0f183fe9b954f5fac4d39be8": {
+        "symbol": "BULLCAT",
+        "amount": 15000.0,
+        "contract": "0x94f24301fb308c2a0f183fe9b954f5fac4d39be8",
+        "price": null,
+        "usd": null
+      },
+      "0x145a78f41aae8f94deadd7ad2b50b6dc99213523": {
+        "symbol": "S&P200",
+        "amount": 15000.0,
+        "contract": "0x145a78f41aae8f94deadd7ad2b50b6dc99213523",
+        "price": null,
+        "usd": null
+      },
+      "0x1787870ffd394c4eae30e4212049c2ea2e647ddf": {
+        "symbol": "Frida",
+        "amount": 15000.0,
+        "contract": "0x1787870ffd394c4eae30e4212049c2ea2e647ddf",
+        "price": null,
+        "usd": null
+      },
+      "0xe9a16048f498cf57e86e65a908570ae43fa2e09e": {
+        "symbol": "BULL",
+        "amount": 15000.0,
+        "contract": "0xe9a16048f498cf57e86e65a908570ae43fa2e09e",
+        "price": null,
+        "usd": null
+      },
+      "0x7f2ee61cb3cc184333d8479040c382daa7dd92e0": {
+        "symbol": "C.R.E.A.M",
+        "amount": 15000.0,
+        "contract": "0x7f2ee61cb3cc184333d8479040c382daa7dd92e0",
+        "price": null,
+        "usd": null
+      },
+      "0xd3984567b3f74e0e360b71c6e735b4763b4617e0": {
+        "symbol": "HOPE",
+        "amount": 15000.0,
+        "contract": "0xd3984567b3f74e0e360b71c6e735b4763b4617e0",
+        "price": null,
+        "usd": null
+      },
+      "0x0a0f68ec30b2c54479a3e43f0b937b1731186ce4": {
+        "symbol": "Louie",
+        "amount": 15000.0,
+        "contract": "0x0a0f68ec30b2c54479a3e43f0b937b1731186ce4",
+        "price": null,
+        "usd": null
+      },
+      "0x67be060736d8cd0300493c7036e1e61dc1428f46": {
+        "symbol": "HOPE",
+        "amount": 15000.0,
+        "contract": "0x67be060736d8cd0300493c7036e1e61dc1428f46",
+        "price": null,
+        "usd": null
+      },
+      "0xdbd826105f2b1475c4b3f7847bd701ae9b72b1c9": {
+        "symbol": "LAMBO",
+        "amount": 15000.0,
+        "contract": "0xdbd826105f2b1475c4b3f7847bd701ae9b72b1c9",
+        "price": null,
+        "usd": null
+      },
+      "0x9ef9ed92b4f5b206ad07b2eadecd85eb2d9092cd": {
+        "symbol": "CATOS",
+        "amount": 15000.0,
+        "contract": "0x9ef9ed92b4f5b206ad07b2eadecd85eb2d9092cd",
+        "price": null,
+        "usd": null
+      },
+      "0x5ea11ba7011ee08f2915fb041e88eeda6ee7c389": {
+        "symbol": "ROCK",
+        "amount": 15000.0,
+        "contract": "0x5ea11ba7011ee08f2915fb041e88eeda6ee7c389",
+        "price": null,
+        "usd": null
+      },
+      "0x4ecb187876404f0ca208dc14021c910c3911479e": {
+        "symbol": "CATOS",
+        "amount": 15000.0,
+        "contract": "0x4ecb187876404f0ca208dc14021c910c3911479e",
+        "price": null,
+        "usd": null
+      },
+      "0x1f468685658a214db428ec8d1fbd16123b2fd9b5": {
+        "symbol": "bread",
+        "amount": 15000.0,
+        "contract": "0x1f468685658a214db428ec8d1fbd16123b2fd9b5",
+        "price": null,
+        "usd": null
+      },
+      "0x555328f74b4cd5383db56f56b756499d55e03560": {
+        "symbol": "THINKING",
+        "amount": 15000.0,
+        "contract": "0x555328f74b4cd5383db56f56b756499d55e03560",
+        "price": null,
+        "usd": null
+      },
+      "0x49eedc52694cef6c5f58b50a064897591ae996fd": {
+        "symbol": "ROCK",
+        "amount": 15000.0,
+        "contract": "0x49eedc52694cef6c5f58b50a064897591ae996fd",
+        "price": null,
+        "usd": null
+      },
+      "0x8a4d080a51901979ef58b43f2ceeebce0b4e4829": {
+        "symbol": "LIQUITITTYGX",
+        "amount": 15000.0,
+        "contract": "0x8a4d080a51901979ef58b43f2ceeebce0b4e4829",
+        "price": null,
+        "usd": null
+      },
+      "0x635de2ca64322a48f5261b4b46c8002d26eeb7cc": {
+        "symbol": "POLYFOX",
+        "amount": 15000.0,
+        "contract": "0x635de2ca64322a48f5261b4b46c8002d26eeb7cc",
+        "price": null,
+        "usd": null
+      },
+      "0x2cbd2d1c3941d5cec59354a4e1cd03108b994454": {
+        "symbol": "CATO",
+        "amount": 15000.0,
+        "contract": "0x2cbd2d1c3941d5cec59354a4e1cd03108b994454",
+        "price": null,
+        "usd": null
+      },
+      "0xf6d2ccd33e95e73aea3b5b121f45b3927ab604af": {
+        "symbol": "RCF",
+        "amount": 15000.0,
+        "contract": "0xf6d2ccd33e95e73aea3b5b121f45b3927ab604af",
+        "price": null,
+        "usd": null
+      },
+      "0x51a3e35051fe9d085f167f60a1bb854f43760141": {
+        "symbol": "HOODRAT",
+        "amount": 15000.0,
+        "contract": "0x51a3e35051fe9d085f167f60a1bb854f43760141",
+        "price": null,
+        "usd": null
+      },
+      "0x6d605699c8ed4552c74dcf12d30beecc665e1032": {
+        "symbol": "hope",
+        "amount": 15000.0,
+        "contract": "0x6d605699c8ed4552c74dcf12d30beecc665e1032",
+        "price": null,
+        "usd": null
+      },
+      "0xad2b3d6fe4159a8bf6e7ea79aca100bad6e9fb63": {
+        "symbol": "CatGPT",
+        "amount": 15000.0,
+        "contract": "0xad2b3d6fe4159a8bf6e7ea79aca100bad6e9fb63",
+        "price": null,
+        "usd": null
+      },
+      "0xba80d6579ea4fcc6537c216f90e221a1f24a0790": {
+        "symbol": "bread",
+        "amount": 15000.0,
+        "contract": "0xba80d6579ea4fcc6537c216f90e221a1f24a0790",
+        "price": null,
+        "usd": null
+      },
+      "0x719baac59eaf9246b5a929c76309b9d41bd24258": {
+        "symbol": "POPCAT",
+        "amount": 15000.0,
+        "contract": "0x719baac59eaf9246b5a929c76309b9d41bd24258",
+        "price": null,
+        "usd": null
+      },
+      "0x01ba3999c4e98ef5e3b2259123d9f9d6448b516f": {
+        "symbol": "CatGPT",
+        "amount": 15000.0,
+        "contract": "0x01ba3999c4e98ef5e3b2259123d9f9d6448b516f",
+        "price": null,
+        "usd": null
+      },
+      "0x907d978460a8f6cb9133d9cb9fea3a0a8e5a16f3": {
+        "symbol": "Chong",
+        "amount": 15000.0,
+        "contract": "0x907d978460a8f6cb9133d9cb9fea3a0a8e5a16f3",
+        "price": null,
+        "usd": null
+      },
+      "0x5d91e3d4633d98b4389ef9899a4f77dc5056395c": {
+        "symbol": "PONSHUB",
+        "amount": 15000.0,
+        "contract": "0x5d91e3d4633d98b4389ef9899a4f77dc5056395c",
+        "price": null,
+        "usd": null
+      },
+      "0xa204d724de3074b74bf7cd947a5d6bf50dabd4fe": {
+        "symbol": "PATIENCE",
+        "amount": 15000.0,
+        "contract": "0xa204d724de3074b74bf7cd947a5d6bf50dabd4fe",
+        "price": null,
+        "usd": null
+      },
+      "0xbb9caa93aa93b5f6147a597537d3246fa96922fb": {
+        "symbol": "HODL",
+        "amount": 15000.0,
+        "contract": "0xbb9caa93aa93b5f6147a597537d3246fa96922fb",
+        "price": null,
+        "usd": null
+      },
+      "0x16df8b19223f67861bfc5fbb837a67daefa944c8": {
+        "symbol": "farmcat",
+        "amount": 15000.0,
+        "contract": "0x16df8b19223f67861bfc5fbb837a67daefa944c8",
+        "price": null,
+        "usd": null
+      },
+      "0x0246fd3d770fabb86a20fa76d0acb3938df18b5b": {
+        "symbol": "FODL",
+        "amount": 15000.0,
+        "contract": "0x0246fd3d770fabb86a20fa76d0acb3938df18b5b",
+        "price": null,
+        "usd": null
+      },
+      "0xda00beea1fb65db8bb9b54da0b2e296b05fc30df": {
+        "symbol": "EVILCAT",
+        "amount": 15000.0,
+        "contract": "0xda00beea1fb65db8bb9b54da0b2e296b05fc30df",
+        "price": null,
+        "usd": null
+      },
+      "0xef1e2e375206c0c93fedf3665738e07a18583617": {
+        "symbol": "FOMO",
+        "amount": 15000.0,
+        "contract": "0xef1e2e375206c0c93fedf3665738e07a18583617",
+        "price": null,
+        "usd": null
+      },
+      "0xb7a56da51db8f461c48e82ab952e1fd2add91074": {
+        "symbol": "TRUM",
+        "amount": 15000.0,
+        "contract": "0xb7a56da51db8f461c48e82ab952e1fd2add91074",
+        "price": null,
+        "usd": null
+      },
+      "0xa3b0325b296cb6ab3a173a0f57521b5abff3c61c": {
+        "symbol": "LONGCAT",
+        "amount": 15000.0,
+        "contract": "0xa3b0325b296cb6ab3a173a0f57521b5abff3c61c",
+        "price": null,
+        "usd": null
+      },
+      "0xeadf782e99d6ff27dd9da041c8eee884638ef9da": {
+        "symbol": "SHRTCAT",
+        "amount": 15000.0,
+        "contract": "0xeadf782e99d6ff27dd9da041c8eee884638ef9da",
+        "price": null,
+        "usd": null
+      },
+      "0x2163fe95af417cc9c3aeb2e1b1ce81a45891db23": {
+        "symbol": "THIS",
+        "amount": 15000.0,
+        "contract": "0x2163fe95af417cc9c3aeb2e1b1ce81a45891db23",
+        "price": null,
+        "usd": null
+      },
+      "0x5fb83c6edb884e3990dd7f0c567daf6988eab6f1": {
+        "symbol": "catcore",
+        "amount": 15000.0,
+        "contract": "0x5fb83c6edb884e3990dd7f0c567daf6988eab6f1",
+        "price": null,
+        "usd": null
+      },
+      "0x838513cf4856f0e5383776cc3edaf8af4f39883f": {
+        "symbol": "Brita",
+        "amount": 15000.0,
+        "contract": "0x838513cf4856f0e5383776cc3edaf8af4f39883f",
+        "price": null,
+        "usd": null
+      },
+      "0xccb8a1c9ca4f88b1c18c7584c473706c6e92fb5b": {
+        "symbol": "CAT",
+        "amount": 15000.0,
+        "contract": "0xccb8a1c9ca4f88b1c18c7584c473706c6e92fb5b",
+        "price": null,
+        "usd": null
+      },
+      "0x5a56f8bff7f0347d6b543cb207afe9bfb8168e44": {
+        "symbol": "SKR",
+        "amount": 15000.0,
+        "contract": "0x5a56f8bff7f0347d6b543cb207afe9bfb8168e44",
+        "price": null,
+        "usd": null
+      },
+      "0x22042845b97deebfe7ce5bb9484d632c64067372": {
+        "symbol": "CATOTHY",
+        "amount": 15000.0,
+        "contract": "0x22042845b97deebfe7ce5bb9484d632c64067372",
+        "price": null,
+        "usd": null
+      },
+      "0x6985e623eccfc5f1cc418f55e11aedad50fc9485": {
+        "symbol": "MANTEN",
+        "amount": 15000.0,
+        "contract": "0x6985e623eccfc5f1cc418f55e11aedad50fc9485",
+        "price": null,
+        "usd": null
+      },
+      "0x15dd3c78c109788ef8a87f23109e879800b952d4": {
+        "symbol": "FCAT",
+        "amount": 15000.0,
+        "contract": "0x15dd3c78c109788ef8a87f23109e879800b952d4",
+        "price": null,
+        "usd": null
+      },
+      "0x981610c132b19ae06fecb49b36e405482b6c72d8": {
+        "symbol": "GIGABULL",
+        "amount": 15000.0,
+        "contract": "0x981610c132b19ae06fecb49b36e405482b6c72d8",
+        "price": null,
+        "usd": null
+      },
+      "0xa5b1987b380b1047be765feba4776867be23a69a": {
+        "symbol": "nerdcat",
+        "amount": 15000.0,
+        "contract": "0xa5b1987b380b1047be765feba4776867be23a69a",
+        "price": null,
+        "usd": null
+      },
+      "0x6be5b3d09af420619a98599fc72e729b66326dc3": {
+        "symbol": "Chepe",
+        "amount": 15000.0,
+        "contract": "0x6be5b3d09af420619a98599fc72e729b66326dc3",
+        "price": null,
+        "usd": null
+      },
+      "0xcdaf90307f3436573b83ed7134b562b8ed78d0ec": {
+        "symbol": "CATO",
+        "amount": 15000.0,
+        "contract": "0xcdaf90307f3436573b83ed7134b562b8ed78d0ec",
+        "price": null,
+        "usd": null
+      },
+      "0x13f565968ad484b985dd91d5ce0fd6ac08b31e15": {
+        "symbol": "SON",
+        "amount": 15000.0,
+        "contract": "0x13f565968ad484b985dd91d5ce0fd6ac08b31e15",
+        "price": null,
+        "usd": null
+      },
+      "0x1c465f918988f6503f60e3bcac517c50889fdcbb": {
+        "symbol": "cashcatminer",
+        "amount": 15000.0,
+        "contract": "0x1c465f918988f6503f60e3bcac517c50889fdcbb",
+        "price": null,
+        "usd": null
+      },
+      "0x67b7c4bf74f79771b0cfcec9a781fa67b3390d3a": {
+        "symbol": "Moonbot",
+        "amount": 15000.0,
+        "contract": "0x67b7c4bf74f79771b0cfcec9a781fa67b3390d3a",
+        "price": null,
+        "usd": null
+      },
+      "0x4804a5573df6d1167cef239c9110014521eb30c8": {
+        "symbol": "UCAT",
+        "amount": 15000.0,
+        "contract": "0x4804a5573df6d1167cef239c9110014521eb30c8",
+        "price": null,
+        "usd": null
+      },
+      "0x165aa36a523cb0bceb385f7d45d33c8aada2374b": {
+        "symbol": "BIZCAT",
+        "amount": 15000.0,
+        "contract": "0x165aa36a523cb0bceb385f7d45d33c8aada2374b",
+        "price": null,
+        "usd": null
+      },
+      "0x7749a0d878458b0892ab957be6a88df8d3508306": {
+        "symbol": "CATHOUSE",
+        "amount": 15000.0,
+        "contract": "0x7749a0d878458b0892ab957be6a88df8d3508306",
+        "price": null,
+        "usd": null
+      },
+      "0xee5a9462699a1a0d6b8d84dbc662320bcacc41ce": {
+        "symbol": "HIM",
+        "amount": 15000.0,
+        "contract": "0xee5a9462699a1a0d6b8d84dbc662320bcacc41ce",
+        "price": null,
+        "usd": null
+      },
+      "0x4b185d00d71861847d9d38be0076f605cae40f69": {
+        "symbol": "anicat",
+        "amount": 15000.0,
+        "contract": "0x4b185d00d71861847d9d38be0076f605cae40f69",
+        "price": null,
+        "usd": null
+      },
+      "0x015ba565b8ece5279b5af31b95f0b645df49eeae": {
+        "symbol": "GENJ",
+        "amount": 15000.0,
+        "contract": "0x015ba565b8ece5279b5af31b95f0b645df49eeae",
+        "price": null,
+        "usd": null
+      },
+      "0x7c9be5bb18f3211b31e0019740fa646106dcc597": {
+        "symbol": "LOOSY",
+        "amount": 15000.0,
+        "contract": "0x7c9be5bb18f3211b31e0019740fa646106dcc597",
+        "price": null,
+        "usd": null
+      },
+      "0xac901c494742e6d6f1918e98fe5fb4bf5957bb07": {
+        "symbol": ":p",
+        "amount": 15000.0,
+        "contract": "0xac901c494742e6d6f1918e98fe5fb4bf5957bb07",
+        "price": null,
+        "usd": null
+      },
+      "0x835a1e14e7d3d061abc99d06014f117051ced707": {
+        "symbol": "SOF",
+        "amount": 15000.0,
+        "contract": "0x835a1e14e7d3d061abc99d06014f117051ced707",
+        "price": null,
+        "usd": null
+      },
+      "0x5c92c9fc9c8a59f64e1a6f39d43588df9641105b": {
+        "symbol": "KORI",
+        "amount": 15000.0,
+        "contract": "0x5c92c9fc9c8a59f64e1a6f39d43588df9641105b",
+        "price": null,
+        "usd": null
+      },
+      "0xd2f7be2f9c6dfcefa771f540b75331e60f688a19": {
+        "symbol": "PURPE",
+        "amount": 15000.0,
+        "contract": "0xd2f7be2f9c6dfcefa771f540b75331e60f688a19",
+        "price": null,
+        "usd": null
+      },
+      "0xa851652d28fa788a453869f764c821b50657eda2": {
+        "symbol": "BNUT",
+        "amount": 15000.0,
+        "contract": "0xa851652d28fa788a453869f764c821b50657eda2",
+        "price": null,
+        "usd": null
+      },
+      "0x0a4bb6023626a5a358395fdff53a4b3b4b9f2c68": {
+        "symbol": "pitbull",
+        "amount": 15000.0,
+        "contract": "0x0a4bb6023626a5a358395fdff53a4b3b4b9f2c68",
+        "price": null,
+        "usd": null
+      },
+      "0x81c4cc2179322782bddc31cd38d55f4bc7c866cb": {
+        "symbol": "FELINE",
+        "amount": 15000.0,
+        "contract": "0x81c4cc2179322782bddc31cd38d55f4bc7c866cb",
+        "price": null,
+        "usd": null
+      },
+      "0x2e55abb2bc6e08e39da92ec61b9061a63b09bbeb": {
+        "symbol": "DOGSHIT",
+        "amount": 15000.0,
+        "contract": "0x2e55abb2bc6e08e39da92ec61b9061a63b09bbeb",
+        "price": null,
+        "usd": null
+      },
+      "0xba948d9aa471582451aec69f7d3014a628275655": {
+        "symbol": "CASH",
+        "amount": 15000.0,
+        "contract": "0xba948d9aa471582451aec69f7d3014a628275655",
+        "price": null,
+        "usd": null
+      },
+      "0x260fb74f76b25d120169697af4962427d9cbf31e": {
+        "symbol": "AIR",
+        "amount": 15000.0,
+        "contract": "0x260fb74f76b25d120169697af4962427d9cbf31e",
+        "price": null,
+        "usd": null
+      },
+      "0x9560e78f709e035cb48c9ed45e12eedcb6a8e194": {
+        "symbol": "RYDER",
+        "amount": 15000.0,
+        "contract": "0x9560e78f709e035cb48c9ed45e12eedcb6a8e194",
+        "price": null,
+        "usd": null
+      },
+      "0xac60961c02053e30c0a37d334b23551a44ebe5bf": {
+        "symbol": "HAKU",
+        "amount": 15000.0,
+        "contract": "0xac60961c02053e30c0a37d334b23551a44ebe5bf",
+        "price": null,
+        "usd": null
+      },
+      "0xfde764a4c9514e0be752a3e5bc925aeff01100b8": {
+        "symbol": "CHIP",
+        "amount": 15000.0,
+        "contract": "0xfde764a4c9514e0be752a3e5bc925aeff01100b8",
+        "price": null,
+        "usd": null
+      },
+      "0x59992f2b286f834e61188ba09eaae2d72315d5ee": {
+        "symbol": "MARS",
+        "amount": 15000.0,
+        "contract": "0x59992f2b286f834e61188ba09eaae2d72315d5ee",
+        "price": null,
+        "usd": null
+      },
+      "0x7f92a31b654b0cfab3a321a4c5ed4ee2dda151ff": {
+        "symbol": "MORPH",
+        "amount": 15000.0,
+        "contract": "0x7f92a31b654b0cfab3a321a4c5ed4ee2dda151ff",
+        "price": null,
+        "usd": null
+      },
+      "0xb229b59b809efc7f063d277d89f1556184143477": {
+        "symbol": "PONS",
+        "amount": 15000.0,
+        "contract": "0xb229b59b809efc7f063d277d89f1556184143477",
+        "price": null,
+        "usd": null
+      },
+      "0xa85afae8a1fc0df2c338fda93ce642c3728e702f": {
+        "symbol": "FINANCE",
+        "amount": 15000.0,
+        "contract": "0xa85afae8a1fc0df2c338fda93ce642c3728e702f",
+        "price": null,
+        "usd": null
+      },
+      "0xf619f55cb1d1b86b5ba1ee8fca18fe968bed5ffc": {
+        "symbol": "FLOKI",
+        "amount": 15000.0,
+        "contract": "0xf619f55cb1d1b86b5ba1ee8fca18fe968bed5ffc",
+        "price": null,
+        "usd": null
+      },
+      "0x2c294f82c85d010535aac6fd88f80b416d206b0b": {
+        "symbol": "M2",
+        "amount": 15000.0,
+        "contract": "0x2c294f82c85d010535aac6fd88f80b416d206b0b",
+        "price": null,
+        "usd": null
+      },
+      "0xc5c2757e2faa0de6ab19f2054a8dcf756e635c21": {
+        "symbol": "RUBIO",
+        "amount": 15000.0,
+        "contract": "0xc5c2757e2faa0de6ab19f2054a8dcf756e635c21",
+        "price": null,
+        "usd": null
+      },
+      "0x2115c01a3b6e238199eaf42b9f8d0dc54c6920e5": {
+        "symbol": "M2",
+        "amount": 15000.0,
+        "contract": "0x2115c01a3b6e238199eaf42b9f8d0dc54c6920e5",
+        "price": null,
+        "usd": null
+      },
+      "0x90a906001630c2c9e9a8ad53cfb60462578341f0": {
+        "symbol": "XCOIN",
+        "amount": 15000.0,
+        "contract": "0x90a906001630c2c9e9a8ad53cfb60462578341f0",
+        "price": null,
+        "usd": null
+      },
+      "0x37a94b5aec01b5a2da3fb5a5e38767e259880662": {
+        "symbol": "FINANCE",
+        "amount": 15000.0,
+        "contract": "0x37a94b5aec01b5a2da3fb5a5e38767e259880662",
+        "price": null,
+        "usd": null
+      },
+      "0xc3a3511f1903cfed9347d3691e2fd9aa7de18e67": {
+        "symbol": "FEELESS",
+        "amount": 15000.0,
+        "contract": "0xc3a3511f1903cfed9347d3691e2fd9aa7de18e67",
+        "price": null,
+        "usd": null
+      },
+      "0x1098a3dd4c7f261d553b252475eb165a8dda47a9": {
+        "symbol": "URCOIN",
+        "amount": 15000.0,
+        "contract": "0x1098a3dd4c7f261d553b252475eb165a8dda47a9",
+        "price": null,
+        "usd": null
+      },
+      "0xb5a5d23674740720e560eea316af8219fd2e53ce": {
+        "symbol": "TRENCHDOG",
+        "amount": 15000.0,
+        "contract": "0xb5a5d23674740720e560eea316af8219fd2e53ce",
+        "price": null,
+        "usd": null
+      },
+      "0x0f2f54c8cdb8c966648b5b8d0f67aeb2b00e3671": {
+        "symbol": "HAKU",
+        "amount": 15000.0,
+        "contract": "0x0f2f54c8cdb8c966648b5b8d0f67aeb2b00e3671",
+        "price": null,
+        "usd": null
+      },
+      "0x129f6eada9f873aadb054c832bc15f1c6d0b53a4": {
+        "symbol": "casinu",
+        "amount": 15000.0,
+        "contract": "0x129f6eada9f873aadb054c832bc15f1c6d0b53a4",
+        "price": null,
+        "usd": null
+      },
+      "0x93810ac235c94b30cbc29ac6b32a2809eae36ed7": {
+        "symbol": "FROGE",
+        "amount": 15000.0,
+        "contract": "0x93810ac235c94b30cbc29ac6b32a2809eae36ed7",
+        "price": null,
+        "usd": null
+      },
+      "0xb29d3c6e1be82f262db755578f76bc67169a4039": {
+        "symbol": "BUBBLE",
+        "amount": 15000.0,
+        "contract": "0xb29d3c6e1be82f262db755578f76bc67169a4039",
+        "price": null,
+        "usd": null
+      },
+      "0xf29d57b233b09af47109b2396d306df5fe384b4a": {
+        "symbol": "ape",
+        "amount": 15000.0,
+        "contract": "0xf29d57b233b09af47109b2396d306df5fe384b4a",
+        "price": null,
+        "usd": null
+      },
+      "0x8dae6347514f87c06fd7b7a1fc3f01585a58ef32": {
+        "symbol": "MCD",
+        "amount": 15000.0,
+        "contract": "0x8dae6347514f87c06fd7b7a1fc3f01585a58ef32",
+        "price": null,
+        "usd": null
+      },
+      "0x51df27c22416648baa910ec20cd6f0845fe50c1b": {
+        "symbol": "SHIB",
+        "amount": 15000.0,
+        "contract": "0x51df27c22416648baa910ec20cd6f0845fe50c1b",
+        "price": null,
+        "usd": null
+      },
+      "0x088e629bd84afdf5f047d0e10d3d58e167b233e6": {
+        "symbol": "TORI",
+        "amount": 15000.0,
+        "contract": "0x088e629bd84afdf5f047d0e10d3d58e167b233e6",
+        "price": null,
+        "usd": null
+      },
+      "0xd2036b2f65e64e174307abdb01f04750697a3987": {
+        "symbol": "SNOW",
+        "amount": 15000.0,
+        "contract": "0xd2036b2f65e64e174307abdb01f04750697a3987",
+        "price": null,
+        "usd": null
+      },
+      "0x026de310cae2804c9a9a0c0fd818591df4319b0a": {
+        "symbol": "POW",
+        "amount": 15000.0,
+        "contract": "0x026de310cae2804c9a9a0c0fd818591df4319b0a",
+        "price": null,
+        "usd": null
+      },
+      "0x22c6e40bd89e4dfcd1ef103096f31ff546b64e01": {
+        "symbol": "ILYSM",
+        "amount": 15000.0,
+        "contract": "0x22c6e40bd89e4dfcd1ef103096f31ff546b64e01",
+        "price": null,
+        "usd": null
+      },
+      "0x012672b81b386109de1aed65646cfc8b05cb0b1d": {
+        "symbol": "BMI900",
+        "amount": 15000.0,
+        "contract": "0x012672b81b386109de1aed65646cfc8b05cb0b1d",
+        "price": null,
+        "usd": null
+      },
+      "0x6941bab36087c94d0c40e90be3d82b3eebaef37c": {
+        "symbol": "HAKU",
+        "amount": 15000.0,
+        "contract": "0x6941bab36087c94d0c40e90be3d82b3eebaef37c",
+        "price": null,
+        "usd": null
+      },
+      "0x3658cb6a4221248196e6a62ec96b4b8c157db78a": {
+        "symbol": "ilysm",
+        "amount": 15000.0,
+        "contract": "0x3658cb6a4221248196e6a62ec96b4b8c157db78a",
+        "price": null,
+        "usd": null
+      },
+      "0x14dd87b8020b681b43457aa851e175e458894c3b": {
+        "symbol": "M2",
+        "amount": 15000.0,
+        "contract": "0x14dd87b8020b681b43457aa851e175e458894c3b",
+        "price": null,
+        "usd": null
+      },
+      "0x15e44356e9ce0fccd5ca38941592771b2746d558": {
+        "symbol": "PONK",
+        "amount": 15000.0,
+        "contract": "0x15e44356e9ce0fccd5ca38941592771b2746d558",
+        "price": null,
+        "usd": null
+      },
+      "0xeefd154925e8bd30c09c3af9f9ffa75a17e2c6d2": {
+        "symbol": "FARTBABY",
+        "amount": 15000.0,
+        "contract": "0xeefd154925e8bd30c09c3af9f9ffa75a17e2c6d2",
+        "price": null,
+        "usd": null
+      },
+      "0x88dd4b902a42609fea41b38d7d5850382cefb742": {
+        "symbol": "GOOGLE",
+        "amount": 15000.0,
+        "contract": "0x88dd4b902a42609fea41b38d7d5850382cefb742",
+        "price": null,
+        "usd": null
+      },
+      "0xf93be1c78a3b41165b53ebb717c7b10b01240eeb": {
+        "symbol": "PONSFAMILY",
+        "amount": 15000.0,
+        "contract": "0xf93be1c78a3b41165b53ebb717c7b10b01240eeb",
+        "price": null,
+        "usd": null
+      },
+      "0x6992fe39d1781316b128618e64de3da9f0e1f9a4": {
+        "symbol": "OPAI",
+        "amount": 15000.0,
+        "contract": "0x6992fe39d1781316b128618e64de3da9f0e1f9a4",
+        "price": null,
+        "usd": null
+      },
+      "0x1e79f22c4c561e9cda30e0b4de3fb96e65aad557": {
+        "symbol": "Coca-Cola",
+        "amount": 15000.0,
+        "contract": "0x1e79f22c4c561e9cda30e0b4de3fb96e65aad557",
+        "price": null,
+        "usd": null
+      },
+      "0xcd9bfc17881f3c8778c8fec3d41e1cb2480a7e1f": {
+        "symbol": "Octopus",
+        "amount": 15000.0,
+        "contract": "0xcd9bfc17881f3c8778c8fec3d41e1cb2480a7e1f",
+        "price": null,
+        "usd": null
+      },
+      "0xb461f998b9bbb12277da4daa66f78755fba43530": {
+        "symbol": "OPUS",
+        "amount": 15000.0,
+        "contract": "0xb461f998b9bbb12277da4daa66f78755fba43530",
+        "price": null,
+        "usd": null
+      },
+      "0x2ad2bc3fa01827986ecac19b3d036f9248cf9466": {
+        "symbol": "Flopus",
+        "amount": 15000.0,
+        "contract": "0x2ad2bc3fa01827986ecac19b3d036f9248cf9466",
+        "price": null,
+        "usd": null
+      },
+      "0x465427e997a03368481a1473b0ce882b3a07651c": {
+        "symbol": "PONSINU",
+        "amount": 15000.0,
+        "contract": "0x465427e997a03368481a1473b0ce882b3a07651c",
+        "price": null,
+        "usd": null
+      },
+      "0x90e013dd343d3ef026f5f5bf4a88a2342064487d": {
+        "symbol": "iCoin",
+        "amount": 15000.0,
+        "contract": "0x90e013dd343d3ef026f5f5bf4a88a2342064487d",
+        "price": null,
+        "usd": null
+      },
+      "0x8304c828ae0b9d304a68b3d5fccff09488bb518f": {
+        "symbol": "Octopus",
+        "amount": 15000.0,
+        "contract": "0x8304c828ae0b9d304a68b3d5fccff09488bb518f",
+        "price": null,
+        "usd": null
+      },
+      "0xfa6f7c359dcd5ba93294ff33e619de1c7d95608e": {
+        "symbol": "CATCOIN",
+        "amount": 15000.0,
+        "contract": "0xfa6f7c359dcd5ba93294ff33e619de1c7d95608e",
+        "price": null,
+        "usd": null
+      },
+      "0xab43942d1f9eac8f09d67afc5ebcf501f08b820f": {
+        "symbol": "FLOKI",
+        "amount": 15000.0,
+        "contract": "0xab43942d1f9eac8f09d67afc5ebcf501f08b820f",
+        "price": null,
+        "usd": null
+      },
+      "0xfc4dce9083107266d73a10ab4ea8a1b3230d78e7": {
+        "symbol": "PONSKING",
+        "amount": 15000.0,
+        "contract": "0xfc4dce9083107266d73a10ab4ea8a1b3230d78e7",
+        "price": null,
+        "usd": null
+      },
+      "0x3b36b208bc0a6409a32283f4bb05ab58f97d60ad": {
+        "symbol": "CHANEL",
+        "amount": 15000.0,
+        "contract": "0x3b36b208bc0a6409a32283f4bb05ab58f97d60ad",
+        "price": null,
+        "usd": null
+      },
+      "0x12b057f09c04902ce12bb74d79934222cef218d5": {
+        "symbol": "FLOKI",
+        "amount": 15000.0,
+        "contract": "0x12b057f09c04902ce12bb74d79934222cef218d5",
+        "price": null,
+        "usd": null
+      },
+      "0xda173b16fcfe8a8954170d396f16ed3db4de7f61": {
+        "symbol": "HATCOIN",
+        "amount": 15000.0,
+        "contract": "0xda173b16fcfe8a8954170d396f16ed3db4de7f61",
+        "price": null,
+        "usd": null
+      },
+      "0x619144cae1f84099752a545aafbbd72b94040f5f": {
+        "symbol": "Aircoin",
+        "amount": 15000.0,
+        "contract": "0x619144cae1f84099752a545aafbbd72b94040f5f",
+        "price": null,
+        "usd": null
+      },
+      "0xcd6171b4596c25259ac3abfe9b4fb34b351d818e": {
+        "symbol": "cryptards",
+        "amount": 15000.0,
+        "contract": "0xcd6171b4596c25259ac3abfe9b4fb34b351d818e",
+        "price": null,
+        "usd": null
+      },
+      "0x0c198173f505ecf15216fe49cf39bdc770c3193a": {
+        "symbol": "RAMCOIN",
+        "amount": 15000.0,
+        "contract": "0x0c198173f505ecf15216fe49cf39bdc770c3193a",
+        "price": null,
+        "usd": null
+      },
+      "0x2a06e62efd2eab1295ff2f38aee859401cf876bf": {
+        "symbol": "BEPE",
+        "amount": 15000.0,
+        "contract": "0x2a06e62efd2eab1295ff2f38aee859401cf876bf",
+        "price": null,
+        "usd": null
+      },
+      "0x1716724c0af36f45f5bd5a649f4955d315f6ee03": {
+        "symbol": "ape",
+        "amount": 15000.0,
+        "contract": "0x1716724c0af36f45f5bd5a649f4955d315f6ee03",
+        "price": null,
+        "usd": null
+      },
+      "0x50a90ff767b57e62d0a47967b1dfbeb08506e4cb": {
+        "symbol": "VIBECAT",
+        "amount": 15000.0,
+        "contract": "0x50a90ff767b57e62d0a47967b1dfbeb08506e4cb",
+        "price": null,
+        "usd": null
+      },
+      "0xef6bfe711680029f0fed68fda66f8fdce862cc8d": {
+        "symbol": "HATCAT",
+        "amount": 15000.0,
+        "contract": "0xef6bfe711680029f0fed68fda66f8fdce862cc8d",
+        "price": null,
+        "usd": null
+      },
+      "0x3b2dd46499772de55f7b393f70cb1e174014ce66": {
+        "symbol": "BAGHOLDER",
+        "amount": 15000.0,
+        "contract": "0x3b2dd46499772de55f7b393f70cb1e174014ce66",
+        "price": null,
+        "usd": null
+      },
+      "0x3e604bafd74c7f7adde7930d5e3b933f83e43536": {
+        "symbol": "FLAPONS",
+        "amount": 15000.0,
+        "contract": "0x3e604bafd74c7f7adde7930d5e3b933f83e43536",
+        "price": null,
+        "usd": null
+      },
+      "0x5b17d3dbae24b74b5c627eb7b864f0f709311a2f": {
+        "symbol": "IAMGAY",
+        "amount": 15000.0,
+        "contract": "0x5b17d3dbae24b74b5c627eb7b864f0f709311a2f",
+        "price": null,
+        "usd": null
+      },
+      "0x5286e8507237aa38c2215d7a1d46412f361e5e9f": {
+        "symbol": "Duckling",
+        "amount": 15000.0,
+        "contract": "0x5286e8507237aa38c2215d7a1d46412f361e5e9f",
+        "price": null,
+        "usd": null
+      },
+      "0xacff1e4659c65062b96ffdc0d568c051e20ad0c5": {
+        "symbol": "Nuadueng",
+        "amount": 15000.0,
+        "contract": "0xacff1e4659c65062b96ffdc0d568c051e20ad0c5",
+        "price": null,
+        "usd": null
+      },
+      "0x5441053482a1c22d54acf9b59a76f5045a227d5f": {
+        "symbol": "FPONS",
+        "amount": 15000.0,
+        "contract": "0x5441053482a1c22d54acf9b59a76f5045a227d5f",
+        "price": null,
+        "usd": null
+      },
+      "0x636b9e924edff3c6645274d4ff75fed57e9ec62b": {
+        "symbol": "PONSANR",
+        "amount": 15000.0,
+        "contract": "0x636b9e924edff3c6645274d4ff75fed57e9ec62b",
+        "price": null,
+        "usd": null
+      },
+      "0x9ad94b1e391674d36c97c3ce58bb92286539dcd7": {
+        "symbol": "CAT",
+        "amount": 15000.0,
+        "contract": "0x9ad94b1e391674d36c97c3ce58bb92286539dcd7",
+        "price": null,
+        "usd": null
+      },
+      "0xa23113327493bd400123d873026d678e16116579": {
+        "symbol": "BullPad",
+        "amount": 15000.0,
+        "contract": "0xa23113327493bd400123d873026d678e16116579",
+        "price": null,
+        "usd": null
+      },
+      "0x76343234b5a85a6efd140f1ad2232d15cbdc741d": {
+        "symbol": "PONS",
+        "amount": 15000.0,
+        "contract": "0x76343234b5a85a6efd140f1ad2232d15cbdc741d",
+        "price": null,
+        "usd": null
+      },
+      "0x49af763e616364f7f56e6bbb2b333b896557696f": {
+        "symbol": "UNICORN",
+        "amount": 15000.0,
+        "contract": "0x49af763e616364f7f56e6bbb2b333b896557696f",
+        "price": null,
+        "usd": null
+      },
+      "0xd1c57564faa76c796b48071378b78389cf63346d": {
+        "symbol": "AGENC",
+        "amount": 15000.0,
+        "contract": "0xd1c57564faa76c796b48071378b78389cf63346d",
+        "price": null,
+        "usd": null
+      },
+      "0xf9638c8952a82a5f4774a0501664e406d4d0b147": {
+        "symbol": "DARLABRESEARCH",
+        "amount": 15000.0,
+        "contract": "0xf9638c8952a82a5f4774a0501664e406d4d0b147",
+        "price": null,
+        "usd": null
+      },
+      "0x8dbc59d392347d9316052c0ce21edf6bcadb0ee0": {
+        "symbol": "outsider",
+        "amount": 15000.0,
+        "contract": "0x8dbc59d392347d9316052c0ce21edf6bcadb0ee0",
+        "price": null,
+        "usd": null
+      },
+      "0x8934e493c671d1db4c1dd520f002a2c9f14490c4": {
+        "symbol": "APHRO",
+        "amount": 15000.0,
+        "contract": "0x8934e493c671d1db4c1dd520f002a2c9f14490c4",
+        "price": null,
+        "usd": null
+      },
+      "0x10ba455a384b19146fcbf6734011cdb8b00c97ee": {
+        "symbol": "c@",
+        "amount": 15000.0,
+        "contract": "0x10ba455a384b19146fcbf6734011cdb8b00c97ee",
+        "price": null,
+        "usd": null
+      },
+      "0xa514371190c00632d1f1f1bc3ae49069c9a1235b": {
+        "symbol": "FLOKI",
+        "amount": 15000.0,
+        "contract": "0xa514371190c00632d1f1f1bc3ae49069c9a1235b",
+        "price": null,
+        "usd": null
+      },
+      "0x1361101183731dcac4acdad45e66194059b1c58b": {
+        "symbol": "MARS",
+        "amount": 15000.0,
+        "contract": "0x1361101183731dcac4acdad45e66194059b1c58b",
+        "price": null,
+        "usd": null
+      },
+      "0xcc4feb36ad49f4aad2a3348afc15225d2bcd43c8": {
+        "symbol": "bruno",
+        "amount": 15000.0,
+        "contract": "0xcc4feb36ad49f4aad2a3348afc15225d2bcd43c8",
+        "price": null,
+        "usd": null
+      },
+      "0xde79211fd25a68670ab77f49d76267f25ec7f60c": {
+        "symbol": "/ape",
+        "amount": 15000.0,
+        "contract": "0xde79211fd25a68670ab77f49d76267f25ec7f60c",
+        "price": null,
+        "usd": null
+      },
+      "0x7a439a27e9a04506ffc76f6d4011aa6f6bfeecc7": {
+        "symbol": "SEAT⁠",
+        "amount": 15000.0,
+        "contract": "0x7a439a27e9a04506ffc76f6d4011aa6f6bfeecc7",
+        "price": null,
+        "usd": null
+      },
+      "0x0f5fa324bc108c61235c97fa2c64ed575b8b9f26": {
+        "symbol": "ELON",
+        "amount": 15000.0,
+        "contract": "0x0f5fa324bc108c61235c97fa2c64ed575b8b9f26",
+        "price": null,
+        "usd": null
+      },
+      "0xcd78ba221ab4d527e5bf8286b543d626aa13e8fe": {
+        "symbol": "Memecoin",
+        "amount": 15000.0,
+        "contract": "0xcd78ba221ab4d527e5bf8286b543d626aa13e8fe",
+        "price": null,
+        "usd": null
+      },
+      "0x56e05a26443d9e39876643d16ff1dbd123d2f357": {
+        "symbol": "MEME",
+        "amount": 15000.0,
+        "contract": "0x56e05a26443d9e39876643d16ff1dbd123d2f357",
+        "price": null,
+        "usd": null
+      },
+      "0x05b6a0a1d216d4e2c04a51a8b90a37fa5cfa437b": {
+        "symbol": "MARS",
+        "amount": 15000.0,
+        "contract": "0x05b6a0a1d216d4e2c04a51a8b90a37fa5cfa437b",
+        "price": null,
+        "usd": null
+      },
+      "0xecd6ab54ecf1a057b839cb8641fe509a9b298233": {
+        "symbol": "UNIPCS",
+        "amount": 15000.0,
+        "contract": "0xecd6ab54ecf1a057b839cb8641fe509a9b298233",
+        "price": null,
+        "usd": null
+      },
+      "0xb219aac42bb92044a9f74e177c5a7cf7b767d6cb": {
+        "symbol": "PIPEPONS",
+        "amount": 15000.0,
+        "contract": "0xb219aac42bb92044a9f74e177c5a7cf7b767d6cb",
+        "price": null,
+        "usd": null
+      },
+      "0x973ad3e47ac069bd1d475f4fdbcec03709810d2a": {
+        "symbol": "PONS2",
+        "amount": 15000.0,
+        "contract": "0x973ad3e47ac069bd1d475f4fdbcec03709810d2a",
+        "price": null,
+        "usd": null
+      },
+      "0xc9cd1e06b4be26654865343bca103cac89d58c1a": {
+        "symbol": "SimixoX",
+        "amount": 15000.0,
+        "contract": "0xc9cd1e06b4be26654865343bca103cac89d58c1a",
+        "price": null,
+        "usd": null
+      },
+      "0x697eaef5431b6c69510b879acfd23f2ab1bd6ab6": {
+        "symbol": "PONS",
+        "amount": 15000.0,
+        "contract": "0x697eaef5431b6c69510b879acfd23f2ab1bd6ab6",
+        "price": null,
+        "usd": null
+      },
+      "0xf648925f004c82582a8b689b5c1c192b3e5efc72": {
+        "symbol": "Stingroo",
+        "amount": 15000.0,
+        "contract": "0xf648925f004c82582a8b689b5c1c192b3e5efc72",
+        "price": null,
+        "usd": null
+      },
+      "0x36ac26f1207564706c94e8ef801ed931cf1212f5": {
+        "symbol": "PONSV2",
+        "amount": 15000.0,
+        "contract": "0x36ac26f1207564706c94e8ef801ed931cf1212f5",
+        "price": null,
+        "usd": null
+      },
+      "0x36746bdeb925e454fc12e84425932c6ee811d02b": {
+        "symbol": "PONSAI",
+        "amount": 15000.0,
+        "contract": "0x36746bdeb925e454fc12e84425932c6ee811d02b",
+        "price": null,
+        "usd": null
+      },
+      "0xcdcdb8e67fd063db3fd86dc8b8fe32c0abe8064b": {
+        "symbol": "PONS",
+        "amount": 15000.0,
+        "contract": "0xcdcdb8e67fd063db3fd86dc8b8fe32c0abe8064b",
+        "price": null,
+        "usd": null
+      },
+      "0xf038cc807ffc0278e400b722c7d7a6ababc3b53b": {
+        "symbol": "Himothy",
+        "amount": 15000.0,
+        "contract": "0xf038cc807ffc0278e400b722c7d7a6ababc3b53b",
+        "price": null,
+        "usd": null
+      },
+      "0xeeedc0dbd55ec9f671405ad9f474ad9a1ef45881": {
+        "symbol": "MSFT",
+        "amount": 15000.0,
+        "contract": "0xeeedc0dbd55ec9f671405ad9f474ad9a1ef45881",
+        "price": null,
+        "usd": null
+      },
+      "0x763ed7d425ae3179127ec884584e5a5a2868e9dd": {
+        "symbol": "AVGO",
+        "amount": 15000.0,
+        "contract": "0x763ed7d425ae3179127ec884584e5a5a2868e9dd",
+        "price": null,
+        "usd": null
+      },
+      "0x412916f802df0ee8388876a9f289ff1bb180aea4": {
+        "symbol": "GITCOIN",
+        "amount": 15000.0,
+        "contract": "0x412916f802df0ee8388876a9f289ff1bb180aea4",
+        "price": null,
+        "usd": null
+      },
+      "0xaa067318e0b1c2282ca90d429e3059eb4bdbd98a": {
+        "symbol": "CTA",
+        "amount": 15000.0,
+        "contract": "0xaa067318e0b1c2282ca90d429e3059eb4bdbd98a",
+        "price": null,
+        "usd": null
+      },
+      "0xe3559ae8c63618f15d5373d2291c21af7906de04": {
+        "symbol": "ROOT",
+        "amount": 15000.0,
+        "contract": "0xe3559ae8c63618f15d5373d2291c21af7906de04",
+        "price": null,
+        "usd": null
+      },
+      "0xc39cf1ae6a1bf1047df639d70390059a5840582a": {
+        "symbol": "REDO",
+        "amount": 15000.0,
+        "contract": "0xc39cf1ae6a1bf1047df639d70390059a5840582a",
+        "price": null,
+        "usd": null
+      },
+      "0x5c3cc03f11a6c6b530ffcdb8d049c40e5fdb688b": {
+        "symbol": "CATE",
+        "amount": 15000.0,
+        "contract": "0x5c3cc03f11a6c6b530ffcdb8d049c40e5fdb688b",
+        "price": null,
+        "usd": null
+      },
+      "0x5dba0158ba52ecd063b11dd9d5d72b778a0b99eb": {
+        "symbol": "DORKL",
+        "amount": 15000.0,
+        "contract": "0x5dba0158ba52ecd063b11dd9d5d72b778a0b99eb",
+        "price": null,
+        "usd": null
+      },
+      "0x9d6d3d531df124d1f91865f927bd90a3ed9e043f": {
+        "symbol": "AMD",
+        "amount": 15000.0,
+        "contract": "0x9d6d3d531df124d1f91865f927bd90a3ed9e043f",
+        "price": null,
+        "usd": null
+      },
+      "0x804e9a94ffc09ab799ca201bceca8f33211aabee": {
+        "symbol": "CTO",
+        "amount": 15000.0,
+        "contract": "0x804e9a94ffc09ab799ca201bceca8f33211aabee",
+        "price": null,
+        "usd": null
+      },
+      "0xebb822aded9f750034035b8ffec4ffb44f1d75f8": {
+        "symbol": "AGI",
+        "amount": 15000.0,
+        "contract": "0xebb822aded9f750034035b8ffec4ffb44f1d75f8",
+        "price": null,
+        "usd": null
+      },
+      "0xda219b77fa2dc4726159354ea614fc49ed28f7bc": {
+        "symbol": "NEKO",
+        "amount": 15000.0,
+        "contract": "0xda219b77fa2dc4726159354ea614fc49ed28f7bc",
+        "price": null,
+        "usd": null
+      },
+      "0x6f7d114256ffc465d13701244d9a08d964048762": {
+        "symbol": "AGI",
+        "amount": 15000.0,
+        "contract": "0x6f7d114256ffc465d13701244d9a08d964048762",
+        "price": null,
+        "usd": null
+      },
+      "0x49a78ed2b1fdf94ac79ce03f82b2ead82a989d83": {
+        "symbol": "BONER",
+        "amount": 15000.0,
+        "contract": "0x49a78ed2b1fdf94ac79ce03f82b2ead82a989d83",
+        "price": null,
+        "usd": null
+      },
+      "0x809d557038d02a422357b5ff0e95bc00708c50b8": {
+        "symbol": "IMAGINE",
+        "amount": 15000.0,
+        "contract": "0x809d557038d02a422357b5ff0e95bc00708c50b8",
+        "price": null,
+        "usd": null
+      },
+      "0x32c06763906047a55b43e4cfe48d1b0d0e5dd9bd": {
+        "symbol": "NPC",
+        "amount": 15000.0,
+        "contract": "0x32c06763906047a55b43e4cfe48d1b0d0e5dd9bd",
+        "price": null,
+        "usd": null
+      },
+      "0xb7fbb6491221b31ac7f668a42313c578734f78bd": {
+        "symbol": "CLAUDE",
+        "amount": 15000.0,
+        "contract": "0xb7fbb6491221b31ac7f668a42313c578734f78bd",
+        "price": null,
+        "usd": null
+      },
+      "0x4f547d5a8723716b8140e567009f6447a6d77f91": {
+        "symbol": "ROJAK",
+        "amount": 15000.0,
+        "contract": "0x4f547d5a8723716b8140e567009f6447a6d77f91",
+        "price": null,
+        "usd": null
+      },
+      "0xf1e82b5a0d47717483d48e282c31e88aa8d8bea1": {
+        "symbol": "X",
+        "amount": 15000.0,
+        "contract": "0xf1e82b5a0d47717483d48e282c31e88aa8d8bea1",
+        "price": null,
+        "usd": null
+      },
+      "0xe7768f7678d412b177bf851b22f7aa0d3cf3b5df": {
+        "symbol": "Buffet",
+        "amount": 15000.0,
+        "contract": "0xe7768f7678d412b177bf851b22f7aa0d3cf3b5df",
+        "price": null,
+        "usd": null
+      },
+      "0x2e85dd3c799d084ea01e31749e72d9962971b451": {
+        "symbol": "Ai",
+        "amount": 15000.0,
+        "contract": "0x2e85dd3c799d084ea01e31749e72d9962971b451",
+        "price": null,
+        "usd": null
+      },
+      "0xd585a28067ceeea2907ea19228d10e207c440844": {
+        "symbol": "Merscoin",
+        "amount": 15000.0,
+        "contract": "0xd585a28067ceeea2907ea19228d10e207c440844",
+        "price": null,
+        "usd": null
+      },
+      "0xf5add03b5683ebb7fbc1c7bb07831cb714562f89": {
+        "symbol": "CLM",
+        "amount": 15000.0,
+        "contract": "0xf5add03b5683ebb7fbc1c7bb07831cb714562f89",
+        "price": null,
+        "usd": null
+      },
+      "0x83752c9d0e0484e14b14d41fefd4d72dc115f484": {
+        "symbol": "SHELL",
+        "amount": 15000.0,
+        "contract": "0x83752c9d0e0484e14b14d41fefd4d72dc115f484",
+        "price": null,
+        "usd": null
+      },
+      "0x10a3f381d9c14e4e45d82e9accbc989dc1d13b70": {
+        "symbol": "pow",
+        "amount": 15000.0,
+        "contract": "0x10a3f381d9c14e4e45d82e9accbc989dc1d13b70",
+        "price": null,
+        "usd": null
+      },
+      "0x184b6f6e5dc3d2a1069fbbd88a9826fc83687e92": {
+        "symbol": "ASCENDCATS",
+        "amount": 15000.0,
+        "contract": "0x184b6f6e5dc3d2a1069fbbd88a9826fc83687e92",
+        "price": null,
+        "usd": null
+      },
+      "0xbbfb7f591648145f3739844c08d7ff15af7749b4": {
+        "symbol": "Aluminu",
+        "amount": 15000.0,
+        "contract": "0xbbfb7f591648145f3739844c08d7ff15af7749b4",
+        "price": null,
+        "usd": null
+      },
+      "0x95f1418d60553f26c08a2a8c1bff47c6e76a20fb": {
+        "symbol": "Flywheel",
+        "amount": 15000.0,
+        "contract": "0x95f1418d60553f26c08a2a8c1bff47c6e76a20fb",
+        "price": null,
+        "usd": null
+      },
+      "0xdac54de70d72a876fbc0ccb49abab5f54d1c3975": {
+        "symbol": "MSTR",
+        "amount": 15000.0,
+        "contract": "0xdac54de70d72a876fbc0ccb49abab5f54d1c3975",
+        "price": null,
+        "usd": null
+      },
+      "0x8f5b5055d3186fd78d0fea20a6f2a0224272e97d": {
+        "symbol": "Robotinu",
+        "amount": 15000.0,
+        "contract": "0x8f5b5055d3186fd78d0fea20a6f2a0224272e97d",
+        "price": null,
+        "usd": null
+      },
+      "0x29cf92f3b878da735dfdefd69b98568637db7ac4": {
+        "symbol": "LDUCK",
+        "amount": 15000.0,
+        "contract": "0x29cf92f3b878da735dfdefd69b98568637db7ac4",
+        "price": null,
+        "usd": null
+      },
+      "0xa931eb7ff02e52d06f7c2dbb8060de3fe4b81926": {
+        "symbol": "pisscoin",
+        "amount": 15000.0,
+        "contract": "0xa931eb7ff02e52d06f7c2dbb8060de3fe4b81926",
+        "price": null,
+        "usd": null
+      },
+      "0x5c18e125fe7142187df1b5413583fd698bcb511b": {
+        "symbol": "STOCKS",
+        "amount": 15000.0,
+        "contract": "0x5c18e125fe7142187df1b5413583fd698bcb511b",
+        "price": null,
+        "usd": null
+      },
+      "0x8b25524d77757824c06f16e307901702b5e13583": {
+        "symbol": "Sansan",
+        "amount": 15000.0,
+        "contract": "0x8b25524d77757824c06f16e307901702b5e13583",
+        "price": null,
+        "usd": null
+      },
+      "0x675b501f19844777ffce8d80401643595755d800": {
+        "symbol": "SBM",
+        "amount": 15000.0,
+        "contract": "0x675b501f19844777ffce8d80401643595755d800",
+        "price": null,
+        "usd": null
+      },
+      "0x51bc7674e7bafc81a9d4c829298685fbe72fa869": {
+        "symbol": "TREMP",
+        "amount": 15000.0,
+        "contract": "0x51bc7674e7bafc81a9d4c829298685fbe72fa869",
+        "price": null,
+        "usd": null
+      },
+      "0x8391ff79e082705a20aad072c6215a457c6b5323": {
+        "symbol": "CPU",
+        "amount": 15000.0,
+        "contract": "0x8391ff79e082705a20aad072c6215a457c6b5323",
+        "price": null,
+        "usd": null
+      },
+      "0xa6b127071f7c93e288f06d18353384e6eae151c2": {
+        "symbol": "NVDA",
+        "amount": 15000.0,
+        "contract": "0xa6b127071f7c93e288f06d18353384e6eae151c2",
+        "price": null,
+        "usd": null
+      },
+      "0x8496d829fc984e164fa7fdc11c8fdd02042fb41c": {
+        "symbol": "sidelined",
+        "amount": 15000.0,
+        "contract": "0x8496d829fc984e164fa7fdc11c8fdd02042fb41c",
+        "price": null,
+        "usd": null
+      },
+      "0x0ecef8f65ef2f3d42db481b5dfeb6fd717c08d6e": {
+        "symbol": "IT",
+        "amount": 15000.0,
+        "contract": "0x0ecef8f65ef2f3d42db481b5dfeb6fd717c08d6e",
+        "price": null,
+        "usd": null
+      },
+      "0x0cefe30c576b0920f78dc90c2f0d80223c17590d": {
+        "symbol": "fomoinu",
+        "amount": 15000.0,
+        "contract": "0x0cefe30c576b0920f78dc90c2f0d80223c17590d",
+        "price": null,
+        "usd": null
+      },
+      "0x3d70c770a8c227d0381d56e11e729af171a3209b": {
+        "symbol": "bullism",
+        "amount": 15000.0,
+        "contract": "0x3d70c770a8c227d0381d56e11e729af171a3209b",
+        "price": null,
+        "usd": null
+      },
+      "0x102bf9f4fdbc8274fda713683b9a23cfb3fded87": {
+        "symbol": "SPX",
+        "amount": 15000.0,
+        "contract": "0x102bf9f4fdbc8274fda713683b9a23cfb3fded87",
+        "price": null,
+        "usd": null
+      },
+      "0x663a1bd71dafe89e5e0a9af608c1b9086c6c8aa7": {
+        "symbol": "TRUMP2028",
+        "amount": 15000.0,
+        "contract": "0x663a1bd71dafe89e5e0a9af608c1b9086c6c8aa7",
+        "price": null,
+        "usd": null
+      },
+      "0xe95bc788a2c0de6620811f0bba5700b048e1d7ff": {
+        "symbol": "PAW",
+        "amount": 15000.0,
+        "contract": "0xe95bc788a2c0de6620811f0bba5700b048e1d7ff",
+        "price": null,
+        "usd": null
+      },
+      "0x7b796a6190099b98b1c40df741ffa803f1173fcf": {
+        "symbol": "PLATINU",
+        "amount": 15000.0,
+        "contract": "0x7b796a6190099b98b1c40df741ffa803f1173fcf",
+        "price": null,
+        "usd": null
+      },
+      "0x13f250a3942afa278a87b3ae4691bbacfe9be555": {
+        "symbol": "Meowpin",
+        "amount": 15000.0,
+        "contract": "0x13f250a3942afa278a87b3ae4691bbacfe9be555",
+        "price": null,
+        "usd": null
+      },
+      "0x756ececac29d037426eb06b9145809a01ee3697a": {
+        "symbol": "NASCOCK",
+        "amount": 15000.0,
+        "contract": "0x756ececac29d037426eb06b9145809a01ee3697a",
+        "price": null,
+        "usd": null
+      },
+      "0x90bcd8cdc1bb4ff876ec4c8ae3ca34f885949426": {
+        "symbol": "MSTR",
+        "amount": 15000.0,
+        "contract": "0x90bcd8cdc1bb4ff876ec4c8ae3ca34f885949426",
+        "price": null,
+        "usd": null
+      },
+      "0x4e13d4ff785c711de7c30394ad088b35502aa9fd": {
+        "symbol": "ALLINU",
+        "amount": 15000.0,
+        "contract": "0x4e13d4ff785c711de7c30394ad088b35502aa9fd",
+        "price": null,
+        "usd": null
+      },
+      "0xf0c9179f51e926ff8d813abca3b0058db211173c": {
+        "symbol": "AGI",
+        "amount": 15000.0,
+        "contract": "0xf0c9179f51e926ff8d813abca3b0058db211173c",
+        "price": null,
+        "usd": null
+      },
+      "0x97559add436b869c64efbd75d56e78aaa248f7e1": {
+        "symbol": "CATE",
+        "amount": 15000.0,
+        "contract": "0x97559add436b869c64efbd75d56e78aaa248f7e1",
+        "price": null,
+        "usd": null
+      },
+      "0x580a16e7df21a4b83736d75916199b97aaef060c": {
+        "symbol": "Catcoin",
+        "amount": 15000.0,
+        "contract": "0x580a16e7df21a4b83736d75916199b97aaef060c",
+        "price": null,
+        "usd": null
+      },
+      "0x7217fcef65aca592e9b835a523d623ee1fe34c37": {
+        "symbol": "BONER",
+        "amount": 15000.0,
+        "contract": "0x7217fcef65aca592e9b835a523d623ee1fe34c37",
+        "price": null,
+        "usd": null
+      },
+      "0x3d60937598c15495a01ceac5290b13477a62b600": {
+        "symbol": "FOMOTARDS",
+        "amount": 15000.0,
+        "contract": "0x3d60937598c15495a01ceac5290b13477a62b600",
+        "price": null,
+        "usd": null
+      },
+      "0x3d58ef55b102822fb1809515c3ed32ae4e0e2dfc": {
+        "symbol": "FOMO",
+        "amount": 15000.0,
+        "contract": "0x3d58ef55b102822fb1809515c3ed32ae4e0e2dfc",
+        "price": null,
+        "usd": null
+      },
+      "0x0eeac69acfe3695c7ad74fe33a0cb4d187648d54": {
+        "symbol": "FOMIANS",
+        "amount": 15000.0,
+        "contract": "0x0eeac69acfe3695c7ad74fe33a0cb4d187648d54",
+        "price": null,
+        "usd": null
+      },
+      "0xe59487603ff49353799028e374d55ff2cb26c8de": {
+        "symbol": "REDDIT",
+        "amount": 15000.0,
+        "contract": "0xe59487603ff49353799028e374d55ff2cb26c8de",
+        "price": null,
+        "usd": null
+      },
+      "0x3839fdd312693cce243ca6b5b27e9ea194ef8195": {
+        "symbol": "FOMODOG",
+        "amount": 15000.0,
+        "contract": "0x3839fdd312693cce243ca6b5b27e9ea194ef8195",
+        "price": null,
+        "usd": null
+      },
+      "0xcc03f920274907204e5b1463e1a4ec865283023b": {
+        "symbol": "CPU",
+        "amount": 15000.0,
+        "contract": "0xcc03f920274907204e5b1463e1a4ec865283023b",
+        "price": null,
+        "usd": null
+      },
+      "0x8218c44f85b9e0ca1e26081a1b3fd13db6a213de": {
+        "symbol": "titcoin",
+        "amount": 15000.0,
+        "contract": "0x8218c44f85b9e0ca1e26081a1b3fd13db6a213de",
+        "price": null,
+        "usd": null
+      },
+      "0x1d09d53f0887ef802e99a0b0c10e15bc7e090dfa": {
+        "symbol": "FRAUG",
+        "amount": 15000.0,
+        "contract": "0x1d09d53f0887ef802e99a0b0c10e15bc7e090dfa",
+        "price": null,
+        "usd": null
+      },
+      "0x491a480a15dd60d24a93a3295676050ccda00bbd": {
+        "symbol": "FLM",
+        "amount": 15000.0,
+        "contract": "0x491a480a15dd60d24a93a3295676050ccda00bbd",
+        "price": null,
+        "usd": null
+      },
+      "0x258c13fef7261044d11a4b088af36da053dcfd97": {
+        "symbol": "BINGUS",
+        "amount": 15000.0,
+        "contract": "0x258c13fef7261044d11a4b088af36da053dcfd97",
+        "price": null,
+        "usd": null
+      },
+      "0xddcb1d6e3d1a811ef3bac1fc8a026de12f064fdc": {
+        "symbol": "Drage",
+        "amount": 15000.0,
+        "contract": "0xddcb1d6e3d1a811ef3bac1fc8a026de12f064fdc",
+        "price": null,
+        "usd": null
+      },
+      "0xb98638be30ae57af800882c5938387fcb3788d0c": {
+        "symbol": "Trump2",
+        "amount": 15000.0,
+        "contract": "0xb98638be30ae57af800882c5938387fcb3788d0c",
+        "price": null,
+        "usd": null
+      },
+      "0x2a3a6a672b5a97dd14075b2df14587aaf2e5e2bf": {
+        "symbol": "AGI",
+        "amount": 15000.0,
+        "contract": "0x2a3a6a672b5a97dd14075b2df14587aaf2e5e2bf",
+        "price": null,
+        "usd": null
+      },
+      "0xbda72649c86fbfe79bcf90c1cb8f7bf7bb73f7f0": {
+        "symbol": "AAPL",
+        "amount": 15000.0,
+        "contract": "0xbda72649c86fbfe79bcf90c1cb8f7bf7bb73f7f0",
+        "price": null,
+        "usd": null
+      },
+      "0x178325889d93b7b09839b1dae87f4a66298a1349": {
+        "symbol": "OWL",
+        "amount": 15000.0,
+        "contract": "0x178325889d93b7b09839b1dae87f4a66298a1349",
+        "price": null,
+        "usd": null
+      },
+      "0x75cd2ca22e2c0ca43475f9a3b64c04dc4f7e7caa": {
+        "symbol": "STARMAN",
+        "amount": 15000.0,
+        "contract": "0x75cd2ca22e2c0ca43475f9a3b64c04dc4f7e7caa",
+        "price": null,
+        "usd": null
+      },
+      "0xfc42e5791aa7d926d7beea850cac921d4ec061e5": {
+        "symbol": "ECOSYSTEM",
+        "amount": 15000.0,
+        "contract": "0xfc42e5791aa7d926d7beea850cac921d4ec061e5",
+        "price": null,
+        "usd": null
+      },
+      "0x8d05b8dc93d99a7cdb99f9c90724b7eed5691403": {
+        "symbol": "fomocat",
+        "amount": 15000.0,
+        "contract": "0x8d05b8dc93d99a7cdb99f9c90724b7eed5691403",
+        "price": null,
+        "usd": null
+      },
+      "0xe6150e15350e7ff60b70812f05234eb6bde9bdb9": {
+        "symbol": "Normie",
+        "amount": 15000.0,
+        "contract": "0xe6150e15350e7ff60b70812f05234eb6bde9bdb9",
+        "price": null,
+        "usd": null
+      },
+      "0x9582a9e140e3df0551ea9eed69b668ab60182348": {
+        "symbol": "GPU",
+        "amount": 15000.0,
+        "contract": "0x9582a9e140e3df0551ea9eed69b668ab60182348",
+        "price": null,
+        "usd": null
+      },
+      "0xf9f99a5a314be227020c240665b236d93adcb92a": {
+        "symbol": "AMC",
+        "amount": 15000.0,
+        "contract": "0xf9f99a5a314be227020c240665b236d93adcb92a",
+        "price": null,
+        "usd": null
+      },
+      "0x460990a9d36eb6ebdcc3b830906a05f645ce7fea": {
+        "symbol": "AMD",
+        "amount": 15000.0,
+        "contract": "0x460990a9d36eb6ebdcc3b830906a05f645ce7fea",
+        "price": null,
+        "usd": null
+      },
+      "0xf72e7b99100bc96ee826906d529dd3258c943f68": {
+        "symbol": "AMC",
+        "amount": 15000.0,
+        "contract": "0xf72e7b99100bc96ee826906d529dd3258c943f68",
+        "price": null,
+        "usd": null
+      },
+      "0x53ff75292632e40ede6cbad0ecdda9d212ec1fa7": {
+        "symbol": "META",
+        "amount": 15000.0,
+        "contract": "0x53ff75292632e40ede6cbad0ecdda9d212ec1fa7",
+        "price": null,
+        "usd": null
+      },
+      "0x7aae109090b86759475ed139407a83545d9a631a": {
+        "symbol": "AMC2",
+        "amount": 15000.0,
+        "contract": "0x7aae109090b86759475ed139407a83545d9a631a",
+        "price": null,
+        "usd": null
+      },
+      "0xa8d0b488e0a43eb1099e22ddcac2903ef1a8b12a": {
+        "symbol": "MCDONALDS",
+        "amount": 15000.0,
+        "contract": "0xa8d0b488e0a43eb1099e22ddcac2903ef1a8b12a",
+        "price": null,
+        "usd": null
+      },
+      "0x22fa1175acd6898cd74112fb8bbff7c12aca4527": {
+        "symbol": "AMC",
+        "amount": 15000.0,
+        "contract": "0x22fa1175acd6898cd74112fb8bbff7c12aca4527",
+        "price": null,
+        "usd": null
+      },
+      "0x10e50927271534d163eea61a61b0a6f454c1ac7a": {
+        "symbol": "CANDY",
+        "amount": 15000.0,
+        "contract": "0x10e50927271534d163eea61a61b0a6f454c1ac7a",
+        "price": null,
+        "usd": null
+      },
+      "0x14b328fccc66296e39413ab553691de86d9e4e6f": {
+        "symbol": "AMC",
+        "amount": 15000.0,
+        "contract": "0x14b328fccc66296e39413ab553691de86d9e4e6f",
+        "price": null,
+        "usd": null
+      },
+      "0x5d761b44fa1b336481639c4fb57a9bb12c1026fc": {
+        "symbol": "CPO",
+        "amount": 15000.0,
+        "contract": "0x5d761b44fa1b336481639c4fb57a9bb12c1026fc",
+        "price": null,
+        "usd": null
+      },
+      "0x2a5eaef2facdeb18615c69dcf5ac96df30fae4f3": {
+        "symbol": "AMC",
+        "amount": 15000.0,
+        "contract": "0x2a5eaef2facdeb18615c69dcf5ac96df30fae4f3",
+        "price": null,
+        "usd": null
+      },
+      "0xbc57c13304b76733515eba1e5e810e8062680c98": {
+        "symbol": "PONZI",
+        "amount": 15000.0,
+        "contract": "0xbc57c13304b76733515eba1e5e810e8062680c98",
+        "price": null,
+        "usd": null
+      },
+      "0x626ffa94974e9dbf82c5e95c2220539a3fc48ef0": {
+        "symbol": "AMC",
+        "amount": 15000.0,
+        "contract": "0x626ffa94974e9dbf82c5e95c2220539a3fc48ef0",
+        "price": null,
+        "usd": null
+      },
+      "0x3b69cd50b8757de954bd40f0c6a3d628120440bf": {
+        "symbol": "AMC",
+        "amount": 15000.0,
+        "contract": "0x3b69cd50b8757de954bd40f0c6a3d628120440bf",
+        "price": null,
+        "usd": null
+      },
+      "0xa001fc9f4a324d330dbab1944534c9d04763b40b": {
+        "symbol": "GOAT",
+        "amount": 15000.0,
+        "contract": "0xa001fc9f4a324d330dbab1944534c9d04763b40b",
+        "price": null,
+        "usd": null
+      },
+      "0x14ca01dc80e73726b6961220798910e7814b784f": {
+        "symbol": "BRETT",
+        "amount": 15000.0,
+        "contract": "0x14ca01dc80e73726b6961220798910e7814b784f",
+        "price": null,
+        "usd": null
+      },
+      "0xa561ab9c9559d2483ce44451dbe1a18955953377": {
+        "symbol": "doge",
+        "amount": 15000.0,
+        "contract": "0xa561ab9c9559d2483ce44451dbe1a18955953377",
+        "price": null,
+        "usd": null
+      },
+      "0x44afc45a3e643cb1225381ec66b21d0f29d168fd": {
+        "symbol": "optimist",
+        "amount": 15000.0,
+        "contract": "0x44afc45a3e643cb1225381ec66b21d0f29d168fd",
+        "price": null,
+        "usd": null
+      },
+      "0xa5b099daea7342d9bfef2772c46f46a144e1ee85": {
+        "symbol": "FS",
+        "amount": 15000.0,
+        "contract": "0xa5b099daea7342d9bfef2772c46f46a144e1ee85",
+        "price": null,
+        "usd": null
+      },
+      "0xbfd0c18854a22e4685f50059b035686a92aa4391": {
+        "symbol": "Premium",
+        "amount": 15000.0,
+        "contract": "0xbfd0c18854a22e4685f50059b035686a92aa4391",
+        "price": null,
+        "usd": null
+      },
+      "0xfcb63cc5923dc9815d8da23d0944a9828fdd44e5": {
+        "symbol": "SON",
+        "amount": 15000.0,
+        "contract": "0xfcb63cc5923dc9815d8da23d0944a9828fdd44e5",
+        "price": null,
+        "usd": null
+      },
+      "0xc0f76f23371e92d86f4d717530c11128d5d21bc9": {
+        "symbol": "Motion",
+        "amount": 15000.0,
+        "contract": "0xc0f76f23371e92d86f4d717530c11128d5d21bc9",
+        "price": null,
+        "usd": null
+      },
+      "0xaf588d845e4b80e5460027f2cc91cf1b5896cf73": {
+        "symbol": "2x",
+        "amount": 15000.0,
+        "contract": "0xaf588d845e4b80e5460027f2cc91cf1b5896cf73",
+        "price": null,
+        "usd": null
+      },
+      "0xcd4f3ff14558819185a45d23b58e96c6f213e548": {
+        "symbol": "APPLE",
+        "amount": 15000.0,
+        "contract": "0xcd4f3ff14558819185a45d23b58e96c6f213e548",
+        "price": null,
+        "usd": null
+      },
+      "0x468213d6a5c7a74d004a9fc8256eb7578261fa9d": {
+        "symbol": "Billion",
+        "amount": 15000.0,
+        "contract": "0x468213d6a5c7a74d004a9fc8256eb7578261fa9d",
+        "price": null,
+        "usd": null
+      },
+      "0xb47c1694e810a4062d8b949da9ebf40d5f5130f8": {
+        "symbol": "Elonomist",
+        "amount": 15000.0,
+        "contract": "0xb47c1694e810a4062d8b949da9ebf40d5f5130f8",
+        "price": null,
+        "usd": null
+      },
+      "0xcfa165e1891002ccfe64927c3a3f3e2346b423ab": {
+        "symbol": "MILO",
+        "amount": 15000.0,
+        "contract": "0xcfa165e1891002ccfe64927c3a3f3e2346b423ab",
+        "price": null,
+        "usd": null
+      },
+      "0x45df317c712ed0bd35dd0024c66b4ba4f61e0d43": {
+        "symbol": "Octopus",
+        "amount": 15000.0,
+        "contract": "0x45df317c712ed0bd35dd0024c66b4ba4f61e0d43",
+        "price": null,
+        "usd": null
+      },
+      "0xf60e6e814963956ea689f98f17e5b852323b2b56": {
+        "symbol": "INNIT",
+        "amount": 15000.0,
+        "contract": "0xf60e6e814963956ea689f98f17e5b852323b2b56",
+        "price": null,
+        "usd": null
+      },
+      "0xf6ea0207e2eac15db7c39fd7d4f09284dfb7582a": {
+        "symbol": "ELONOMIST",
+        "amount": 15000.0,
+        "contract": "0xf6ea0207e2eac15db7c39fd7d4f09284dfb7582a",
+        "price": null,
+        "usd": null
+      },
+      "0xb170779562ad9eb4cbfd670ec55ee2291fa18f8d": {
+        "symbol": "FTM",
+        "amount": 15000.0,
+        "contract": "0xb170779562ad9eb4cbfd670ec55ee2291fa18f8d",
+        "price": null,
+        "usd": null
+      },
+      "0x84a27c78aa1a06a0ca73e649259aec286565cb35": {
+        "symbol": "SIDELINED",
+        "amount": 15000.0,
+        "contract": "0x84a27c78aa1a06a0ca73e649259aec286565cb35",
+        "price": null,
+        "usd": null
+      },
+      "0x3564e9753969635f34bb00596622dee5fd5498f7": {
+        "symbol": "RWORLD",
+        "amount": 15000.0,
+        "contract": "0x3564e9753969635f34bb00596622dee5fd5498f7",
+        "price": null,
+        "usd": null
+      },
+      "0xcedb881b487648e213308a92ef09661b882e5229": {
+        "symbol": "CHYPERION",
+        "amount": 15000.0,
+        "contract": "0xcedb881b487648e213308a92ef09661b882e5229",
+        "price": null,
+        "usd": null
+      },
+      "0x0f0d2281a952ab066d348e0497b8a0593e91ef5c": {
+        "symbol": "DIP",
+        "amount": 15000.0,
+        "contract": "0x0f0d2281a952ab066d348e0497b8a0593e91ef5c",
+        "price": null,
+        "usd": null
+      },
+      "0xc6972f76ff5c07ce536b79821e50ebbc8973664c": {
+        "symbol": "MILO",
+        "amount": 15000.0,
+        "contract": "0xc6972f76ff5c07ce536b79821e50ebbc8973664c",
+        "price": null,
+        "usd": null
+      },
+      "0xe4d4d645a68ada1d52dfdb6ec921679afac5648f": {
+        "symbol": "HOTDOG",
+        "amount": 15000.0,
+        "contract": "0xe4d4d645a68ada1d52dfdb6ec921679afac5648f",
+        "price": null,
+        "usd": null
+      },
+      "0xda95f86e03117fc7ebf2182ad6cdb82dbb1e4042": {
+        "symbol": "Parkify",
+        "amount": 15000.0,
+        "contract": "0xda95f86e03117fc7ebf2182ad6cdb82dbb1e4042",
+        "price": null,
+        "usd": null
+      },
+      "0xaa76b767f5a8f00db286aec6c9b116bb9e329127": {
+        "symbol": "1CAPY",
+        "amount": 15000.0,
+        "contract": "0xaa76b767f5a8f00db286aec6c9b116bb9e329127",
+        "price": null,
+        "usd": null
+      },
+      "0xd1d5b9eea5f081e7742af488f157e45a4ec7b236": {
+        "symbol": "DEPLOYER",
+        "amount": 15000.0,
+        "contract": "0xd1d5b9eea5f081e7742af488f157e45a4ec7b236",
+        "price": null,
+        "usd": null
+      },
+      "0x6e3a48f6e725b41375bd29456269c59ae15909de": {
+        "symbol": "EQ",
+        "amount": 15000.0,
+        "contract": "0x6e3a48f6e725b41375bd29456269c59ae15909de",
+        "price": null,
+        "usd": null
+      },
+      "0xc0c5045e3e803bd6272191a3eac23bad7e39589e": {
+        "symbol": "fomocat",
+        "amount": 15000.0,
+        "contract": "0xc0c5045e3e803bd6272191a3eac23bad7e39589e",
+        "price": null,
+        "usd": null
+      },
+      "0xc00e50eb570d4794a08700ef57cb61feb4e6c247": {
+        "symbol": "FSL",
+        "amount": 15000.0,
+        "contract": "0xc00e50eb570d4794a08700ef57cb61feb4e6c247",
+        "price": null,
+        "usd": null
+      },
+      "0xd214c0b2c90aecfbb3f085e9b49774546b3c6027": {
+        "symbol": "bullism",
+        "amount": 15000.0,
+        "contract": "0xd214c0b2c90aecfbb3f085e9b49774546b3c6027",
+        "price": null,
+        "usd": null
+      },
+      "0x6d5d8acf8c49d16c8c983d779fc9b34069efacba": {
+        "symbol": "MEOW",
+        "amount": 15000.0,
+        "contract": "0x6d5d8acf8c49d16c8c983d779fc9b34069efacba",
+        "price": null,
+        "usd": null
+      },
+      "0xf4b829221a1119405c29fb4db157374359276323": {
+        "symbol": "BULLROAD",
+        "amount": 15000.0,
+        "contract": "0xf4b829221a1119405c29fb4db157374359276323",
+        "price": null,
+        "usd": null
+      },
+      "0x95ef12145fa03a43f77c4f63bad091a304df563c": {
+        "symbol": "V1⁠",
+        "amount": 15000.0,
+        "contract": "0x95ef12145fa03a43f77c4f63bad091a304df563c",
+        "price": null,
+        "usd": null
+      },
+      "0x4795ce6a4f529eff98126f38587a02fc9e157786": {
+        "symbol": "TOADTARD",
+        "amount": 15000.0,
+        "contract": "0x4795ce6a4f529eff98126f38587a02fc9e157786",
+        "price": null,
+        "usd": null
+      },
+      "0x2d477fa9f431eac05e0a897a377cf808d9b2b5a6": {
+        "symbol": "SUMIRO",
+        "amount": 15000.0,
+        "contract": "0x2d477fa9f431eac05e0a897a377cf808d9b2b5a6",
+        "price": null,
+        "usd": null
+      },
+      "0x51c647f5ead11e168f6f3e7dfb9c563aa023843c": {
+        "symbol": "Intuition",
+        "amount": 15000.0,
+        "contract": "0x51c647f5ead11e168f6f3e7dfb9c563aa023843c",
+        "price": null,
+        "usd": null
+      },
+      "0x0b23d8988078a41407139e057efe372c9f70a2f3": {
+        "symbol": "VERBO",
+        "amount": 15000.0,
+        "contract": "0x0b23d8988078a41407139e057efe372c9f70a2f3",
+        "price": null,
+        "usd": null
+      },
+      "0x9e18992ecb93d32991fa458b8aeab2a8eda0d29f": {
+        "symbol": "BAH",
+        "amount": 15000.0,
+        "contract": "0x9e18992ecb93d32991fa458b8aeab2a8eda0d29f",
+        "price": null,
+        "usd": null
+      },
+      "0xad47bfe4c923340ab2db591fd6835b0fa98ed841": {
+        "symbol": "BUL",
+        "amount": 15000.0,
+        "contract": "0xad47bfe4c923340ab2db591fd6835b0fa98ed841",
+        "price": null,
+        "usd": null
+      },
+      "0xb7a46efb1c8dabe1d054e3308032660a70d5e2bc": {
+        "symbol": "TREMP",
+        "amount": 15000.0,
+        "contract": "0xb7a46efb1c8dabe1d054e3308032660a70d5e2bc",
+        "price": null,
+        "usd": null
+      },
+      "0xe5a081b4735aa3bc9567a60d1065f87ff6b04f2b": {
+        "symbol": "BULLISM",
+        "amount": 15000.0,
+        "contract": "0xe5a081b4735aa3bc9567a60d1065f87ff6b04f2b",
+        "price": null,
+        "usd": null
+      },
+      "0x97f0c6a165f02048148fda07189468ad43c227e9": {
+        "symbol": "THESIS",
+        "amount": 15000.0,
+        "contract": "0x97f0c6a165f02048148fda07189468ad43c227e9",
+        "price": null,
+        "usd": null
+      },
+      "0x509937f1eb4692ec14ee6009ddba96f26c7902b8": {
+        "symbol": "Robotinu",
+        "amount": 15000.0,
+        "contract": "0x509937f1eb4692ec14ee6009ddba96f26c7902b8",
+        "price": null,
+        "usd": null
+      },
+      "0xa73be5727e7c7274451e7a6e1ccb6563b0f69e5a": {
+        "symbol": "MAINE",
+        "amount": 15000.0,
+        "contract": "0xa73be5727e7c7274451e7a6e1ccb6563b0f69e5a",
+        "price": null,
+        "usd": null
+      },
+      "0x5e10267808cb2f8eb42c84187dcc667c066317d6": {
+        "symbol": "ROBERT",
+        "amount": 15000.0,
+        "contract": "0x5e10267808cb2f8eb42c84187dcc667c066317d6",
+        "price": null,
+        "usd": null
+      },
+      "0x4382a2e87e8fa9c2c4cb81d54100588c1c9f5879": {
+        "symbol": "bul",
+        "amount": 15000.0,
+        "contract": "0x4382a2e87e8fa9c2c4cb81d54100588c1c9f5879",
+        "price": null,
+        "usd": null
+      },
+      "0x66f300211ab54a163dd3dc33ae8771304441b9f1": {
+        "symbol": "Goldinu",
+        "amount": 15000.0,
+        "contract": "0x66f300211ab54a163dd3dc33ae8771304441b9f1",
+        "price": null,
+        "usd": null
+      },
+      "0x4efa543236e1f278194acfddf7be5f2faac93d2d": {
+        "symbol": "RICH",
+        "amount": 15000.0,
+        "contract": "0x4efa543236e1f278194acfddf7be5f2faac93d2d",
+        "price": null,
+        "usd": null
+      },
+      "0x0d2d01603989d5fa8478fe25c5b7df71f7c45936": {
+        "symbol": "fomocat",
+        "amount": 15000.0,
+        "contract": "0x0d2d01603989d5fa8478fe25c5b7df71f7c45936",
+        "price": null,
+        "usd": null
+      },
+      "0x39a41bf82142072c7ad4b1ce1ff3e89f471b7e57": {
+        "symbol": "Bulls",
+        "amount": 15000.0,
+        "contract": "0x39a41bf82142072c7ad4b1ce1ff3e89f471b7e57",
+        "price": null,
+        "usd": null
+      },
+      "0x197125460a6457c5388ef9212c3834aaa0f4092e": {
+        "symbol": "Kamala",
+        "amount": 15000.0,
+        "contract": "0x197125460a6457c5388ef9212c3834aaa0f4092e",
+        "price": null,
+        "usd": null
+      },
+      "0x812a8a9c1f264fdd285ee14c3f07fabf445177be": {
+        "symbol": "RICH",
+        "amount": 15000.0,
+        "contract": "0x812a8a9c1f264fdd285ee14c3f07fabf445177be",
+        "price": null,
+        "usd": null
+      },
+      "0xdd217ffd189d31995b95f3280e1aff7a13dbfbb8": {
+        "symbol": "Moow",
+        "amount": 15000.0,
+        "contract": "0xdd217ffd189d31995b95f3280e1aff7a13dbfbb8",
+        "price": null,
+        "usd": null
+      },
+      "0x2750906dbc2fde5cbf9233249bd1503f574d8cf2": {
+        "symbol": "1",
+        "amount": 15000.0,
+        "contract": "0x2750906dbc2fde5cbf9233249bd1503f574d8cf2",
+        "price": null,
+        "usd": null
+      },
+      "0x16344ebfd82898bef1ce1b7df191ba6a1ce0c9e1": {
+        "symbol": "TripleJ",
+        "amount": 15000.0,
+        "contract": "0x16344ebfd82898bef1ce1b7df191ba6a1ce0c9e1",
+        "price": null,
+        "usd": null
+      },
+      "0xdddfcdf477ad571f3e7b39ef339c1bc3178897ce": {
+        "symbol": "aiclan",
+        "amount": 15000.0,
+        "contract": "0xdddfcdf477ad571f3e7b39ef339c1bc3178897ce",
+        "price": null,
+        "usd": null
+      },
+      "0xf4f15f5f3bf488c5237bf04691caf69682d170e1": {
+        "symbol": "SPCX",
+        "amount": 15000.0,
+        "contract": "0xf4f15f5f3bf488c5237bf04691caf69682d170e1",
+        "price": null,
+        "usd": null
+      },
+      "0xd765942a8616446e1c36833df9e2ecfbf510b162": {
+        "symbol": "Zen",
+        "amount": 15000.0,
+        "contract": "0xd765942a8616446e1c36833df9e2ecfbf510b162",
+        "price": null,
+        "usd": null
+      },
+      "0xee08b5c60643af00655679e09d966a29aca786f6": {
+        "symbol": "AI",
+        "amount": 15000.0,
+        "contract": "0xee08b5c60643af00655679e09d966a29aca786f6",
+        "price": null,
+        "usd": null
+      },
+      "0x2264c221c9ee88fb5ce67cb71d8eac0632b1776d": {
+        "symbol": "VIBECAT",
+        "amount": 15000.0,
+        "contract": "0x2264c221c9ee88fb5ce67cb71d8eac0632b1776d",
+        "price": null,
+        "usd": null
+      },
+      "0x88fb6b283967e3c43fd124929416052789dff4c3": {
+        "symbol": "TOADSWORTH",
+        "amount": 15000.0,
+        "contract": "0x88fb6b283967e3c43fd124929416052789dff4c3",
+        "price": null,
+        "usd": null
+      },
+      "0x76c196db140bf95a3c01c2c7571dd603dfff2a45": {
+        "symbol": "curve",
+        "amount": 15000.0,
+        "contract": "0x76c196db140bf95a3c01c2c7571dd603dfff2a45",
         "price": null,
         "usd": null
       }
@@ -219,36 +4216,36 @@
         "symbol": "ETH",
         "amount": 0.0,
         "contract": "native",
-        "price": 2473.68,
+        "price": 2472.28,
         "usd": 0.0
       },
       "0xa0df17b5ac76ababa36e1450e2cbcd18a620c845": {
         "symbol": "FWA",
         "amount": 5390075.209518921,
         "contract": "0xa0df17b5ac76ababa36e1450e2cbcd18a620c845",
-        "price": 0.01109,
-        "usd": 59775.93407356482
+        "price": 0.01107,
+        "usd": 59668.13256937445
       },
       "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7": {
         "symbol": "IMD",
         "amount": 25933.343040229698,
         "contract": "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7",
-        "price": 3.045,
-        "usd": 78967.02955749942
+        "price": 3.22,
+        "usd": 83505.36458953963
       },
       "0xfd0bb211d479710dfa01d3d98751767f51edb2d9": {
         "symbol": "UNITY",
         "amount": 15000000000.0,
         "contract": "0xfd0bb211d479710dfa01d3d98751767f51edb2d9",
-        "price": 3.907e-10,
-        "usd": 5.8605
+        "price": 3.765e-10,
+        "usd": 5.6475
       },
       "0x53fdca91fd33b9131b5ceade42a3edbd9b38edff": {
         "symbol": "CAT",
         "amount": 1.0,
         "contract": "0x53fdca91fd33b9131b5ceade42a3edbd9b38edff",
-        "price": 0.0006417,
-        "usd": 0.0006417
+        "price": 0.0006409,
+        "usd": 0.0006409
       }
     },
     "base:0x39b337121494b10cffe3e581ab3281b2d62c5b08": {
@@ -256,85 +4253,85 @@
         "symbol": "ETH",
         "amount": 0.0,
         "contract": "native",
-        "price": 2472.87,
+        "price": 2471.34,
         "usd": 0.0
       },
       "0xb200000000000000000000cfbdf64a8706a94a01": {
         "symbol": "BLUECHIP",
         "amount": 18210662.66368284,
         "contract": "0xb200000000000000000000cfbdf64a8706a94a01",
-        "price": 0.01467438,
-        "usd": 267230.1839786942
+        "price": 0.01472687,
+        "usd": 268186.0616619109
       },
       "0xb200000000000000000000503d889fdcbe48b801": {
         "symbol": "RAWR",
         "amount": 14293036.557021085,
         "contract": "0xb200000000000000000000503d889fdcbe48b801",
-        "price": 0.00052966,
-        "usd": 7570.449742791789
+        "price": 0.00049679,
+        "usd": 7100.6376311625045
       },
       "0x4200000000000000000000000000000000000006": {
         "symbol": "WETH",
         "amount": 0.003151154977762124,
         "contract": "0x4200000000000000000000000000000000000006",
-        "price": 2472.99,
-        "usd": 7.792774748455955
+        "price": 2471.58,
+        "usd": 7.788331619937311
       },
       "0x940181a94a35a4569e4529a3cdfb74e38fd98631": {
         "symbol": "AERO",
         "amount": 3.2818810361360233,
         "contract": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
-        "price": 0.6339,
-        "usd": 2.080384388806625
+        "price": 0.632957,
+        "usd": 2.077289574989549
       },
       "0x19f89aaef8a93f38a974beca9776f09ab844887f": {
         "symbol": "WTSPCX",
         "amount": 0.012717052390831738,
         "contract": "0x19f89aaef8a93f38a974beca9776f09ab844887f",
-        "price": 151.93,
-        "usd": 1.932101769739066
+        "price": 149.33,
+        "usd": 1.8990374335229037
       },
       "0xb2000000000000000000002d0ba3164cc74f58b7": {
         "symbol": "GOOGLC",
         "amount": 0.00530207,
         "contract": "0xb2000000000000000000002d0ba3164cc74f58b7",
-        "price": 337.23,
-        "usd": 1.7880170661
+        "price": 336.94,
+        "usd": 1.7864794658
       },
       "0xb20000000000000000000078ee7ce2fe4908108c": {
         "symbol": "NVDAC",
         "amount": 0.0075484,
         "contract": "0xb20000000000000000000078ee7ce2fe4908108c",
-        "price": 231.38,
-        "usd": 1.746548792
+        "price": 230.48,
+        "usd": 1.739755232
       },
       "0xb200000000000000000000c2e324d24d7eecd1fb": {
         "symbol": "AAPLC",
         "amount": 0.00504133,
         "contract": "0xb200000000000000000000c2e324d24d7eecd1fb",
-        "price": 319.0,
-        "usd": 1.60818427
+        "price": 318.7,
+        "usd": 1.606671871
       },
       "0x5cda0e1ca4ce2af96315f7f8963c85399c172204": {
         "symbol": "WTCOIN",
         "amount": 0.008417614247932807,
         "contract": "0x5cda0e1ca4ce2af96315f7f8963c85399c172204",
-        "price": 188.45,
-        "usd": 1.5862994050229373
+        "price": 182.04,
+        "usd": 1.5323424976936881
       },
       "0x0f61edbfe6cd86024c0f210c0695b08df55fdfc9": {
         "symbol": "BSTONK",
         "amount": 3.09454146567353,
         "contract": "0x0f61edbfe6cd86024c0f210c0695b08df55fdfc9",
-        "price": 0.00332113,
-        "usd": 0.01027737449789233
+        "price": 0.00351028,
+        "usd": 0.01086270701612448
       },
       "0x07d15798a67253d76cea61f0ea6f57aedc59dffb": {
         "symbol": "BASED",
         "amount": 375.0,
         "contract": "0x07d15798a67253d76cea61f0ea6f57aedc59dffb",
-        "price": 4e-06,
-        "usd": 0.0015
+        "price": 4.01e-06,
+        "usd": 0.0015037499999999999
       },
       "0xa711b08e50840abb154d4bf553d30aa95d8950ff": {
         "symbol": "CLANK",
@@ -459,8 +4456,8 @@
         "symbol": "DOBBY",
         "amount": 654.7716483876249,
         "contract": "0xb200000000000000000000f1545abcdf18955701",
-        "price": 3.508e-05,
-        "usd": 0.022969389425437883
+        "price": 3.266e-05,
+        "usd": 0.021384842036339828
       },
       "0xccdc31173d897319bcdd0376b4f64e1819652b57": {
         "symbol": "CABASE",
@@ -473,8 +4470,8 @@
         "symbol": "NIGGOLA",
         "amount": 270.28575543669336,
         "contract": "0x374be3b4313139c08d8c6389f4cad6e6d1f8c222",
-        "price": 0.0001815,
-        "usd": 0.04905686461175984
+        "price": 0.0001768,
+        "usd": 0.047786521561207385
       },
       "0xf8aeafda680ed103fe3b61d5755bab2a71da33d4": {
         "symbol": "USOF",
@@ -487,8 +4484,8 @@
         "symbol": "UXOR",
         "amount": 200.0,
         "contract": "0x175378b36f91fc0b108fe98021e99ea798a3a15c",
-        "price": 0.0002481,
-        "usd": 0.049620000000000004
+        "price": null,
+        "usd": null
       },
       "0x9ce4331dad842609b77be76a322aebc0bb323222": {
         "symbol": "NIKOLA",
@@ -536,8 +4533,8 @@
         "symbol": "GLIR",
         "amount": 50.0,
         "contract": "0xb9708936e053d14451b1cd185085e05789e5a3db",
-        "price": 0.0005214,
-        "usd": 0.02607
+        "price": 0.0005192,
+        "usd": 0.025960000000000004
       },
       "0x9c7a23d3e2aaf827fdb231154c798acdad84de0b": {
         "symbol": "DEAD",
@@ -662,8 +4659,8 @@
         "symbol": "USER",
         "amount": 20.0,
         "contract": "0x02ee163bbb778086bee0631e205979073bab8dd6",
-        "price": 0.0004982,
-        "usd": 0.009963999999999999
+        "price": 0.0004955,
+        "usd": 0.009909999999999999
       },
       "0x21085f327bae07d685242b822466ca499d47e653": {
         "symbol": "HP",
@@ -704,8 +4701,8 @@
         "symbol": "DOCT",
         "amount": 10.0,
         "contract": "0xe784ff6b57b8e8feaf2dcaf9cae2d6cb928893cf",
-        "price": 0.0004951,
-        "usd": 0.0049510000000000005
+        "price": 0.000496,
+        "usd": 0.00496
       },
       "0xe4ccddd4bde05c7670e0fd2ce938f6ac89a434cd": {
         "symbol": "basenoun",
@@ -746,8 +4743,8 @@
         "symbol": "BALD",
         "amount": 5.387091167232286,
         "contract": "0x28c74b28429df12d1f39f244f5c72fd472847a6b",
-        "price": 0.0002028,
-        "usd": 0.0010925020887147074
+        "price": 0.000205,
+        "usd": 0.0011043536892826186
       },
       "0xe251a62147d2f3a0960424ae861c3e23a4be0276": {
         "symbol": "GRAWS",
@@ -830,8 +4827,8 @@
         "symbol": "AI",
         "amount": 1.0,
         "contract": "0x486f662020286e17e7469df4e5f2cf2415f36662",
-        "price": 4.655e-05,
-        "usd": 4.655e-05
+        "price": 4.651e-05,
+        "usd": 4.651e-05
       },
       "0xa1edf6082892112ac2c3d5975c8a187f49b44efe": {
         "symbol": "AWR",
@@ -865,8 +4862,8 @@
         "symbol": "EVAL",
         "amount": 0.09382942212946516,
         "contract": "0x10f52295e129817e8e4b28da0dab067321ec2222",
-        "price": 0.0001411,
-        "usd": 1.3239331462467533e-05
+        "price": 0.0001408,
+        "usd": 1.3211182635828694e-05
       },
       "0x0518df00e84a3f025bf72cfb6393d0276cc52ca5": {
         "symbol": "BASEBULL",
@@ -881,7 +4878,7 @@
         "symbol": "BNB",
         "amount": 0.0,
         "contract": "native",
-        "price": 750.12,
+        "price": 758.93,
         "usd": 0.0
       },
       "0x0359ee5efe268f9cf23a00946efa47fbc02a7777": {
@@ -902,8 +4899,8 @@
         "symbol": "Q3B",
         "amount": 0.01984602420513812,
         "contract": "0x205812cdbed920aff76c6580abd681a46d11efc7",
-        "price": 720.33,
-        "usd": 14.295686615687142
+        "price": 718.26,
+        "usd": 14.254605345582505
       },
       "0x2aa5640539a127cae8fb230ad7c193670afb7777": {
         "symbol": "NBOX",
@@ -916,8 +4913,8 @@
         "symbol": "FIT",
         "amount": 0.001,
         "contract": "0x3bcaac7b233b4b3eb4aff2cba23fa1c653a33e67",
-        "price": 0.5102,
-        "usd": 0.0005102
+        "price": 0.5156,
+        "usd": 0.0005156
       },
       "0x3e6cace197f6fb5579c4ca0c93a584c2a5b27777": {
         "symbol": "BDOG",
@@ -937,15 +4934,15 @@
         "symbol": "CNHK",
         "amount": 0.1,
         "contract": "0x4ec71f5f62244e27e886f3d742ae8871037a1111",
-        "price": 0.2847,
-        "usd": 0.028470000000000002
+        "price": 0.2859,
+        "usd": 0.02859
       },
       "0x4f843e214e7639d7387a9c6122085ea70e7bbad2": {
         "symbol": "SEER",
         "amount": 8.0,
         "contract": "0x4f843e214e7639d7387a9c6122085ea70e7bbad2",
-        "price": 0.004556,
-        "usd": 0.036448
+        "price": 0.004552,
+        "usd": 0.036416
       },
       "0x5705be67ee31b7ac660c2c8125afe0b2aacf7777": {
         "symbol": "赛道狂飙EWC",
@@ -972,8 +4969,8 @@
         "symbol": "TROLL",
         "amount": 88.0,
         "contract": "0x684f9c4c4079fe244a45f1af36bb9f782f877777",
-        "price": 9.642e-06,
-        "usd": 0.000848496
+        "price": 9.328e-06,
+        "usd": 0.0008208639999999999
       },
       "0x6fd4d25b32008cd3078a2b08bd3744e698d37777": {
         "symbol": "SHFIN",
@@ -993,8 +4990,8 @@
         "symbol": "XGirl",
         "amount": 2100.0,
         "contract": "0x733ec70cf26c6b46dbd0df3acffe7c95f45bc2ab",
-        "price": 2.448e-05,
-        "usd": 0.051407999999999995
+        "price": 2.461e-05,
+        "usd": 0.051681
       },
       "0x737c073a288c59e05db111bdd86d0cb236927777": {
         "symbol": "牛来人生",
@@ -1007,8 +5004,8 @@
         "symbol": "PPRGB",
         "amount": 32.489593674770376,
         "contract": "0x7e38ac5fa21894d40d69b4bf6c533e0b9adb7777",
-        "price": 1.61e-05,
-        "usd": 0.000523082458163803
+        "price": 1.637e-05,
+        "usd": 0.0005318546484559911
       },
       "0x80d935446ef88a2d43464db22df8e49e7def7777": {
         "symbol": "BLX",
@@ -1028,29 +5025,29 @@
         "symbol": "VIRUS",
         "amount": 33.0,
         "contract": "0xa1ed61902f13e162305f59e1b2475e269e647777",
-        "price": 0.002321,
-        "usd": 0.07659300000000001
+        "price": 0.002252,
+        "usd": 0.07431600000000001
       },
       "0xae3d4ff1ea1e509ea0e01732b78dee0c61587777": {
         "symbol": "社区联盟",
         "amount": 1e-05,
         "contract": "0xae3d4ff1ea1e509ea0e01732b78dee0c61587777",
-        "price": 0.01934,
-        "usd": 1.9340000000000002e-07
+        "price": 0.0196,
+        "usd": 1.96e-07
       },
       "0xaf6740d624bb95e022d0e636bf9b76f084217777": {
         "symbol": "一根牙签",
         "amount": 1.0,
         "contract": "0xaf6740d624bb95e022d0e636bf9b76f084217777",
-        "price": 8.873e-05,
-        "usd": 8.873e-05
+        "price": 8.354e-05,
+        "usd": 8.354e-05
       },
       "0xbbc9565a44036007830c10b41d59ce55f3847777": {
         "symbol": "SpaceDog",
         "amount": 100.0,
         "contract": "0xbbc9565a44036007830c10b41d59ce55f3847777",
-        "price": 3.824e-05,
-        "usd": 0.003824
+        "price": 3.878e-05,
+        "usd": 0.003878
       },
       "0xbdd1a78406818d7f992016f130e1f624afe1a6df": {
         "symbol": "BSC500",
@@ -1063,15 +5060,15 @@
         "symbol": "牛来",
         "amount": 858083.8763245821,
         "contract": "0xbeea1d618e533a387d941f58a7d4c9b7bd377777",
-        "price": 0.09136,
-        "usd": 78394.54294101382
+        "price": 0.08989,
+        "usd": 77133.15964281668
       },
       "0xd8348b96c8f23e1e24c0f40f495823c98f8e7777": {
         "symbol": "币安股票",
         "amount": 1.1,
         "contract": "0xd8348b96c8f23e1e24c0f40f495823c98f8e7777",
-        "price": 0.00446,
-        "usd": 0.004906000000000001
+        "price": 0.004523,
+        "usd": 0.0049753
       },
       "0xec603ea7702ee9ce26e8ff7af561d75b27847777": {
         "symbol": "PUPPY",
@@ -1107,8 +5104,8 @@
         "symbol": "SOL",
         "amount": 0.016755187,
         "contract": "native",
-        "price": 103.24736785888672,
-        "usd": 1.7299289557334367
+        "price": 103.10420227050781,
+        "usd": 1.7275301895281832
       },
       "JC74zSVYvHKxuYiL41hSCn5YCzcpAPB4ucQfAHKAzWB3": {
         "symbol": "FLY",
@@ -1156,15 +5153,15 @@
         "symbol": "curlson",
         "amount": 25152708.380004,
         "contract": "EbfSb5Fiak4arnd13u8N3jYKHKFvYQRxFqpyVkqipump",
-        "price": 8.253e-06,
-        "usd": 207.58530226017302
+        "price": 7.935e-06,
+        "usd": 199.58674099533172
       },
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
         "symbol": "USDC",
-        "amount": 141282.34135,
+        "amount": 141283.45278,
         "contract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "price": 0.99985945,
-        "usd": 141262.48411692327
+        "price": 0.99985766,
+        "usd": 141263.3424933313
       },
       "EM2DQsHnknmdd9xTEiG2c9LfYzpAh1io3Td6Rs7Apump": {
         "symbol": "Tucker",
@@ -1184,22 +5181,22 @@
         "symbol": "Rubio",
         "amount": 22972068.321448,
         "contract": "DgXjupqUXCMRzyR98WxKPdhxyLC72MdtMJULu4C3pump",
-        "price": 0.000101608966,
-        "usd": 2334.1681090236866
+        "price": 0.00010341212,
+        "usd": 2375.590285905779
       },
       "DAYv2KWkurCHoh1K26QCNmRjDeogH1FGbQ6QgYg1pump": {
         "symbol": "NEWSCUM",
         "amount": 15936322.412261,
         "contract": "DAYv2KWkurCHoh1K26QCNmRjDeogH1FGbQ6QgYg1pump",
-        "price": 2.172e-05,
-        "usd": 346.1369227943089
+        "price": 2.145e-05,
+        "usd": 341.83411574299845
       },
       "CniPCE4b3s8gSUPhUiyMjXnytrEqUrMfSsnbBjLCpump": {
         "symbol": "pwease",
         "amount": 21658936.24692,
         "contract": "CniPCE4b3s8gSUPhUiyMjXnytrEqUrMfSsnbBjLCpump",
-        "price": 0.0013398029,
-        "usd": 29018.705594538533
+        "price": 0.0013492826,
+        "usd": 29224.02581247846
       },
       "CZNFKzVudMbGXrkYmWkKuY9rCirkY488mt25cyxntYcw": {
         "symbol": "STONKLESS",
@@ -1282,8 +5279,8 @@
         "symbol": "mamAOCita",
         "amount": 23250184.790559,
         "contract": "4rLgnFcuADTS2VD7sGxQjoiajbZjYZ411nF7gm7kpump",
-        "price": 0.0001559628,
-        "usd": 3626.163920452995
+        "price": 0.0001551067,
+        "usd": 3606.2594372537983
       },
       "4Pcp24rUxhKdge7mT2L3rFiYcvnaoGWVCTeNpi3fpump": {
         "symbol": "Flex",
@@ -1303,8 +5300,8 @@
         "symbol": "aoc",
         "amount": 20292152.488865,
         "contract": "3gjBts3YV6AtXr5WPY9PviakFgosPrVT74hVeUEGov1B",
-        "price": 0.0003844056,
-        "usd": 7800.417052773643
+        "price": 0.00038140806,
+        "usd": 7739.5905140021705
       },
       "2qtV7REEFyXBg6W1UP3h2pmS8L34mDuB9wGW4TCRxiMg": {
         "symbol": "POOPOO",
@@ -1324,15 +5321,15 @@
         "symbol": "HONTER",
         "amount": 24755761.456483,
         "contract": "uuxWwFL6G9UjiYRZvWxJrSB18V1oKBgYrmueamREK57",
-        "price": 0.0005605857,
-        "usd": 13877.72586511554
+        "price": 0.00057937566,
+        "usd": 14342.885632652398
       },
       "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2": {
         "symbol": "MCDx",
         "amount": 0.00706681,
         "contract": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
-        "price": 255.41553,
-        "usd": 1.8049730215592998
+        "price": 254.28282,
+        "usd": 1.7969683752041998
       }
     },
     "solana:31ArrnwYstYjUU1ho44cZ2jNrWV5ehUK5bR37Pnd97at": {
@@ -1340,15 +5337,15 @@
         "symbol": "SOL",
         "amount": 0.00592788,
         "contract": "native",
-        "price": 103.24736785888672,
-        "usd": 0.6120380069833374
+        "price": 103.10420227050781,
+        "usd": 0.6111893385552979
       },
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
         "symbol": "USDC",
         "amount": 0.002,
         "contract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "price": 0.99985945,
-        "usd": 0.0019997189
+        "price": 0.99985766,
+        "usd": 0.00199971532
       }
     }
   }
