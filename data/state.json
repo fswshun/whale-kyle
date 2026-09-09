@@ -1,5 +1,5 @@
 {
-  "run_count": 352,
+  "run_count": 353,
   "last_daily": "2026-09-09",
   "cross_alerted": [],
   "buy_accum": {
@@ -20,6 +20,24 @@
       "note": "09-02T22:42 4225 PONS\u300109-02T22:42 7649 AI\u300109-02T22:42 4.988e+04 MOO",
       "value": 1997.0741843376288,
       "unit": 0.001316
+    },
+    "robinhood:0x385f4f8ae47651ce5f58f5265395a669f8281e18:0x39b337121494b10cffe3e581ab3281b2d62c5b08": {
+      "wallet": "0x39b337121494b10cffe3e581ab3281b2d62c5b08",
+      "chain": "robinhood",
+      "contract": "0x385f4f8ae47651ce5f58f5265395a669f8281e18",
+      "sym": "AMC",
+      "amount": 14788.48541454132,
+      "usd": 984.0258194835794,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1788983055,
+      "last": 1788983055,
+      "runs": 1,
+      "funding": 233395.6535010525,
+      "note": "09-02T22:42 4225 PONS\u300109-02T22:42 7649 AI\u300109-02T22:42 4.988e+04 MOO",
+      "value": 984.0258194835794,
+      "unit": 0.06654
     }
   },
   "last_daily_cut": 1788966000
