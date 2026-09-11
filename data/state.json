@@ -1,26 +1,7 @@
 {
-  "run_count": 534,
+  "run_count": 535,
   "last_daily": "2026-09-10",
   "cross_alerted": [],
-  "buy_accum": {
-    "robinhood:0xbe98b75361935b18d688409424a869a4c3dc7401:0x39b337121494b10cffe3e581ab3281b2d62c5b08": {
-      "wallet": "0x39b337121494b10cffe3e581ab3281b2d62c5b08",
-      "chain": "robinhood",
-      "contract": "0xbe98b75361935b18d688409424a869a4c3dc7401",
-      "sym": "NUDES",
-      "amount": 137622.97207381783,
-      "usd": 1023.5020433129832,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789001754,
-      "last": 1789001754,
-      "runs": 1,
-      "funding": 227285.53017553934,
-      "note": "09-03T01:07 4255 PONS\u300109-03T01:07 7786 AI\u300109-03T01:07 4.376e+04 NUDES",
-      "value": 1023.5020433129832,
-      "unit": 0.007437
-    }
-  },
+  "buy_accum": {},
   "last_daily_cut": 1789052400
 }
