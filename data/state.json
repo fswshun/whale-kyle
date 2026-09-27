@@ -1,7 +1,26 @@
 {
-  "run_count": 3030,
+  "run_count": 3031,
   "last_daily": "2026-09-27",
   "cross_alerted": [],
-  "buy_accum": {},
+  "buy_accum": {
+    "robinhood:0xaf9590b176dbab0eaf2e69fbac36a671a385b473:0x39b337121494b10cffe3e581ab3281b2d62c5b08": {
+      "wallet": "0x39b337121494b10cffe3e581ab3281b2d62c5b08",
+      "chain": "robinhood",
+      "contract": "0xaf9590b176dbab0eaf2e69fbac36a671a385b473",
+      "sym": "INVOKER",
+      "amount": 71157304.9294264,
+      "usd": 1446.6280092152388,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1790542264,
+      "last": 1790542264,
+      "runs": 1,
+      "funding": 314090.0750743381,
+      "note": "09-21T13:21 3517 AI\u300109-21T13:21 3118 PONS\u300109-21T13:21 192.8 IMD",
+      "value": 1446.6280092152388,
+      "unit": 2.033e-05
+    }
+  },
   "last_daily_cut": 1790521200
 }
