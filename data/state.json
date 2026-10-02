@@ -1,7 +1,26 @@
 {
-  "run_count": 3706,
+  "run_count": 3707,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
-  "buy_accum": {},
+  "buy_accum": {
+    "robinhood:0x3a635a98c0a7faf0d36f84cca8419631100276b4:0x39b337121494b10cffe3e581ab3281b2d62c5b08": {
+      "wallet": "0x39b337121494b10cffe3e581ab3281b2d62c5b08",
+      "chain": "robinhood",
+      "contract": "0x3a635a98c0a7faf0d36f84cca8419631100276b4",
+      "sym": "AG",
+      "amount": 86148110.3743947,
+      "usd": 7378.585653566905,
+      "counter_usd": 0.0,
+      "n": 2,
+      "other": {},
+      "first": 1790949707,
+      "last": 1790950047,
+      "runs": 1,
+      "funding": 502551.3645993139,
+      "note": "09-25T21:11 1.258e+04 \u725b\u6765\u300109-25T21:11 4.464e+05 MOO\u300109-25T21:12 5.799e+04 BLUECHIP",
+      "value": 7378.585653566905,
+      "unit": 8.565e-05
+    }
+  },
   "last_daily_cut": 1790866800
 }
