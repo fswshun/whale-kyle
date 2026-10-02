@@ -1,26 +1,7 @@
 {
-  "run_count": 3696,
+  "run_count": 3697,
   "last_daily": "2026-10-01",
   "cross_alerted": [],
-  "buy_accum": {
-    "robinhood:0x160799d9a05e48fe5f3327a799e93977ec0ba8f0:0x39b337121494b10cffe3e581ab3281b2d62c5b08": {
-      "wallet": "0x39b337121494b10cffe3e581ab3281b2d62c5b08",
-      "chain": "robinhood",
-      "contract": "0x160799d9a05e48fe5f3327a799e93977ec0ba8f0",
-      "sym": "STRYKE",
-      "amount": 7124086.33675866,
-      "usd": 478.6673609668144,
-      "counter_usd": 0.0,
-      "n": 2,
-      "other": {},
-      "first": 1790857696,
-      "last": 1790857762,
-      "runs": 1,
-      "funding": 482889.8195176663,
-      "note": "09-25T04:27 2416 PONS\u300109-25T04:27 4515 AI\u300109-25T04:28 1.725e+04 AMC",
-      "value": 478.6673609668144,
-      "unit": 6.719e-05
-    }
-  },
+  "buy_accum": {},
   "last_daily_cut": 1790866800
 }
