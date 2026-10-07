@@ -1,7 +1,26 @@
 {
-  "run_count": 4335,
+  "run_count": 4336,
   "last_daily": "2026-10-06",
   "cross_alerted": [],
-  "buy_accum": {},
+  "buy_accum": {
+    "robinhood:0xc135abcf5b28076db2c29d324894cdb7db542c7c:0x39b337121494b10cffe3e581ab3281b2d62c5b08": {
+      "wallet": "0x39b337121494b10cffe3e581ab3281b2d62c5b08",
+      "chain": "robinhood",
+      "contract": "0xc135abcf5b28076db2c29d324894cdb7db542c7c",
+      "sym": "SIMEME",
+      "amount": 19019706.59944302,
+      "usd": 818.798369106022,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1791332706,
+      "last": 1791332706,
+      "runs": 1,
+      "funding": 198416.65664203343,
+      "note": "09-30T02:13 1.171e+05 AMC\u300109-30T02:13 1.175e+05 AMC\u300109-30T11:11 2.801e+05 MOO",
+      "value": 818.798369106022,
+      "unit": 4.305e-05
+    }
+  },
   "last_daily_cut": 1791298800
 }
